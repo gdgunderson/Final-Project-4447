@@ -1,0 +1,987 @@
+[
+    {
+        "id": "15-Ocean-Ave,-Apt-105,-Winthrop,-MA-02152",
+        "formattedAddress": "15 Ocean Ave, Apt 105, Winthrop, MA 02152",
+        "addressLine1": "15 Ocean Ave",
+        "addressLine2": "Apt 105",
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.373601,
+        "longitude": -70.971457,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1460,
+        "yearBuilt": 1920,
+        "hoa": {
+            "fee": 416
+        },
+        "status": "Active",
+        "price": 549000,
+        "listingType": "Standard",
+        "listedDate": "2024-03-23T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-03-23T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:15:29.452Z",
+        "daysOnMarket": 201,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73215720",
+        "listingAgent": {
+            "name": "Apurva Patel",
+            "phone": "7742173906",
+            "email": "bb954848@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Bostonville Realty",
+            "phone": "7742173906"
+        },
+        "history": {
+            "2024-03-23": {
+                "event": "Sale Listing",
+                "price": 549000,
+                "listingType": "Standard",
+                "listedDate": "2024-03-23T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 201
+            }
+        }
+    },
+    {
+        "id": "40-Seaview-Ave,-Unit-2,-Winthrop,-MA-02152",
+        "formattedAddress": "40 Seaview Ave, Unit 2, Winthrop, MA 02152",
+        "addressLine1": "40 Seaview Ave",
+        "addressLine2": "Unit 2",
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.371919,
+        "longitude": -70.982235,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1724,
+        "yearBuilt": 1910,
+        "hoa": {
+            "fee": 300
+        },
+        "status": "Active",
+        "price": 699900,
+        "listingType": "Standard",
+        "listedDate": "2024-08-05T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-06T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:56:45.639Z",
+        "daysOnMarket": 66,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73273781",
+        "listingAgent": {
+            "name": "Jonathan Ashbridge",
+            "phone": "7816085007",
+            "email": "ashbridgere@gmail.com",
+            "website": "https://linktr.ee/jasellsrealtygroup"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Realty",
+            "phone": "5082385000",
+            "email": "bb911154@mlspin.net",
+            "website": "https://mc326.yourkwoffice.com"
+        },
+        "history": {
+            "2024-08-05": {
+                "event": "Sale Listing",
+                "price": 699900,
+                "listingType": "Standard",
+                "listedDate": "2024-08-05T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 66
+            }
+        }
+    },
+    {
+        "id": "550-Pleasant-St,-Ste-405,-Winthrop,-MA-02152",
+        "formattedAddress": "550 Pleasant St, Ste 405, Winthrop, MA 02152",
+        "addressLine1": "550 Pleasant St",
+        "addressLine2": "Ste 405",
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.380531,
+        "longitude": -70.992086,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1972,
+        "yearBuilt": 2006,
+        "hoa": {
+            "fee": 1236
+        },
+        "status": "Active",
+        "price": 859900,
+        "listingType": "Standard",
+        "listedDate": "2024-07-27T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-04-06T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:56:45.632Z",
+        "daysOnMarket": 75,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73270301",
+        "listingAgent": {
+            "name": "Null The Gbri Team",
+            "phone": "6175926670",
+            "email": "scott@northeasternrg.com"
+        },
+        "listingOffice": {
+            "name": "Northestern Realty Group",
+            "phone": "6175926773"
+        },
+        "history": {
+            "2024-07-27": {
+                "event": "Sale Listing",
+                "price": 859900,
+                "listingType": "Standard",
+                "listedDate": "2024-07-27T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 75
+            }
+        }
+    },
+    {
+        "id": "176-Woodside-Ave,-Winthrop,-MA-02152",
+        "formattedAddress": "176 Woodside Ave, Winthrop, MA 02152",
+        "addressLine1": "176 Woodside Ave",
+        "addressLine2": null,
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.371503,
+        "longitude": -70.985788,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "squareFootage": 2720,
+        "lotSize": 6580,
+        "yearBuilt": 1880,
+        "status": "Active",
+        "price": 949000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-20T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-21T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:28:13.207Z",
+        "daysOnMarket": 51,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73279759",
+        "listingAgent": {
+            "name": "Jessica Witter",
+            "phone": "5087766636",
+            "email": "jessica.witter@compass.com",
+            "website": "http://www.bostoncapecodconnection.com"
+        },
+        "listingOffice": {
+            "name": "COMPASS",
+            "phone": "6172063333",
+            "email": "listings@compass.com"
+        },
+        "history": {
+            "2024-08-20": {
+                "event": "Sale Listing",
+                "price": 949000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-20T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 51
+            }
+        }
+    },
+    {
+        "id": "114-Bowdoin-St,-Unit-114,-Winthrop,-MA-02152",
+        "formattedAddress": "114 Bowdoin St, Unit 114, Winthrop, MA 02152",
+        "addressLine1": "114 Bowdoin St",
+        "addressLine2": "Unit 114",
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.377848,
+        "longitude": -70.981383,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 2054,
+        "lotSize": 6534,
+        "yearBuilt": 1900,
+        "hoa": {
+            "fee": 300
+        },
+        "status": "Active",
+        "price": 689900,
+        "listingType": "Standard",
+        "listedDate": "2024-08-23T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-06T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:28:13.197Z",
+        "daysOnMarket": 48,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73281022",
+        "listingAgent": {
+            "name": "Patricia Nunez",
+            "phone": "9784209098",
+            "email": "realestatedreamers@gmail.com",
+            "website": "https://www.redfin.com/real-estate-agents/patricia-nunez"
+        },
+        "listingOffice": {
+            "name": "Redfin Corp.",
+            "phone": "8779733346",
+            "email": "marketing@redfin.com",
+            "website": "www.redfin.com"
+        },
+        "history": {
+            "2024-08-23": {
+                "event": "Sale Listing",
+                "price": 689900,
+                "listingType": "Standard",
+                "listedDate": "2024-08-23T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 48
+            }
+        }
+    },
+    {
+        "id": "203-Winthrop-Shore-Dr,-Apt-6,-Winthrop,-MA-02152",
+        "formattedAddress": "203 Winthrop Shore Dr, Apt 6, Winthrop, MA 02152",
+        "addressLine1": "203 Winthrop Shore Dr",
+        "addressLine2": "Apt 6",
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.380294,
+        "longitude": -70.97291,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 725,
+        "yearBuilt": 1900,
+        "hoa": {
+            "fee": 452
+        },
+        "status": "Active",
+        "price": 349000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-27T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-07-16T06:13:26.469Z",
+        "lastSeenDate": "2024-10-09T10:28:13.192Z",
+        "daysOnMarket": 44,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73282047",
+        "listingAgent": {
+            "name": "Charles J Roderick",
+            "phone": "8888547493",
+            "email": "charles.roderick@exprealty.com",
+            "website": "http://charlessellsboston.com"
+        },
+        "listingOffice": {
+            "name": "Exp Realty",
+            "phone": "8888547493",
+            "email": "chris.lefebvre@exprealty.com",
+            "website": "www.joinexprealty.com"
+        },
+        "history": {
+            "2024-08-27": {
+                "event": "Sale Listing",
+                "price": 349000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-27T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 44
+            }
+        }
+    },
+    {
+        "id": "35-Seaview-Ave,-Winthrop,-MA-02152",
+        "formattedAddress": "35 Seaview Ave, Winthrop, MA 02152",
+        "addressLine1": "35 Seaview Ave",
+        "addressLine2": null,
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.371685,
+        "longitude": -70.982582,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "squareFootage": 2384,
+        "lotSize": 6465,
+        "yearBuilt": 1957,
+        "status": "Active",
+        "price": 765000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-27T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-28T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:28:13.192Z",
+        "daysOnMarket": 44,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73282231",
+        "listingAgent": {
+            "name": "The Reference Group",
+            "email": "tm341573@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Reference Real Estate",
+            "phone": "7813420052"
+        },
+        "history": {
+            "2024-08-27": {
+                "event": "Sale Listing",
+                "price": 765000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-27T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 44
+            }
+        }
+    },
+    {
+        "id": "158-Shirley-St,-Unit-1,-Winthrop,-MA-02152",
+        "formattedAddress": "158 Shirley St, Unit 1, Winthrop, MA 02152",
+        "addressLine1": "158 Shirley St",
+        "addressLine2": "Unit 1",
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.380703,
+        "longitude": -70.974632,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 700,
+        "yearBuilt": 1920,
+        "hoa": {
+            "fee": 273
+        },
+        "status": "Active",
+        "price": 475000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-28T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:28:13.191Z",
+        "daysOnMarket": 43,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73282324",
+        "listingAgent": {
+            "name": "Leighann Eruzione",
+            "phone": "6177994810",
+            "email": "leighann@lanternresidential.com",
+            "website": "https://www.lanternresidential.com/agent/leighann_eruzione/8519474"
+        },
+        "listingOffice": {
+            "name": "Lantern Residential",
+            "phone": "6172071974"
+        },
+        "history": {
+            "2024-08-28": {
+                "event": "Sale Listing",
+                "price": 475000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 43
+            }
+        }
+    },
+    {
+        "id": "203-Winthrop-Shore-Dr,-Apt-8,-Winthrop,-MA-02152",
+        "formattedAddress": "203 Winthrop Shore Dr, Apt 8, Winthrop, MA 02152",
+        "addressLine1": "203 Winthrop Shore Dr",
+        "addressLine2": "Apt 8",
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.380294,
+        "longitude": -70.97291,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 764,
+        "yearBuilt": 1900,
+        "hoa": {
+            "fee": 442
+        },
+        "status": "Active",
+        "price": 349000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-29T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-07-16T06:13:26.457Z",
+        "lastSeenDate": "2024-10-09T10:14:29.546Z",
+        "daysOnMarket": 42,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73282830",
+        "listingAgent": {
+            "name": "Charles J Roderick",
+            "phone": "8888547493",
+            "email": "charles.roderick@exprealty.com",
+            "website": "http://charlessellsboston.com"
+        },
+        "listingOffice": {
+            "name": "Exp Realty",
+            "phone": "8888547493",
+            "email": "chris.lefebvre@exprealty.com",
+            "website": "www.joinexprealty.com"
+        },
+        "history": {
+            "2024-08-29": {
+                "event": "Sale Listing",
+                "price": 349000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-29T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 42
+            }
+        }
+    },
+    {
+        "id": "19-Moore-St,-Winthrop,-MA-02152",
+        "formattedAddress": "19 Moore St, Winthrop, MA 02152",
+        "addressLine1": "19 Moore St",
+        "addressLine2": null,
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.370256,
+        "longitude": -70.969819,
+        "propertyType": "Multi-Family",
+        "bedrooms": 5,
+        "bathrooms": 2.5,
+        "squareFootage": 2212,
+        "lotSize": 2600,
+        "yearBuilt": 1890,
+        "status": "Active",
+        "price": 885000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-10T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-11T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:02:18.138Z",
+        "daysOnMarket": 30,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73288054",
+        "listingAgent": {
+            "name": "Erica Gore",
+            "phone": "6178461020",
+            "email": "erica.e.gore@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Century 21 Seaport",
+            "phone": "6178461020",
+            "email": "thomas.mario@century21.com"
+        },
+        "history": {
+            "2024-09-10": {
+                "event": "Sale Listing",
+                "price": 885000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-10T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 30
+            }
+        }
+    },
+    {
+        "id": "46-Wave-Way,-Winthrop,-MA-02152",
+        "formattedAddress": "46 Wave Way, Winthrop, MA 02152",
+        "addressLine1": "46 Wave Way",
+        "addressLine2": null,
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.377533,
+        "longitude": -70.972768,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1.5,
+        "squareFootage": 2064,
+        "lotSize": 5000,
+        "yearBuilt": 1880,
+        "status": "Active",
+        "price": 925000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-12T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:48:16.034Z",
+        "daysOnMarket": 29,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73288764",
+        "listingAgent": {
+            "name": "Mark Sciaraffa",
+            "phone": "6178461020",
+            "email": "msciaraffa1@partners.org"
+        },
+        "listingOffice": {
+            "name": "Sciaraffa Real Estate, LLC",
+            "phone": "6179979162"
+        },
+        "history": {
+            "2024-09-11": {
+                "event": "Sale Listing",
+                "price": 925000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 29
+            }
+        }
+    },
+    {
+        "id": "20-S-Main-St,-Winthrop,-MA-02152",
+        "formattedAddress": "20 S Main St, Winthrop, MA 02152",
+        "addressLine1": "20 S Main St",
+        "addressLine2": null,
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.379864,
+        "longitude": -70.980278,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "squareFootage": 1214,
+        "lotSize": 4291,
+        "yearBuilt": 1850,
+        "status": "Active",
+        "price": 695000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-18T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:48:15.967Z",
+        "daysOnMarket": 23,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73291007",
+        "listingAgent": {
+            "name": "Joseph Young",
+            "phone": "7818563143",
+            "email": "ct007397@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Century 21 Seaport",
+            "phone": "6178461020",
+            "email": "thomas.mario@century21.com"
+        },
+        "history": {
+            "2024-09-17": {
+                "event": "Sale Listing",
+                "price": 695000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 23
+            }
+        }
+    },
+    {
+        "id": "20-Taylor-St,-Winthrop,-MA-02152",
+        "formattedAddress": "20 Taylor St, Winthrop, MA 02152",
+        "addressLine1": "20 Taylor St",
+        "addressLine2": null,
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.382433,
+        "longitude": -70.98185,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1.5,
+        "squareFootage": 1365,
+        "lotSize": 5450,
+        "yearBuilt": 1957,
+        "status": "Active",
+        "price": 599000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-20T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-21T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:47:19.745Z",
+        "daysOnMarket": 20,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73292959",
+        "listingAgent": {
+            "name": "David Christensen",
+            "phone": "6037141144",
+            "email": "david.christensen@exprealty.com",
+            "website": "https://nh.exprealty.com/agents/1054510/david+christensen"
+        },
+        "listingOffice": {
+            "name": "Exp Realty",
+            "phone": "8888547493",
+            "email": "chris.lefebvre@exprealty.com",
+            "website": "www.joinexprealty.com"
+        },
+        "history": {
+            "2024-09-20": {
+                "event": "Sale Listing",
+                "price": 599000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-20T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 20
+            }
+        }
+    },
+    {
+        "id": "3-Buckthorn-Ter,-Unit-2,-Winthrop,-MA-02152",
+        "formattedAddress": "3 Buckthorn Ter, Unit 2, Winthrop, MA 02152",
+        "addressLine1": "3 Buckthorn Ter",
+        "addressLine2": "Unit 2",
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.37355,
+        "longitude": -70.982834,
+        "propertyType": "Condo",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 1870,
+        "yearBuilt": 1900,
+        "hoa": {
+            "fee": 344
+        },
+        "status": "Active",
+        "price": 799000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-20T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:47:19.735Z",
+        "daysOnMarket": 21,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73292231",
+        "listingAgent": {
+            "name": "Elizabeth Ferrara",
+            "phone": "7817187094",
+            "email": "eferrara21@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Cottage Hill Real Estate",
+            "phone": "6178469900"
+        },
+        "history": {
+            "2024-09-19": {
+                "event": "Sale Listing",
+                "price": 799000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 21
+            }
+        }
+    },
+    {
+        "id": "9-Dolphin-Ave,-Winthrop,-MA-02152",
+        "formattedAddress": "9 Dolphin Ave, Winthrop, MA 02152",
+        "addressLine1": "9 Dolphin Ave",
+        "addressLine2": null,
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.375705,
+        "longitude": -70.97304,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 2266,
+        "lotSize": 4500,
+        "yearBuilt": 1920,
+        "status": "Active",
+        "price": 899900,
+        "listingType": "Standard",
+        "listedDate": "2024-09-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-07-06T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:47:19.718Z",
+        "daysOnMarket": 21,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73292308",
+        "listingAgent": {
+            "name": "Highland Group",
+            "phone": "6178468000",
+            "email": "tm335462@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "COMPASS",
+            "phone": "6172063333",
+            "email": "listings@compass.com"
+        },
+        "history": {
+            "2024-09-19": {
+                "event": "Sale Listing",
+                "price": 899900,
+                "listingType": "Standard",
+                "listedDate": "2024-09-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 21
+            }
+        }
+    },
+    {
+        "id": "35-Plummer-Ave,-Winthrop,-MA-02152",
+        "formattedAddress": "35 Plummer Ave, Winthrop, MA 02152",
+        "addressLine1": "35 Plummer Ave",
+        "addressLine2": null,
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.371788,
+        "longitude": -70.985707,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1315,
+        "lotSize": 2838,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 625000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-20T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-21T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:47:19.702Z",
+        "daysOnMarket": 20,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73292907",
+        "listingAgent": {
+            "name": "Highland Group",
+            "phone": "6178468000",
+            "email": "tm335462@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "COMPASS",
+            "phone": "6172063333",
+            "email": "listings@compass.com"
+        },
+        "history": {
+            "2024-09-20": {
+                "event": "Sale Listing",
+                "price": 625000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-20T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 20
+            }
+        }
+    },
+    {
+        "id": "43-Sagamore-Ave,-Unit-1,-Winthrop,-MA-02152",
+        "formattedAddress": "43 Sagamore Ave, Unit 1, Winthrop, MA 02152",
+        "addressLine1": "43 Sagamore Ave",
+        "addressLine2": "Unit 1",
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.38479,
+        "longitude": -70.975998,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 804,
+        "yearBuilt": 1950,
+        "hoa": {
+            "fee": 185
+        },
+        "status": "Active",
+        "price": 474900,
+        "listingType": "Standard",
+        "listedDate": "2024-10-02T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-08-11T09:50:14.893Z",
+        "lastSeenDate": "2024-10-09T08:28:34.218Z",
+        "daysOnMarket": 8,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73297223",
+        "listingAgent": {
+            "name": "Ethan Forrest",
+            "phone": "9782396418",
+            "email": "ethan.forrest@compass.com",
+            "website": "http://forresthomesre.com"
+        },
+        "listingOffice": {
+            "name": "The Aland Realty Group LLC",
+            "phone": "6035010463"
+        },
+        "history": {
+            "2024-10-02": {
+                "event": "Sale Listing",
+                "price": 474900,
+                "listingType": "Standard",
+                "listedDate": "2024-10-02T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 8
+            }
+        }
+    },
+    {
+        "id": "47-Tileston-Rd,-Unit-47,-Winthrop,-MA-02152",
+        "formattedAddress": "47 Tileston Rd, Unit 47, Winthrop, MA 02152",
+        "addressLine1": "47 Tileston Rd",
+        "addressLine2": "Unit 47",
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.380171,
+        "longitude": -70.990041,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 1980,
+        "yearBuilt": 2021,
+        "hoa": {
+            "fee": 212
+        },
+        "status": "Active",
+        "price": 779000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-02T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-03T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:28:34.177Z",
+        "daysOnMarket": 8,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73297281",
+        "listingAgent": {
+            "name": "Null Sabrina Carr Group",
+            "phone": "7817752895"
+        },
+        "listingOffice": {
+            "name": "William Raveis R.E. & Home Services"
+        },
+        "history": {
+            "2024-10-02": {
+                "event": "Sale Listing",
+                "price": 779000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-02T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 8
+            }
+        }
+    },
+    {
+        "id": "247-Washington-Ave,-Apt-8,-Winthrop,-MA-02152",
+        "formattedAddress": "247 Washington Ave, Apt 8, Winthrop, MA 02152",
+        "addressLine1": "247 Washington Ave",
+        "addressLine2": "Apt 8",
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.372118,
+        "longitude": -70.971841,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1008,
+        "yearBuilt": 1972,
+        "hoa": {
+            "fee": 451
+        },
+        "status": "Active",
+        "price": 484999,
+        "listingType": "Standard",
+        "listedDate": "2024-10-02T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-03T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:28:34.128Z",
+        "daysOnMarket": 8,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73297566",
+        "listingAgent": {
+            "name": "Dan Clucas",
+            "phone": "6175487716",
+            "email": "cn231459@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Reference Real Estate",
+            "phone": "7813420052"
+        },
+        "history": {
+            "2024-10-02": {
+                "event": "Sale Listing",
+                "price": 484999,
+                "listingType": "Standard",
+                "listedDate": "2024-10-02T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 8
+            }
+        }
+    },
+    {
+        "id": "35-Somerset-Ave,-Unit-6,-Winthrop,-MA-02152",
+        "formattedAddress": "35 Somerset Ave, Unit 6, Winthrop, MA 02152",
+        "addressLine1": "35 Somerset Ave",
+        "addressLine2": "Unit 6",
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.375053,
+        "longitude": -70.988037,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 823,
+        "yearBuilt": 1900,
+        "hoa": {
+            "fee": 158
+        },
+        "status": "Active",
+        "price": 599000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-08-15T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T07:46:36.099Z",
+        "daysOnMarket": 2,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73299675",
+        "listingAgent": {
+            "name": "John Maggio",
+            "phone": "5856839218",
+            "email": "john@evoboston.com"
+        },
+        "listingOffice": {
+            "name": "EVO Real Estate Group, LLC",
+            "phone": "6175179755"
+        },
+        "history": {
+            "2024-10-08": {
+                "event": "Sale Listing",
+                "price": 599000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 2
+            }
+        }
+    }
+]
