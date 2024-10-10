@@ -1,0 +1,883 @@
+[
+    {
+        "id": "10-Waterloo-St,-Boston,-MA-02136",
+        "formattedAddress": "10 Waterloo St, Boston, MA 02136",
+        "addressLine1": "10 Waterloo St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02136",
+        "county": "Suffolk",
+        "latitude": 42.2435,
+        "longitude": -71.132912,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 4738,
+        "lotSize": 5555,
+        "yearBuilt": 2005,
+        "status": "Active",
+        "price": 999999,
+        "listingType": "Standard",
+        "listedDate": "2024-06-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-28T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:57:40.913Z",
+        "daysOnMarket": 104,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73258493",
+        "listingAgent": {
+            "name": "Orlando Cruz",
+            "phone": "8572032091",
+            "email": "cn247472@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Orlando Cruz Realty",
+            "phone": "8577284341"
+        },
+        "history": {
+            "2024-06-28": {
+                "event": "Sale Listing",
+                "price": 999999,
+                "listingType": "Standard",
+                "listedDate": "2024-06-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 104
+            }
+        }
+    },
+    {
+        "id": "1391-Hyde-Park-Ave-Ste-G,-Boston,-MA-02136",
+        "formattedAddress": "1391 Hyde Park Ave Ste G, Boston, MA 02136",
+        "addressLine1": "1391 Hyde Park Ave Ste G",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02136",
+        "county": "Suffolk",
+        "latitude": 42.251129,
+        "longitude": -71.126021,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 1754,
+        "yearBuilt": 1900,
+        "hoa": {
+            "fee": 503
+        },
+        "status": "Active",
+        "price": 615000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-13T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-04-28T12:38:34.666Z",
+        "lastSeenDate": "2024-10-09T10:28:13.337Z",
+        "daysOnMarket": 58,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73276944",
+        "listingAgent": {
+            "name": "The Roxbury Collaborative Group"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty - Dorchester",
+            "phone": "6176964430"
+        },
+        "history": {
+            "2024-08-13": {
+                "event": "Sale Listing",
+                "price": 615000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-13T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 58
+            }
+        }
+    },
+    {
+        "id": "89-Durham-Rd,-Unit-89,-Dedham,-MA-02026",
+        "formattedAddress": "89 Durham Rd, Unit 89, Dedham, MA 02026",
+        "addressLine1": "89 Durham Rd",
+        "addressLine2": "Unit 89",
+        "city": "Dedham",
+        "state": "MA",
+        "zipCode": "02026",
+        "county": "Norfolk",
+        "latitude": 42.230658,
+        "longitude": -71.137649,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "squareFootage": 1340,
+        "yearBuilt": 1973,
+        "hoa": {
+            "fee": 551
+        },
+        "status": "Active",
+        "price": 405000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-14T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-15T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:27:06.298Z",
+        "daysOnMarket": 57,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73277499",
+        "listingAgent": {
+            "name": "Kaye Karpovich",
+            "phone": "6179351802",
+            "email": "krealtor89@gmail.com",
+            "website": "www.sellinghouses.estate"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty - Needham",
+            "phone": "7814447400",
+            "email": "erica.rice@nemoves.com"
+        },
+        "history": {
+            "2024-08-14": {
+                "event": "Sale Listing",
+                "price": 405000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-14T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 57
+            }
+        }
+    },
+    {
+        "id": "31-Leominster-Rd,-Dedham,-MA-02026",
+        "formattedAddress": "31 Leominster Rd, Dedham, MA 02026",
+        "addressLine1": "31 Leominster Rd",
+        "addressLine2": null,
+        "city": "Dedham",
+        "state": "MA",
+        "zipCode": "02026",
+        "county": "Norfolk",
+        "latitude": 42.229793,
+        "longitude": -71.138467,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 2376,
+        "lotSize": 7999,
+        "yearBuilt": 1973,
+        "status": "Active",
+        "price": 799800,
+        "listingType": "Standard",
+        "listedDate": "2024-08-30T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-31T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:27:06.212Z",
+        "daysOnMarket": 41,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73283243",
+        "listingAgent": {
+            "name": "John Allaire",
+            "phone": "5082308600",
+            "email": "johnallaire@eastonrealestate.com",
+            "website": "http://eastonrealestate.com/allaire autobio.htm"
+        },
+        "listingOffice": {
+            "name": "Easton Real Estate",
+            "phone": "5082308600",
+            "email": "realtorcom@eastonrealestate.com",
+            "website": "http://www.eastonrealestate.com"
+        },
+        "history": {
+            "2024-08-30": {
+                "event": "Sale Listing",
+                "price": 799800,
+                "listingType": "Standard",
+                "listedDate": "2024-08-30T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 41
+            }
+        }
+    },
+    {
+        "id": "8-Ernest-Ave,-Boston,-MA-02136",
+        "formattedAddress": "8 Ernest Ave, Boston, MA 02136",
+        "addressLine1": "8 Ernest Ave",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02136",
+        "county": "Suffolk",
+        "latitude": 42.241408,
+        "longitude": -71.143518,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 2064,
+        "lotSize": 4986,
+        "yearBuilt": 1920,
+        "status": "Active",
+        "price": 755000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-05T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-06T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:02:18.198Z",
+        "daysOnMarket": 35,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73285993",
+        "listingAgent": {
+            "name": "Null Thoman Team"
+        },
+        "listingOffice": {
+            "name": "COMPASS",
+            "phone": "6172063333",
+            "email": "listings@compass.com"
+        },
+        "history": {
+            "2024-09-05": {
+                "event": "Sale Listing",
+                "price": 755000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-05T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 35
+            }
+        }
+    },
+    {
+        "id": "4-Garfield-Ave,-Unit-2,-Boston,-MA-02136",
+        "formattedAddress": "4 Garfield Ave, Unit 2, Boston, MA 02136",
+        "addressLine1": "4 Garfield Ave",
+        "addressLine2": "Unit 2",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02136",
+        "county": "Suffolk",
+        "latitude": 42.248169,
+        "longitude": -71.122513,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1254,
+        "yearBuilt": 1910,
+        "hoa": {
+            "fee": 188
+        },
+        "status": "Active",
+        "price": 535000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-06T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-06T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:02:18.189Z",
+        "daysOnMarket": 34,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73286273",
+        "listingAgent": {
+            "name": "Masha Senderovich",
+            "phone": "7813300152",
+            "email": "ct002237@mlspin.net",
+            "website": "http://www.homesbymasha.com"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Realty - Chestnut Hill",
+            "phone": "6179699000",
+            "email": "klrw730@kw.com",
+            "website": "http://chestnuthill.yourkwoffice.com"
+        },
+        "history": {
+            "2024-09-06": {
+                "event": "Sale Listing",
+                "price": 535000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-06T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 34
+            }
+        }
+    },
+    {
+        "id": "192-Dana-Ave,-Boston,-MA-02136",
+        "formattedAddress": "192 Dana Ave, Boston, MA 02136",
+        "addressLine1": "192 Dana Ave",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02136",
+        "county": "Suffolk",
+        "latitude": 42.246519,
+        "longitude": -71.118489,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1712,
+        "lotSize": 4550,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 724900,
+        "listingType": "Standard",
+        "listedDate": "2024-09-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-19T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:47:19.802Z",
+        "daysOnMarket": 22,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73291755",
+        "listingAgent": {
+            "name": "Helen Tarantino",
+            "phone": "6177924277",
+            "email": "helen@srrcityside.com",
+            "website": "http://srrcityside.com"
+        },
+        "listingOffice": {
+            "name": "Shore Road Realty - Cityside",
+            "phone": "6177924277"
+        },
+        "history": {
+            "2024-09-18": {
+                "event": "Sale Listing",
+                "price": 724900,
+                "listingType": "Standard",
+                "listedDate": "2024-09-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 22
+            }
+        }
+    },
+    {
+        "id": "7-Williams-Ave,-Dedham,-MA-02026",
+        "formattedAddress": "7 Williams Ave, Dedham, MA 02026",
+        "addressLine1": "7 Williams Ave",
+        "addressLine2": null,
+        "city": "Dedham",
+        "state": "MA",
+        "zipCode": "02026",
+        "county": "Norfolk",
+        "latitude": 42.237749,
+        "longitude": -71.147109,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1625,
+        "lotSize": 4600,
+        "yearBuilt": 1910,
+        "status": "Active",
+        "price": 629000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-10T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-02-02T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:39:32.290Z",
+        "daysOnMarket": 30,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73287515",
+        "listingAgent": {
+            "name": "Delores Facey",
+            "phone": "6178334421",
+            "email": "delores@ursboston.com",
+            "website": "http://www.ursboston.com"
+        },
+        "listingOffice": {
+            "name": "NextHome Unlimited Realty Solutions",
+            "phone": "6178336880",
+            "email": "delores@ursboston.com"
+        },
+        "history": {
+            "2024-09-10": {
+                "event": "Sale Listing",
+                "price": 629000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-10T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 30
+            }
+        }
+    },
+    {
+        "id": "115-Crane-St,-Dedham,-MA-02026",
+        "formattedAddress": "115 Crane St, Dedham, MA 02026",
+        "addressLine1": "115 Crane St",
+        "addressLine2": null,
+        "city": "Dedham",
+        "state": "MA",
+        "zipCode": "02026",
+        "county": "Norfolk",
+        "latitude": 42.234677,
+        "longitude": -71.146847,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1224,
+        "lotSize": 6164,
+        "yearBuilt": 1949,
+        "status": "Active",
+        "price": 649000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-18T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:32:35.991Z",
+        "daysOnMarket": 23,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73290913",
+        "listingAgent": {
+            "name": "Alan Watson",
+            "phone": "5085247826",
+            "email": "a8000613@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "PLYMOUTH VILLAGE, INC.",
+            "phone": "5087464540",
+            "email": "a0000589@mlspin.net",
+            "website": "http://www.plymouthvillage.com"
+        },
+        "history": {
+            "2024-09-17": {
+                "event": "Sale Listing",
+                "price": 649000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 23
+            }
+        }
+    },
+    {
+        "id": "116-Milton-St,-Unit-231,-Dedham,-MA-02026",
+        "formattedAddress": "116 Milton St, Unit 231, Dedham, MA 02026",
+        "addressLine1": "116 Milton St",
+        "addressLine2": "Unit 231",
+        "city": "Dedham",
+        "state": "MA",
+        "zipCode": "02026",
+        "county": "Norfolk",
+        "latitude": 42.245049,
+        "longitude": -71.151337,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2.5,
+        "squareFootage": 1739,
+        "yearBuilt": 1987,
+        "hoa": {
+            "fee": 1132
+        },
+        "status": "Active",
+        "price": 475000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-03-31T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:23:36.169Z",
+        "daysOnMarket": 15,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73294518",
+        "listingAgent": {
+            "name": "Denman Drapkin Group",
+            "phone": "6176977462",
+            "email": "bb904254@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "COMPASS",
+            "phone": "6173030067",
+            "email": "info@compass.com"
+        },
+        "history": {
+            "2024-09-25": {
+                "event": "Sale Listing",
+                "price": 475000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 15
+            }
+        }
+    },
+    {
+        "id": "1799-River-St,-Unit-2,-Boston,-MA-02136",
+        "formattedAddress": "1799 River St, Unit 2, Boston, MA 02136",
+        "addressLine1": "1799 River St",
+        "addressLine2": "Unit 2",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02136",
+        "county": "Suffolk",
+        "latitude": 42.243991,
+        "longitude": -71.138714,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1154,
+        "lotSize": 4560,
+        "yearBuilt": 1890,
+        "hoa": {
+            "fee": 280
+        },
+        "status": "Active",
+        "price": 569000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-10-17T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T07:46:36.167Z",
+        "daysOnMarket": 7,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73298206",
+        "listingAgent": {
+            "name": "Lisa Batista",
+            "phone": "6173359933",
+            "email": "cn226516@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "EVO Real Estate Group, LLC",
+            "phone": "6175179755"
+        },
+        "history": {
+            "2024-10-03": {
+                "event": "Sale Listing",
+                "price": 569000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 7
+            }
+        }
+    },
+    {
+        "id": "243-Neponset-Valley-Pkwy,-Unit-243,-Boston,-MA-02136",
+        "formattedAddress": "243 Neponset Valley Pkwy, Unit 243, Boston, MA 02136",
+        "addressLine1": "243 Neponset Valley Pkwy",
+        "addressLine2": "Unit 243",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02136",
+        "county": "Suffolk",
+        "latitude": 42.236217,
+        "longitude": -71.128876,
+        "propertyType": "Condo",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 2077,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 250
+        },
+        "status": "Active",
+        "price": 899000,
+        "listingType": "New Construction",
+        "listedDate": "2024-10-02T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-03T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T07:46:36.154Z",
+        "daysOnMarket": 8,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73297835",
+        "listingAgent": {
+            "name": "Brian Clinton",
+            "phone": "6178283035",
+            "email": "brian@donahuere.com",
+            "website": "http://www.donahuere.com/"
+        },
+        "listingOffice": {
+            "name": "Donahue Real Estate Co.",
+            "phone": "7812510080",
+            "email": "jay@donahuere.com",
+            "website": "donahuere.com"
+        },
+        "history": {
+            "2024-10-02": {
+                "event": "Sale Listing",
+                "price": 899000,
+                "listingType": "New Construction",
+                "listedDate": "2024-10-02T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 8
+            }
+        }
+    },
+    {
+        "id": "4-A-Adams-St,-Boston,-MA-02136",
+        "formattedAddress": "4-A Adams St, Boston, MA 02136",
+        "addressLine1": "4-A Adams St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02136",
+        "county": "Suffolk",
+        "latitude": 42.252806,
+        "longitude": -71.129355,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 3.5,
+        "squareFootage": 3170,
+        "lotSize": 6100,
+        "yearBuilt": 2024,
+        "status": "Active",
+        "price": 1199000,
+        "listingType": "New Construction",
+        "listedDate": "2024-10-04T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-05T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T07:46:36.114Z",
+        "daysOnMarket": 6,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73298834",
+        "listingAgent": {
+            "name": "Pat Tierney",
+            "phone": "6173616400",
+            "email": "realtor_yf1203bc0@propertypulse.z57.com",
+            "website": "http://tierneyrg.com"
+        },
+        "listingOffice": {
+            "name": "Insight Realty Group, Inc.",
+            "phone": "6173616400"
+        },
+        "history": {
+            "2024-10-04": {
+                "event": "Sale Listing",
+                "price": 1199000,
+                "listingType": "New Construction",
+                "listedDate": "2024-10-04T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 6
+            }
+        }
+    },
+    {
+        "id": "9-Church-St,-Boston,-MA-02136",
+        "formattedAddress": "9 Church St, Boston, MA 02136",
+        "addressLine1": "9 Church St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02136",
+        "county": "Suffolk",
+        "latitude": 42.248978,
+        "longitude": -71.131813,
+        "propertyType": "Multi-Family",
+        "bedrooms": 6,
+        "bathrooms": 3.5,
+        "squareFootage": 3498,
+        "lotSize": 5663,
+        "yearBuilt": 1910,
+        "status": "Active",
+        "price": 1100000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-07T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-08T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T07:46:36.101Z",
+        "daysOnMarket": 3,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73299597",
+        "listingAgent": {
+            "name": "Tony Fernand",
+            "phone": "6174694040",
+            "email": "tonfer@aol.com"
+        },
+        "listingOffice": {
+            "name": "Greater Boston Realty",
+            "phone": "6174694040",
+            "email": "alisaanna8@att.net"
+        },
+        "history": {
+            "2024-10-07": {
+                "event": "Sale Listing",
+                "price": 1100000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-07T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 3
+            }
+        }
+    },
+    {
+        "id": "143-River-St,-Unit-1,-Dedham,-MA-02026",
+        "formattedAddress": "143 River St, Unit 1, Dedham, MA 02026",
+        "addressLine1": "143 River St",
+        "addressLine2": "Unit 1",
+        "city": "Dedham",
+        "state": "MA",
+        "zipCode": "02026",
+        "county": "Norfolk",
+        "latitude": 42.24189,
+        "longitude": -71.150753,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 902,
+        "yearBuilt": 1937,
+        "status": "Active",
+        "price": 425000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-29T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T06:34:15.381Z",
+        "daysOnMarket": 12,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73296074",
+        "listingAgent": {
+            "name": "The Watson Team",
+            "phone": "6179215918",
+            "email": "joewatsonrealtor@gmail.com",
+            "website": "http://www.watsonhomesteam.com"
+        },
+        "listingOffice": {
+            "name": "RE/MAX Way",
+            "phone": "7813265855",
+            "email": "info@watsonhomesfinder.biz",
+            "website": "http://www.thiswayhome.com"
+        },
+        "history": {
+            "2024-09-28": {
+                "event": "Sale Listing",
+                "price": 425000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 12
+            }
+        }
+    },
+    {
+        "id": "64-Fleming-St,-Dedham,-MA-02026",
+        "formattedAddress": "64 Fleming St, Dedham, MA 02026",
+        "addressLine1": "64 Fleming St",
+        "addressLine2": null,
+        "city": "Dedham",
+        "state": "MA",
+        "zipCode": "02026",
+        "county": "Norfolk",
+        "latitude": 42.248957,
+        "longitude": -71.148484,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 1100,
+        "lotSize": 6000,
+        "yearBuilt": 1960,
+        "status": "Active",
+        "price": 519999,
+        "listingType": "Standard",
+        "listedDate": "2024-10-02T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-03T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T06:34:15.307Z",
+        "daysOnMarket": 8,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73297607",
+        "listingAgent": {
+            "name": "Kevin Leonard",
+            "phone": "7813556699",
+            "email": "kevin@findyouraccess.com",
+            "website": "https://www.thebostonrealestateprofessional.com/"
+        },
+        "listingOffice": {
+            "name": "Access",
+            "phone": "6178258000"
+        },
+        "history": {
+            "2024-10-02": {
+                "event": "Sale Listing",
+                "price": 519999,
+                "listingType": "Standard",
+                "listedDate": "2024-10-02T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 8
+            }
+        }
+    },
+    {
+        "id": "19-Hooper-Rd,-Dedham,-MA-02026",
+        "formattedAddress": "19 Hooper Rd, Dedham, MA 02026",
+        "addressLine1": "19 Hooper Rd",
+        "addressLine2": null,
+        "city": "Dedham",
+        "state": "MA",
+        "zipCode": "02026",
+        "county": "Norfolk",
+        "latitude": 42.229975,
+        "longitude": -71.141707,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 2100,
+        "lotSize": 5000,
+        "yearBuilt": 2024,
+        "status": "Active",
+        "price": 1179000,
+        "listingType": "New Construction",
+        "listedDate": "2024-10-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-04T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T06:17:51.812Z",
+        "daysOnMarket": 7,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73298032",
+        "listingAgent": {
+            "name": "John Bethoney",
+            "phone": "7818447741",
+            "email": "johnbethoney@discoverproperties.com",
+            "website": "http://www.discoverproperties.com"
+        },
+        "listingOffice": {
+            "name": "Discover Properties",
+            "phone": "7813261800",
+            "email": "johnbethoney@discoverproperties.com",
+            "website": "www.discoverproperties.com"
+        },
+        "history": {
+            "2024-10-03": {
+                "event": "Sale Listing",
+                "price": 1179000,
+                "listingType": "New Construction",
+                "listedDate": "2024-10-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 7
+            }
+        }
+    },
+    {
+        "id": "1501-River-St,-Boston,-MA-02136",
+        "formattedAddress": "1501 River St, Boston, MA 02136",
+        "addressLine1": "1501 River St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02136",
+        "county": "Suffolk",
+        "latitude": 42.250603,
+        "longitude": -71.131198,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1463,
+        "lotSize": 5257,
+        "yearBuilt": 1910,
+        "status": "Active",
+        "price": 589000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-20T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-09-15T19:28:59.359Z",
+        "lastSeenDate": "2024-10-08T08:20:02.687Z",
+        "daysOnMarket": 19,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73292826",
+        "listingAgent": {
+            "name": "Guerns Bernadeau",
+            "phone": "6175904527",
+            "email": "bb805361@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Dependable Realty Group, Llc",
+            "phone": "7819861157"
+        },
+        "history": {
+            "2024-09-20": {
+                "event": "Sale Listing",
+                "price": 589000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-20T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 19
+            }
+        }
+    }
+]

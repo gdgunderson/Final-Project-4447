@@ -1,0 +1,1717 @@
+[
+    {
+        "id": "950-Broadway,-Apt-24,-Chelsea,-MA-02150",
+        "formattedAddress": "950 Broadway, Apt 24, Chelsea, MA 02150",
+        "addressLine1": "950 Broadway",
+        "addressLine2": "Apt 24",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.401711,
+        "longitude": -71.02053,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 1316,
+        "yearBuilt": 2008,
+        "hoa": {
+            "fee": 396
+        },
+        "status": "Active",
+        "price": 524900,
+        "listingType": "Standard",
+        "listedDate": "2024-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-03-20T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:15:29.456Z",
+        "daysOnMarket": 205,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73213971",
+        "listingAgent": {
+            "name": "Christopher Cassidy",
+            "phone": "9782384699",
+            "email": "chris@chriscassidyrealestate.com",
+            "website": "http://www.searchforbostonhomes.com"
+        },
+        "listingOffice": {
+            "name": "eXp Realty",
+            "phone": "8888547493"
+        },
+        "history": {
+            "2024-03-19": {
+                "event": "Sale Listing",
+                "price": 524900,
+                "listingType": "Standard",
+                "listedDate": "2024-03-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 205
+            }
+        }
+    },
+    {
+        "id": "751-Broadway,-Chelsea,-MA-02150",
+        "formattedAddress": "751 Broadway, Chelsea, MA 02150",
+        "addressLine1": "751 Broadway",
+        "addressLine2": null,
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.396801,
+        "longitude": -71.026627,
+        "propertyType": "Multi-Family",
+        "bedrooms": 14,
+        "bathrooms": 8,
+        "squareFootage": 5515,
+        "lotSize": 3120,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 2150000,
+        "listingType": "Standard",
+        "listedDate": "2024-04-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-04-27T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:15:29.397Z",
+        "daysOnMarket": 167,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73229336",
+        "listingAgent": {
+            "name": "Walace Nogueira",
+            "phone": "6177809748",
+            "email": "bb804640@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Fellsway Realty, LLC",
+            "phone": "6177809748"
+        },
+        "history": {
+            "2024-04-26": {
+                "event": "Sale Listing",
+                "price": 2150000,
+                "listingType": "Standard",
+                "listedDate": "2024-04-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 167
+            }
+        }
+    },
+    {
+        "id": "60-Dudley-St,-Apt-226,-Chelsea,-MA-02150",
+        "formattedAddress": "60 Dudley St, Apt 226, Chelsea, MA 02150",
+        "addressLine1": "60 Dudley St",
+        "addressLine2": "Apt 226",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.398886,
+        "longitude": -71.021741,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 1028,
+        "yearBuilt": 1919,
+        "hoa": {
+            "fee": 438
+        },
+        "status": "Active",
+        "price": 499000,
+        "listingType": "Standard",
+        "listedDate": "2024-04-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-04-17T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:15:29.397Z",
+        "daysOnMarket": 177,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73224262",
+        "listingAgent": {
+            "name": "The Reardon Team",
+            "phone": "6175131863",
+            "email": "thereardonteam@raveis.com",
+            "website": "http://thereardonteam.raveis.com"
+        },
+        "listingOffice": {
+            "name": "William Raveis Real Estate - Boston - Back Bay",
+            "phone": "6172665200",
+            "email": "arlington@raveis.com"
+        },
+        "history": {
+            "2024-04-16": {
+                "event": "Sale Listing",
+                "price": 499000,
+                "listingType": "Standard",
+                "listedDate": "2024-04-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 177
+            }
+        }
+    },
+    {
+        "id": "7-Clinton-St,-Chelsea,-MA-02150",
+        "formattedAddress": "7 Clinton St, Chelsea, MA 02150",
+        "addressLine1": "7 Clinton St",
+        "addressLine2": null,
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.40208,
+        "longitude": -71.018288,
+        "propertyType": "Multi-Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1544,
+        "lotSize": 2650,
+        "yearBuilt": 1893,
+        "status": "Active",
+        "price": 659000,
+        "listingType": "Standard",
+        "listedDate": "2024-05-15T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-05-16T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:00:55.945Z",
+        "daysOnMarket": 148,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73237868",
+        "listingAgent": {
+            "name": "Francis Santaniello",
+            "phone": "6173891777",
+            "email": "bb954349@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Weichert Realtors? Blueprint Brokers",
+            "phone": "8572047179",
+            "email": "ct005715@mlspin.net"
+        },
+        "history": {
+            "2024-05-15": {
+                "event": "Sale Listing",
+                "price": 659000,
+                "listingType": "Standard",
+                "listedDate": "2024-05-15T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 148
+            }
+        }
+    },
+    {
+        "id": "175-Cottage-St,-Apt-210,-Chelsea,-MA-02150",
+        "formattedAddress": "175 Cottage St, Apt 210, Chelsea, MA 02150",
+        "addressLine1": "175 Cottage St",
+        "addressLine2": "Apt 210",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.389135,
+        "longitude": -71.025623,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 771,
+        "yearBuilt": 2005,
+        "hoa": {
+            "fee": 472
+        },
+        "status": "Active",
+        "price": 399999,
+        "listingType": "Standard",
+        "listedDate": "2024-06-05T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-05T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:00:55.885Z",
+        "daysOnMarket": 127,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73247163",
+        "listingAgent": {
+            "name": "Mark Sciaraffa",
+            "phone": "6178461020",
+            "email": "msciaraffa1@partners.org"
+        },
+        "listingOffice": {
+            "name": "Sciaraffa Real Estate, LLC",
+            "phone": "6179979162"
+        },
+        "history": {
+            "2024-06-05": {
+                "event": "Sale Listing",
+                "price": 399999,
+                "listingType": "Standard",
+                "listedDate": "2024-06-05T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 127
+            }
+        }
+    },
+    {
+        "id": "56-Franklin-Ave,-Apt-4,-Chelsea,-MA-02150",
+        "formattedAddress": "56 Franklin Ave, Apt 4, Chelsea, MA 02150",
+        "addressLine1": "56 Franklin Ave",
+        "addressLine2": "Apt 4",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.399884,
+        "longitude": -71.031877,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 465,
+        "yearBuilt": 1970,
+        "hoa": {
+            "fee": 320
+        },
+        "status": "Active",
+        "price": 239000,
+        "listingType": "Standard",
+        "listedDate": "2024-06-05T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-06T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:00:55.882Z",
+        "daysOnMarket": 127,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73247970",
+        "listingAgent": {
+            "name": "Jeffrey Miller"
+        },
+        "listingOffice": {
+            "name": "Capitol Realty Group",
+            "phone": "6175232399"
+        },
+        "history": {
+            "2024-06-05": {
+                "event": "Sale Listing",
+                "price": 239000,
+                "listingType": "Standard",
+                "listedDate": "2024-06-05T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 127
+            }
+        }
+    },
+    {
+        "id": "35-37-Clark-Ave,-Chelsea,-MA-02150",
+        "formattedAddress": "35-37 Clark Ave, Chelsea, MA 02150",
+        "addressLine1": "35-37 Clark Ave",
+        "addressLine2": null,
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.396626,
+        "longitude": -71.028442,
+        "propertyType": "Multi-Family",
+        "bedrooms": 6,
+        "bathrooms": 6,
+        "squareFootage": 5448,
+        "lotSize": 4000,
+        "yearBuilt": 1930,
+        "status": "Active",
+        "price": 1840000,
+        "listingType": "Standard",
+        "listedDate": "2024-06-12T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-12T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:00:55.841Z",
+        "daysOnMarket": 120,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73250819",
+        "listingAgent": {
+            "name": "Key Real Estate- Deborah Lochiatto",
+            "phone": "7817260107",
+            "email": "drjkloch4@aol.com"
+        },
+        "listingOffice": {
+            "name": "Key Real Estate",
+            "phone": "7817260107"
+        },
+        "history": {
+            "2024-06-12": {
+                "event": "Sale Listing",
+                "price": 1840000,
+                "listingType": "Standard",
+                "listedDate": "2024-06-12T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 120
+            }
+        }
+    },
+    {
+        "id": "220-Spencer-Ave,-Unit-106,-Chelsea,-MA-02150",
+        "formattedAddress": "220 Spencer Ave, Unit 106, Chelsea, MA 02150",
+        "addressLine1": "220 Spencer Ave",
+        "addressLine2": "Unit 106",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.400232,
+        "longitude": -71.020825,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 964,
+        "yearBuilt": 1900,
+        "hoa": {
+            "fee": 439
+        },
+        "status": "Active",
+        "price": 449900,
+        "listingType": "Standard",
+        "listedDate": "2024-06-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-02-16T09:28:42.964Z",
+        "lastSeenDate": "2024-10-09T11:57:40.983Z",
+        "daysOnMarket": 107,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73256911",
+        "listingAgent": {
+            "name": "Focus Real Estate",
+            "phone": "6176764082",
+            "email": "info@focusre.com",
+            "website": "http://www.focusre.com"
+        },
+        "listingOffice": {
+            "name": "Focus Real Estate",
+            "phone": "6176764082",
+            "email": "team0202@mlspin.net",
+            "website": "www.focusre.com"
+        },
+        "history": {
+            "2024-06-25": {
+                "event": "Sale Listing",
+                "price": 449900,
+                "listingType": "Standard",
+                "listedDate": "2024-06-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 107
+            }
+        }
+    },
+    {
+        "id": "90-Clark-Ave,-Apt-3,-Chelsea,-MA-02150",
+        "formattedAddress": "90 Clark Ave, Apt 3, Chelsea, MA 02150",
+        "addressLine1": "90 Clark Ave",
+        "addressLine2": "Apt 3",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.398594,
+        "longitude": -71.025871,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1415,
+        "yearBuilt": 1893,
+        "hoa": {
+            "fee": 229
+        },
+        "status": "Active",
+        "price": 599900,
+        "listingType": "Standard",
+        "listedDate": "2024-06-30T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-30T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:57:40.914Z",
+        "daysOnMarket": 102,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73259002",
+        "listingAgent": {
+            "name": "Yoni Haiminis",
+            "phone": "6173041400",
+            "email": "ct000758@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "COMPASS",
+            "phone": "6172063333",
+            "email": "listings@compass.com"
+        },
+        "history": {
+            "2024-06-30": {
+                "event": "Sale Listing",
+                "price": 599900,
+                "listingType": "Standard",
+                "listedDate": "2024-06-30T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 102
+            }
+        }
+    },
+    {
+        "id": "126-Washington-Ave,-Apt-2,-Chelsea,-MA-02150",
+        "formattedAddress": "126 Washington Ave, Apt 2, Chelsea, MA 02150",
+        "addressLine1": "126 Washington Ave",
+        "addressLine2": "Apt 2",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.397123,
+        "longitude": -71.031761,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 905,
+        "lotSize": 1858,
+        "yearBuilt": 1900,
+        "hoa": {
+            "fee": 225
+        },
+        "status": "Active",
+        "price": 510000,
+        "listingType": "Standard",
+        "listedDate": "2024-07-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-01-21T08:28:21.163Z",
+        "lastSeenDate": "2024-10-09T11:57:40.877Z",
+        "daysOnMarket": 85,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73265567",
+        "listingAgent": {
+            "name": "David And Arthur Martiroso",
+            "phone": "6173409135",
+            "email": "dnarealtygroup1@gmail.com",
+            "website": "http://www.dna-realty.com/"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Realty",
+            "phone": "9784752111",
+            "email": "susan@susansells.com",
+            "website": "www.andoverhomecenter.com"
+        },
+        "history": {
+            "2024-07-17": {
+                "event": "Sale Listing",
+                "price": 510000,
+                "listingType": "Standard",
+                "listedDate": "2024-07-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 85
+            }
+        }
+    },
+    {
+        "id": "60-Dudley-St,-Apt-316,-Chelsea,-MA-02150",
+        "formattedAddress": "60 Dudley St, Apt 316, Chelsea, MA 02150",
+        "addressLine1": "60 Dudley St",
+        "addressLine2": "Apt 316",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.398886,
+        "longitude": -71.021741,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 1137,
+        "lotSize": 1137,
+        "yearBuilt": 1919,
+        "hoa": {
+            "fee": 467
+        },
+        "status": "Active",
+        "price": 549000,
+        "listingType": "Standard",
+        "listedDate": "2024-07-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-08-21T08:51:27.252Z",
+        "lastSeenDate": "2024-10-09T11:57:40.862Z",
+        "daysOnMarket": 86,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73265054",
+        "listingAgent": {
+            "name": "Yoni Haiminis",
+            "phone": "6173041400",
+            "email": "ct000758@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "COMPASS",
+            "phone": "6172063333",
+            "email": "listings@compass.com"
+        },
+        "history": {
+            "2024-07-16": {
+                "event": "Sale Listing",
+                "price": 549000,
+                "listingType": "Standard",
+                "listedDate": "2024-07-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 86
+            }
+        }
+    },
+    {
+        "id": "165-Cottage-St,-Apt-307,-Chelsea,-MA-02150",
+        "formattedAddress": "165 Cottage St, Apt 307, Chelsea, MA 02150",
+        "addressLine1": "165 Cottage St",
+        "addressLine2": "Apt 307",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.389706,
+        "longitude": -71.025194,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "squareFootage": 865,
+        "yearBuilt": 1987,
+        "hoa": {
+            "fee": 563
+        },
+        "status": "Active",
+        "price": 409999,
+        "listingType": "Standard",
+        "listedDate": "2024-07-21T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-07-22T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:56:45.655Z",
+        "daysOnMarket": 81,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73267511",
+        "listingOffice": {
+            "name": "Estrada & Associates Realty, Llc",
+            "phone": "6177784164"
+        },
+        "history": {
+            "2024-07-21": {
+                "event": "Sale Listing",
+                "price": 409999,
+                "listingType": "Standard",
+                "listedDate": "2024-07-21T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 81
+            }
+        }
+    },
+    {
+        "id": "191-Webster-Ave,-Chelsea,-MA-02150",
+        "formattedAddress": "191 Webster Ave, Chelsea, MA 02150",
+        "addressLine1": "191 Webster Ave",
+        "addressLine2": null,
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.402762,
+        "longitude": -71.026835,
+        "propertyType": "Multi-Family",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "squareFootage": 2890,
+        "lotSize": 3230,
+        "yearBuilt": 1927,
+        "status": "Active",
+        "price": 924000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-01T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-02T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:56:45.624Z",
+        "daysOnMarket": 70,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73272170",
+        "listingAgent": {
+            "name": "William Roa",
+            "phone": "6179213655",
+            "email": "cn210947@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "RealtyIQ, LLC",
+            "phone": "9784944762"
+        },
+        "history": {
+            "2024-08-01": {
+                "event": "Sale Listing",
+                "price": 924000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-01T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 70
+            }
+        }
+    },
+    {
+        "id": "57-Cherry-St,-Chelsea,-MA-02150",
+        "formattedAddress": "57 Cherry St, Chelsea, MA 02150",
+        "addressLine1": "57 Cherry St",
+        "addressLine2": null,
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.389898,
+        "longitude": -71.039983,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 1432,
+        "lotSize": 1250,
+        "yearBuilt": 1895,
+        "status": "Active",
+        "price": 479999,
+        "listingType": "Standard",
+        "listedDate": "2024-08-14T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-15T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:28:13.317Z",
+        "daysOnMarket": 57,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73277695",
+        "listingAgent": {
+            "name": "Sean K Connelly",
+            "phone": "7819106261",
+            "email": "sean.connelly@raveis.com",
+            "website": "http://seanconnelly.raveis.com"
+        },
+        "listingOffice": {
+            "name": "William Raveis Real Estate - Marblehead",
+            "phone": "7816311199",
+            "email": "marblehead@raveis.com"
+        },
+        "history": {
+            "2024-08-14": {
+                "event": "Sale Listing",
+                "price": 479999,
+                "listingType": "Standard",
+                "listedDate": "2024-08-14T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 57
+            }
+        }
+    },
+    {
+        "id": "56-Library-St,-Apt-3,-Chelsea,-MA-02150",
+        "formattedAddress": "56 Library St, Apt 3, Chelsea, MA 02150",
+        "addressLine1": "56 Library St",
+        "addressLine2": "Apt 3",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.393543,
+        "longitude": -71.030057,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 645,
+        "yearBuilt": 1900,
+        "hoa": {
+            "fee": 200
+        },
+        "status": "Active",
+        "price": 350000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-21T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-09-17T09:20:39.232Z",
+        "lastSeenDate": "2024-10-09T10:28:13.240Z",
+        "daysOnMarket": 50,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73280342",
+        "listingAgent": {
+            "name": "Janette S. Giso",
+            "phone": "6172621900",
+            "email": "bb800329@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Bayside Realty",
+            "phone": "6178687979"
+        },
+        "history": {
+            "2024-08-21": {
+                "event": "Sale Listing",
+                "price": 350000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-21T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 50
+            }
+        }
+    },
+    {
+        "id": "148-Park-And-Pearl-St,-Chelsea,-MA-02150",
+        "formattedAddress": "148 Park And Pearl St, Chelsea, MA 02150",
+        "addressLine1": "148 Park And Pearl St",
+        "addressLine2": null,
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.390354,
+        "longitude": -71.036133,
+        "propertyType": "Multi-Family",
+        "bedrooms": 55,
+        "bathrooms": 30,
+        "squareFootage": 24219,
+        "lotSize": 10454,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 8100000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-22T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-23T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:28:13.224Z",
+        "daysOnMarket": 49,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73281006",
+        "listingAgent": {
+            "name": "John Pentore",
+            "phone": "7817764004",
+            "email": "cn212669@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Horvath & Tremblay",
+            "phone": "7817764000"
+        },
+        "history": {
+            "2024-08-22": {
+                "event": "Sale Listing",
+                "price": 8100000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-22T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 49
+            }
+        }
+    },
+    {
+        "id": "60-Dudley-St,-Apt-124,-Chelsea,-MA-02150",
+        "formattedAddress": "60 Dudley St, Apt 124, Chelsea, MA 02150",
+        "addressLine1": "60 Dudley St",
+        "addressLine2": "Apt 124",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.398886,
+        "longitude": -71.021741,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 1250,
+        "yearBuilt": 1919,
+        "hoa": {
+            "fee": 526
+        },
+        "status": "Active",
+        "price": 499900,
+        "listingType": "Standard",
+        "listedDate": "2024-09-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-04T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:14:29.532Z",
+        "daysOnMarket": 37,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73283984",
+        "listingAgent": {
+            "name": "Lanre Olusekun",
+            "phone": "7813244600",
+            "email": "olusekun@davenportrealtyinc.com",
+            "website": "http://www.davenportrealtyinc.com"
+        },
+        "listingOffice": {
+            "name": "Davenport Realty",
+            "phone": "7813212789",
+            "email": "admin@davenportrealtyinc.com",
+            "website": "www.davenportrealtyinc.com"
+        },
+        "history": {
+            "2024-09-03": {
+                "event": "Sale Listing",
+                "price": 499900,
+                "listingType": "Standard",
+                "listedDate": "2024-09-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 37
+            }
+        }
+    },
+    {
+        "id": "223-Spencer-Ave,-Chelsea,-MA-02150",
+        "formattedAddress": "223 Spencer Ave, Chelsea, MA 02150",
+        "addressLine1": "223 Spencer Ave",
+        "addressLine2": null,
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.399999,
+        "longitude": -71.020382,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1532,
+        "lotSize": 2500,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 599900,
+        "listingType": "Standard",
+        "listedDate": "2024-09-05T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-05T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:14:29.482Z",
+        "daysOnMarket": 35,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73285393",
+        "listingAgent": {
+            "name": "Jill Avery",
+            "phone": "8008447654",
+            "email": "javery@c21ne.com"
+        },
+        "listingOffice": {
+            "name": "C21 NORTH EAST",
+            "phone": "2074394070",
+            "email": "info@c21ne.com",
+            "website": "www.c21ne.com"
+        },
+        "history": {
+            "2024-09-05": {
+                "event": "Sale Listing",
+                "price": 599900,
+                "listingType": "Standard",
+                "listedDate": "2024-09-05T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 35
+            }
+        }
+    },
+    {
+        "id": "870-Broadway,-Chelsea,-MA-02150",
+        "formattedAddress": "870 Broadway, Chelsea, MA 02150",
+        "addressLine1": "870 Broadway",
+        "addressLine2": null,
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.399152,
+        "longitude": -71.023502,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1181,
+        "lotSize": 2220,
+        "yearBuilt": 1893,
+        "status": "Active",
+        "price": 475000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-05T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-04-07T06:33:50.795Z",
+        "lastSeenDate": "2024-10-09T10:02:18.199Z",
+        "daysOnMarket": 35,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73285905",
+        "listingAgent": {
+            "name": "Roberto Mejia",
+            "phone": "4014818485",
+            "email": "cn225256@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Redfin Corp.",
+            "phone": "8779733346",
+            "email": "marketing@redfin.com",
+            "website": "www.redfin.com"
+        },
+        "history": {
+            "2024-09-05": {
+                "event": "Sale Listing",
+                "price": 475000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-05T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 35
+            }
+        }
+    },
+    {
+        "id": "31-Division-St,-Apt-2,-Chelsea,-MA-02150",
+        "formattedAddress": "31 Division St, Apt 2, Chelsea, MA 02150",
+        "addressLine1": "31 Division St",
+        "addressLine2": "Apt 2",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.38834,
+        "longitude": -71.038994,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 525,
+        "yearBuilt": 1900,
+        "hoa": {
+            "fee": 250
+        },
+        "status": "Active",
+        "price": 399999,
+        "listingType": "Standard",
+        "listedDate": "2024-09-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-12T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:48:16.039Z",
+        "daysOnMarket": 29,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73288751",
+        "listingAgent": {
+            "name": "Mike Preston",
+            "phone": "6175900448",
+            "email": "mike@revrealtyma.com"
+        },
+        "listingOffice": {
+            "name": "CENTURY 21 Revolution",
+            "phone": "6179827175"
+        },
+        "history": {
+            "2024-09-11": {
+                "event": "Sale Listing",
+                "price": 399999,
+                "listingType": "Standard",
+                "listedDate": "2024-09-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 29
+            }
+        }
+    },
+    {
+        "id": "441-Washington-Ave,-Apt-306,-Chelsea,-MA-02150",
+        "formattedAddress": "441 Washington Ave, Apt 306, Chelsea, MA 02150",
+        "addressLine1": "441 Washington Ave",
+        "addressLine2": "Apt 306",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.40625,
+        "longitude": -71.033163,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 910,
+        "yearBuilt": 1897,
+        "hoa": {
+            "fee": 251
+        },
+        "status": "Active",
+        "price": 479000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-02-05T09:02:01.330Z",
+        "lastSeenDate": "2024-10-09T09:48:15.998Z",
+        "daysOnMarket": 24,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73290545",
+        "listingAgent": {
+            "name": "Yoni Haiminis",
+            "phone": "6173041400",
+            "email": "ct000758@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "COMPASS",
+            "phone": "6172063333",
+            "email": "listings@compass.com"
+        },
+        "history": {
+            "2024-09-16": {
+                "event": "Sale Listing",
+                "price": 479000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 24
+            }
+        }
+    },
+    {
+        "id": "110-Bellingham-St,-Apt-3,-Chelsea,-MA-02150",
+        "formattedAddress": "110 Bellingham St, Apt 3, Chelsea, MA 02150",
+        "addressLine1": "110 Bellingham St",
+        "addressLine2": "Apt 3",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.391513,
+        "longitude": -71.028788,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 1220,
+        "yearBuilt": 1900,
+        "hoa": {
+            "fee": 347
+        },
+        "status": "Active",
+        "price": 515000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-09-15T09:36:51.782Z",
+        "lastSeenDate": "2024-10-09T09:47:19.728Z",
+        "daysOnMarket": 21,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73292716",
+        "listingAgent": {
+            "name": "Holly Edes",
+            "phone": "6178751558",
+            "email": "holly.edes@evrealestate.com",
+            "website": "http://hollyedes.evrealestate-boston.com"
+        },
+        "listingOffice": {
+            "name": "Engel & Völkers Boston",
+            "phone": "6179364194",
+            "email": "boston@engelvoelkers.com",
+            "website": "http://boston1.evrealestate.com"
+        },
+        "history": {
+            "2024-09-19": {
+                "event": "Sale Listing",
+                "price": 515000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 21
+            }
+        }
+    },
+    {
+        "id": "64-Washington-Ave,-Apt-4,-Chelsea,-MA-02150",
+        "formattedAddress": "64 Washington Ave, Apt 4, Chelsea, MA 02150",
+        "addressLine1": "64 Washington Ave",
+        "addressLine2": "Apt 4",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.395162,
+        "longitude": -71.033343,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 973,
+        "yearBuilt": 2001,
+        "hoa": {
+            "fee": 318
+        },
+        "status": "Active",
+        "price": 489000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-20T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:47:19.715Z",
+        "daysOnMarket": 21,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73292592",
+        "listingAgent": {
+            "name": "The Sarkis Team At Douglas Elliman Real Estate",
+            "phone": "6172276070",
+            "email": "george.sarkis@elliman.com",
+            "website": "http://www.sarkisboston.com"
+        },
+        "listingOffice": {
+            "name": "Douglas Elliman Real Estate - The Sarkis Team",
+            "phone": "7816038702"
+        },
+        "history": {
+            "2024-09-19": {
+                "event": "Sale Listing",
+                "price": 489000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 21
+            }
+        }
+    },
+    {
+        "id": "37-Shurtleff-St,-Chelsea,-MA-02150",
+        "formattedAddress": "37 Shurtleff St, Chelsea, MA 02150",
+        "addressLine1": "37 Shurtleff St",
+        "addressLine2": null,
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.388242,
+        "longitude": -71.035596,
+        "propertyType": "Multi-Family",
+        "bedrooms": 6,
+        "bathrooms": 3,
+        "squareFootage": 2616,
+        "lotSize": 3000,
+        "yearBuilt": 1930,
+        "status": "Active",
+        "price": 799000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-20T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-21T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:47:19.707Z",
+        "daysOnMarket": 20,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73292888",
+        "listingAgent": {
+            "name": "Kristy Schiavo",
+            "phone": "6172028202",
+            "email": "kschiavo@lamacchiarealty.com"
+        },
+        "listingOffice": {
+            "name": "Lamacchia Realty, Inc.",
+            "phone": "3396459300",
+            "email": "woburn@lamacchiarealty.com",
+            "website": "https://www.lamacchiarealty.com/woburn/"
+        },
+        "history": {
+            "2024-09-20": {
+                "event": "Sale Listing",
+                "price": 799000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-20T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 20
+            }
+        }
+    },
+    {
+        "id": "78-Addison-St,-Apt-2,-Chelsea,-MA-02150",
+        "formattedAddress": "78 Addison St, Apt 2, Chelsea, MA 02150",
+        "addressLine1": "78 Addison St",
+        "addressLine2": "Apt 2",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.398548,
+        "longitude": -71.035011,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1015,
+        "yearBuilt": 1900,
+        "hoa": {
+            "fee": 250
+        },
+        "status": "Active",
+        "price": 389000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-23T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-02T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:29:19.422Z",
+        "daysOnMarket": 17,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73293548",
+        "listingAgent": {
+            "name": "Roy Avellaneda",
+            "phone": "6172124658",
+            "email": "bb921279@mlspin.net",
+            "website": "https://www.metropolitanbostonrealestate.com/agents/53-roy-avellaneda"
+        },
+        "listingOffice": {
+            "name": "Metropolitan Boston Real Estate, LLC",
+            "phone": "6174256300"
+        },
+        "history": {
+            "2024-09-23": {
+                "event": "Sale Listing",
+                "price": 389000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-23T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 17
+            }
+        }
+    },
+    {
+        "id": "100-Pearl-St,-Apt-9,-Chelsea,-MA-02150",
+        "formattedAddress": "100 Pearl St, Apt 9, Chelsea, MA 02150",
+        "addressLine1": "100 Pearl St",
+        "addressLine2": "Apt 9",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.389214,
+        "longitude": -71.038101,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 770,
+        "yearBuilt": 1914,
+        "hoa": {
+            "fee": 333
+        },
+        "status": "Active",
+        "price": 395000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-24T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-25T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:29:19.350Z",
+        "daysOnMarket": 16,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73293924",
+        "listingAgent": {
+            "name": "Linda Costanzo",
+            "phone": "6175849126",
+            "email": "lindacostanzo@kw.com",
+            "website": "http://www.lindacostanzo.com"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Boston-Metro",
+            "phone": "6175420012",
+            "email": "david@kwboston.com",
+            "website": "http://kwbostonmetro.com"
+        },
+        "history": {
+            "2024-09-24": {
+                "event": "Sale Listing",
+                "price": 395000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-24T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 16
+            }
+        }
+    },
+    {
+        "id": "114-Chestnut-St,-Chelsea,-MA-02150",
+        "formattedAddress": "114 Chestnut St, Chelsea, MA 02150",
+        "addressLine1": "114 Chestnut St",
+        "addressLine2": null,
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.39095,
+        "longitude": -71.039723,
+        "propertyType": "Land",
+        "bedrooms": 8,
+        "bathrooms": 4,
+        "squareFootage": 4392,
+        "lotSize": 9000,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 1699000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-24T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-25T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:29:19.344Z",
+        "daysOnMarket": 16,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73293926",
+        "listingAgent": {
+            "name": "Roy Avellaneda",
+            "phone": "6172124658",
+            "email": "bb921279@mlspin.net",
+            "website": "https://www.metropolitanbostonrealestate.com/agents/53-roy-avellaneda"
+        },
+        "listingOffice": {
+            "name": "Metropolitan Boston Real Estate, LLC",
+            "phone": "6174256300"
+        },
+        "history": {
+            "2024-09-24": {
+                "event": "Sale Listing",
+                "price": 1699000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-24T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 16
+            }
+        }
+    },
+    {
+        "id": "541-Washington-Ave,-Chelsea,-MA-02150",
+        "formattedAddress": "541 Washington Ave, Chelsea, MA 02150",
+        "addressLine1": "541 Washington Ave",
+        "addressLine2": null,
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.408708,
+        "longitude": -71.030316,
+        "propertyType": "Multi-Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1844,
+        "lotSize": 4536,
+        "yearBuilt": 1913,
+        "status": "Active",
+        "price": 749999,
+        "listingType": "Standard",
+        "listedDate": "2024-09-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-26T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:29:19.224Z",
+        "daysOnMarket": 15,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73294230",
+        "listingAgent": {
+            "name": "Tanya Doherty",
+            "phone": "6177105732",
+            "email": "tanyadoherty@kw.com",
+            "website": "https://www.tanyadohertyrealty.com/"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Realty",
+            "phone": "9789278700",
+            "email": "klrw286@kw.com"
+        },
+        "history": {
+            "2024-09-25": {
+                "event": "Sale Listing",
+                "price": 749999,
+                "listingType": "Standard",
+                "listedDate": "2024-09-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 15
+            }
+        }
+    },
+    {
+        "id": "1-Forbes-St,-Chelsea,-MA-02150",
+        "formattedAddress": "1 Forbes St, Chelsea, MA 02150",
+        "addressLine1": "1 Forbes St",
+        "addressLine2": null,
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.400307,
+        "longitude": -71.012306,
+        "propertyType": "Land",
+        "lotSize": 777982,
+        "status": "Active",
+        "price": 29999900,
+        "listingType": "Standard",
+        "listedDate": "2024-09-30T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-01T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:28:34.173Z",
+        "daysOnMarket": 10,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73296513",
+        "listingAgent": {
+            "name": "Stephen Bremis",
+            "phone": "6178281070",
+            "email": "thestevebremisteam@gmail.com",
+            "website": "http://stevebremis.com/"
+        },
+        "listingOffice": {
+            "name": "Steve Bremis Realty Group",
+            "phone": "6178281070"
+        },
+        "history": {
+            "2024-09-30": {
+                "event": "Sale Listing",
+                "price": 29999900,
+                "listingType": "Standard",
+                "listedDate": "2024-09-30T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 10
+            }
+        }
+    },
+    {
+        "id": "29-Division-St,-Apt-3,-Chelsea,-MA-02150",
+        "formattedAddress": "29 Division St, Apt 3, Chelsea, MA 02150",
+        "addressLine1": "29 Division St",
+        "addressLine2": "Apt 3",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.388279,
+        "longitude": -71.039027,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 575,
+        "yearBuilt": 1860,
+        "hoa": {
+            "fee": 175
+        },
+        "status": "Active",
+        "price": 249900,
+        "listingType": "Standard",
+        "listedDate": "2024-10-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-04T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T07:46:36.173Z",
+        "daysOnMarket": 7,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73297984",
+        "listingAgent": {
+            "name": "Century North",
+            "phone": "8008447653",
+            "email": "bb902835@mlspin.net",
+            "website": "http://www.c21northshore.com"
+        },
+        "listingOffice": {
+            "name": "eXp Realty",
+            "phone": "8888547493"
+        },
+        "history": {
+            "2024-10-03": {
+                "event": "Sale Listing",
+                "price": 249900,
+                "listingType": "Standard",
+                "listedDate": "2024-10-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 7
+            }
+        }
+    },
+    {
+        "id": "932-Broadway,-Apt-303,-Chelsea,-MA-02150",
+        "formattedAddress": "932 Broadway, Apt 303, Chelsea, MA 02150",
+        "addressLine1": "932 Broadway",
+        "addressLine2": "Apt 303",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.400654,
+        "longitude": -71.02197,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 579,
+        "yearBuilt": 2021,
+        "hoa": {
+            "fee": 325
+        },
+        "status": "Active",
+        "price": 350000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-09T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T07:46:36.141Z",
+        "daysOnMarket": 2,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73299955",
+        "listingAgent": {
+            "name": "Tina Haynes",
+            "phone": "5089226571",
+            "email": "tina@tinahaynes.com",
+            "website": "http://www.tinahaynes.com"
+        },
+        "listingOffice": {
+            "name": "Simplify Home Realty, LLC"
+        },
+        "history": {
+            "2024-10-08": {
+                "event": "Sale Listing",
+                "price": 350000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 2
+            }
+        }
+    },
+    {
+        "id": "50-Prospect-Ave,-Chelsea,-MA-02150",
+        "formattedAddress": "50 Prospect Ave, Chelsea, MA 02150",
+        "addressLine1": "50 Prospect Ave",
+        "addressLine2": null,
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.409968,
+        "longitude": -71.032677,
+        "propertyType": "Multi-Family",
+        "bedrooms": 5,
+        "bathrooms": 3.5,
+        "squareFootage": 2812,
+        "lotSize": 4080,
+        "yearBuilt": 1988,
+        "status": "Active",
+        "price": 895000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-07T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-08T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T07:46:36.124Z",
+        "daysOnMarket": 3,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73299549",
+        "listingAgent": {
+            "name": "Paul Cirignano And The Synergy Group",
+            "phone": "7815709007",
+            "email": "paul@thesynergyregroup.com",
+            "website": "http://www.thesynergyregroup.com"
+        },
+        "listingOffice": {
+            "name": "The Synergy Group",
+            "phone": "7815709007",
+            "email": "paul@newhomesnorthofboston.com"
+        },
+        "history": {
+            "2024-10-07": {
+                "event": "Sale Listing",
+                "price": 895000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-07T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 3
+            }
+        }
+    },
+    {
+        "id": "168-Spencer-Ave,-Chelsea,-MA-02150",
+        "formattedAddress": "168 Spencer Ave, Chelsea, MA 02150",
+        "addressLine1": "168 Spencer Ave",
+        "addressLine2": null,
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.398768,
+        "longitude": -71.022503,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 2.5,
+        "squareFootage": 2014,
+        "lotSize": 3333,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 799000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-07T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-05-25T05:46:03.351Z",
+        "lastSeenDate": "2024-10-09T07:46:36.106Z",
+        "daysOnMarket": 3,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73299262",
+        "listingAgent": {
+            "name": "Celina Doucette",
+            "website": "https://www.coldwellbankerhomes.com/ma/boston/agent/celina-doucette/aid_150060/"
+        },
+        "listingOffice": {
+            "name": "Herringbone Realty, LLC"
+        },
+        "history": {
+            "2024-10-07": {
+                "event": "Sale Listing",
+                "price": 799000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-07T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 3
+            }
+        }
+    },
+    {
+        "id": "21-Elwood-Pl,-Revere,-MA-02151",
+        "formattedAddress": "21 Elwood Pl, Revere, MA 02151",
+        "addressLine1": "21 Elwood Pl",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.405231,
+        "longitude": -71.017446,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "squareFootage": 2963,
+        "lotSize": 7623,
+        "yearBuilt": 1958,
+        "status": "Active",
+        "price": 779000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-03T00:00:00.000Z",
+        "lastSeenDate": "2024-10-08T06:23:45.348Z",
+        "daysOnMarket": 6,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73297975",
+        "listingAgent": {
+            "name": "Melinda Puzon",
+            "phone": "8572341080",
+            "email": "b8000436@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Mp Signature Realty Llc",
+            "phone": "7813226928"
+        },
+        "history": {
+            "2024-10-03": {
+                "event": "Sale Listing",
+                "price": 779000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 6
+            }
+        }
+    },
+    {
+        "id": "26-Tudor-St,-Apt-3,-Chelsea,-MA-02150",
+        "formattedAddress": "26 Tudor St, Apt 3, Chelsea, MA 02150",
+        "addressLine1": "26 Tudor St",
+        "addressLine2": "Apt 3",
+        "city": "Chelsea",
+        "state": "MA",
+        "zipCode": "02150",
+        "county": "Suffolk",
+        "latitude": 42.396681,
+        "longitude": -71.031167,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 577,
+        "lotSize": 3000,
+        "yearBuilt": 1900,
+        "hoa": {
+            "fee": 240
+        },
+        "status": "Active",
+        "price": 399000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-24T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-24T00:00:00.000Z",
+        "lastSeenDate": "2024-10-07T08:46:49.790Z",
+        "daysOnMarket": 14,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73293833",
+        "listingAgent": {
+            "name": "Jeffrey Bowen",
+            "phone": "7812019488",
+            "email": "info@chelsearealestate.com",
+            "website": "http://www.chelsearealestate.com"
+        },
+        "listingOffice": {
+            "name": "eRealty Advisors, Inc.",
+            "phone": "6177292618"
+        },
+        "history": {
+            "2024-09-24": {
+                "event": "Sale Listing",
+                "price": 399000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-24T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 14
+            }
+        }
+    }
+]
