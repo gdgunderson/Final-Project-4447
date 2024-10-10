@@ -1,7 +1,6 @@
 import logging
 import os
 import geopandas as gpd
-import pandas as pd
 
 def read_shapefile_save_to_parquet(
       path: str

@@ -7,6 +7,12 @@ def read_listings(
         path_to_files: str,
         date_created: date = date(2024, 10, 9)
 ) -> pd.DataFrame:
+    '''
+    Read the housing listings from raw json files and return a DataFrame
+    :param path_to_files: str. path to find the files
+    :param date_created: date created of files. datetime.date object
+    :return: pandas dataframe with housing listings
+    '''
     date_str = str(date_created)
 
     files = os.listdir(path_to_files)
