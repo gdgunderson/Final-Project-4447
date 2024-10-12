@@ -1,0 +1,390 @@
+[
+    {
+        "id": "177-Bellingham-Ave,-Revere,-MA-02151",
+        "formattedAddress": "177 Bellingham Ave, Revere, MA 02151",
+        "addressLine1": "177 Bellingham Ave",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.396106,
+        "longitude": -70.985613,
+        "propertyType": "Multi-Family",
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "squareFootage": 3168,
+        "lotSize": 4356,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 1199000,
+        "listingType": "Standard",
+        "listedDate": "2024-06-07T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-07T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:00:55.866Z",
+        "daysOnMarket": 125,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73248894",
+        "listingAgent": {
+            "name": "Denise Moynihan",
+            "phone": "7813345700",
+            "email": "denise.moynihan@nemoves.com",
+            "website": "http://denisecaven-moynihan.cbintouch.com/"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty",
+            "phone": "7813345700",
+            "email": "julie.chechik@nemoves.com",
+            "website": "https://www.coldwellbankerhomes.com//ma/lynnfield/office/lynnfield/oid_3863/"
+        },
+        "history": {
+            "2024-06-07": {
+                "event": "Sale Listing",
+                "price": 1199000,
+                "listingType": "Standard",
+                "listedDate": "2024-06-07T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 125
+            }
+        }
+    },
+    {
+        "id": "55-Nahant-Ave,-Winthrop,-MA-02152",
+        "formattedAddress": "55 Nahant Ave, Winthrop, MA 02152",
+        "addressLine1": "55 Nahant Ave",
+        "addressLine2": null,
+        "city": "Winthrop",
+        "state": "MA",
+        "zipCode": "02152",
+        "county": "Suffolk",
+        "latitude": 42.390068,
+        "longitude": -70.972162,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "squareFootage": 1740,
+        "lotSize": 6140,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 799000,
+        "listingType": "Standard",
+        "listedDate": "2024-06-05T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-05-17T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:00:55.864Z",
+        "daysOnMarket": 127,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73247136",
+        "listingAgent": {
+            "name": "Henry Nguyen",
+            "phone": "7813219300",
+            "email": "nb110617@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Premier Properties Realty, Inc.",
+            "phone": "6175154122"
+        },
+        "history": {
+            "2024-06-05": {
+                "event": "Sale Listing",
+                "price": 799000,
+                "listingType": "Standard",
+                "listedDate": "2024-06-05T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 127
+            }
+        }
+    },
+    {
+        "id": "24-Washington-Sq,-Revere,-MA-02151",
+        "formattedAddress": "24 Washington Sq, Revere, MA 02151",
+        "addressLine1": "24 Washington Sq",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.395382,
+        "longitude": -70.98435,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "squareFootage": 1570,
+        "lotSize": 3624,
+        "yearBuilt": 1920,
+        "status": "Active",
+        "price": 799900,
+        "listingType": "Standard",
+        "listedDate": "2024-08-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-10-10T08:17:30.864Z",
+        "lastSeenDate": "2024-10-09T10:28:13.196Z",
+        "daysOnMarket": 45,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73280338",
+        "listingAgent": {
+            "name": "Ethan Forrest",
+            "phone": "9782396418",
+            "email": "ethan.forrest@compass.com",
+            "website": "http://forresthomesre.com"
+        },
+        "listingOffice": {
+            "name": "The Aland Realty Group LLC",
+            "phone": "6035010463"
+        },
+        "history": {
+            "2024-08-26": {
+                "event": "Sale Listing",
+                "price": 799900,
+                "listingType": "Standard",
+                "listedDate": "2024-08-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 45
+            }
+        }
+    },
+    {
+        "id": "57-Bellingham-Ave,-Revere,-MA-02151",
+        "formattedAddress": "57 Bellingham Ave, Revere, MA 02151",
+        "addressLine1": "57 Bellingham Ave",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.39784,
+        "longitude": -70.989092,
+        "propertyType": "Multi-Family",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "squareFootage": 2712,
+        "lotSize": 5240,
+        "yearBuilt": 2024,
+        "status": "Active",
+        "price": 1450000,
+        "listingType": "New Construction",
+        "listedDate": "2024-09-04T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-04-03T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:14:29.521Z",
+        "daysOnMarket": 36,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73284956",
+        "listingAgent": {
+            "name": "Christopher Charido",
+            "phone": "7818445335",
+            "email": "charidorealestate@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Re/Max Renaissance Inc.",
+            "phone": "9786643000"
+        },
+        "history": {
+            "2024-09-04": {
+                "event": "Sale Listing",
+                "price": 1450000,
+                "listingType": "New Construction",
+                "listedDate": "2024-09-04T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 36
+            }
+        }
+    },
+    {
+        "id": "57-Bellingham-Ave,-Unit-1,-Revere,-MA-02151",
+        "formattedAddress": "57 Bellingham Ave, Unit 1, Revere, MA 02151",
+        "addressLine1": "57 Bellingham Ave",
+        "addressLine2": "Unit 1",
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.397865,
+        "longitude": -70.989151,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1222,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 100
+        },
+        "status": "Active",
+        "price": 699000,
+        "listingType": "New Construction",
+        "listedDate": "2024-09-04T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-05T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:14:29.492Z",
+        "daysOnMarket": 36,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73284864",
+        "listingAgent": {
+            "name": "Christopher Charido",
+            "phone": "7818445335",
+            "email": "charidorealestate@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Re/Max Renaissance Inc.",
+            "phone": "9786643000"
+        },
+        "history": {
+            "2024-09-04": {
+                "event": "Sale Listing",
+                "price": 699000,
+                "listingType": "New Construction",
+                "listedDate": "2024-09-04T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 36
+            }
+        }
+    },
+    {
+        "id": "57-Bellingham-Ave,-Unit-2,-Revere,-MA-02151",
+        "formattedAddress": "57 Bellingham Ave, Unit 2, Revere, MA 02151",
+        "addressLine1": "57 Bellingham Ave",
+        "addressLine2": "Unit 2",
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.397865,
+        "longitude": -70.989151,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1490,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 100
+        },
+        "status": "Active",
+        "price": 799000,
+        "listingType": "New Construction",
+        "listedDate": "2024-09-04T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-05T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:14:29.481Z",
+        "daysOnMarket": 36,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73284896",
+        "listingAgent": {
+            "name": "Christopher Charido",
+            "phone": "7818445335",
+            "email": "charidorealestate@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Re/Max Renaissance Inc.",
+            "phone": "9786643000"
+        },
+        "history": {
+            "2024-09-04": {
+                "event": "Sale Listing",
+                "price": 799000,
+                "listingType": "New Construction",
+                "listedDate": "2024-09-04T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 36
+            }
+        }
+    },
+    {
+        "id": "76-Pearl-Ave,-Revere,-MA-02151",
+        "formattedAddress": "76 Pearl Ave, Revere, MA 02151",
+        "addressLine1": "76 Pearl Ave",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.392588,
+        "longitude": -70.984612,
+        "propertyType": "Multi-Family",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "squareFootage": 1785,
+        "lotSize": 2657,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 719000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-08-05T05:13:40.101Z",
+        "lastSeenDate": "2024-10-09T09:48:15.990Z",
+        "daysOnMarket": 24,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73290492",
+        "listingAgent": {
+            "name": "Onnelly Parslow",
+            "phone": "6175121591",
+            "email": "onnelly@maxwell-associates.com"
+        },
+        "listingOffice": {
+            "name": "Berkshire Hathaway Homeservices Warren Residential",
+            "phone": "6178489616",
+            "email": "nwarren@warrenre.com",
+            "website": "http://www.warrenre.com"
+        },
+        "history": {
+            "2024-09-16": {
+                "event": "Sale Listing",
+                "price": 719000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 24
+            }
+        }
+    },
+    {
+        "id": "51-Dix-St,-Revere,-MA-02151",
+        "formattedAddress": "51 Dix St, Revere, MA 02151",
+        "addressLine1": "51 Dix St",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.405395,
+        "longitude": -70.99232,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "squareFootage": 1403,
+        "lotSize": 2309,
+        "yearBuilt": 1920,
+        "status": "Active",
+        "price": 429000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-27T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-28T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:28:34.291Z",
+        "daysOnMarket": 13,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73295742",
+        "listingAgent": {
+            "name": "Dorothy Mclaughlin",
+            "phone": "6178272319",
+            "email": "dorothymclaughlin@gmail.com",
+            "website": "http://www.newenglandmoves.com/dorothy.mclaughlin"
+        },
+        "listingOffice": {
+            "name": "Tlc Real Estate",
+            "phone": "7817401691",
+            "email": "cflynn@tlcrelo.com"
+        },
+        "history": {
+            "2024-09-27": {
+                "event": "Sale Listing",
+                "price": 429000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-27T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 13
+            }
+        }
+    }
+]
