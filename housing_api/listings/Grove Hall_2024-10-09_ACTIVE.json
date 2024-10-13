@@ -1,0 +1,4042 @@
+[
+    {
+        "id": "8-Adrian-St,-Boston,-MA-02125",
+        "formattedAddress": "8 Adrian St, Boston, MA 02125",
+        "addressLine1": "8 Adrian St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.317871,
+        "longitude": -71.077147,
+        "propertyType": "Land",
+        "lotSize": 2189,
+        "status": "Active",
+        "price": 275000,
+        "listingType": "Standard",
+        "listedDate": "2024-03-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-03-27T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:15:29.449Z",
+        "daysOnMarket": 198,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73216574",
+        "listingAgent": {
+            "name": "Radhy A. Pena",
+            "phone": "6178881133",
+            "email": "radhyrealty@gmail.com",
+            "website": "http://pondsiderealty.com"
+        },
+        "listingOffice": {
+            "name": "Pondside Realty",
+            "phone": "6175246900",
+            "email": "christ@century21.com",
+            "website": "http://www.pondsiderealty.com"
+        },
+        "history": {
+            "2024-03-26": {
+                "event": "Sale Listing",
+                "price": 275000,
+                "listingType": "Standard",
+                "listedDate": "2024-03-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 198
+            }
+        }
+    },
+    {
+        "id": "35-Ellington-St,-Boston,-MA-02121",
+        "formattedAddress": "35 Ellington St, Boston, MA 02121",
+        "addressLine1": "35 Ellington St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.301738,
+        "longitude": -71.083899,
+        "propertyType": "Multi-Family",
+        "bedrooms": 12,
+        "bathrooms": 6,
+        "squareFootage": 6381,
+        "lotSize": 3566,
+        "yearBuilt": 2019,
+        "status": "Active",
+        "price": 1550000,
+        "listingType": "Standard",
+        "listedDate": "2024-04-13T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-07-19T14:39:49.570Z",
+        "lastSeenDate": "2024-10-09T12:15:29.425Z",
+        "daysOnMarket": 180,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73223664",
+        "listingAgent": {
+            "name": "Lynda Le",
+            "phone": "6177942337",
+            "email": "cn213013@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Thread Real Estate",
+            "phone": "7817289689"
+        },
+        "history": {
+            "2024-04-13": {
+                "event": "Sale Listing",
+                "price": 1550000,
+                "listingType": "Standard",
+                "listedDate": "2024-04-13T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 180
+            }
+        }
+    },
+    {
+        "id": "22-High-St,-Unit-203,-Boston,-MA-02122",
+        "formattedAddress": "22 High St, Unit 203, Boston, MA 02122",
+        "addressLine1": "22 High St",
+        "addressLine2": "Unit 203",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02122",
+        "county": "Suffolk",
+        "latitude": 42.309406,
+        "longitude": -71.060898,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1140,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 396
+        },
+        "status": "Active",
+        "price": 799995,
+        "listingType": "New Construction",
+        "listedDate": "2024-04-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-04-26T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:15:29.407Z",
+        "daysOnMarket": 168,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73228998",
+        "listingAgent": {
+            "name": "Alyssa Lum",
+            "phone": "6179227334",
+            "email": "cn240687@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "EVO Real Estate Group, LLC",
+            "phone": "6175179755"
+        },
+        "history": {
+            "2024-04-25": {
+                "event": "Sale Listing",
+                "price": 799995,
+                "listingType": "New Construction",
+                "listedDate": "2024-04-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 168
+            }
+        }
+    },
+    {
+        "id": "22-High-St,-Ph-12,-Boston,-MA-02122",
+        "formattedAddress": "22 High St, Ph 12, Boston, MA 02122",
+        "addressLine1": "22 High St",
+        "addressLine2": "Ph 12",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02122",
+        "county": "Suffolk",
+        "latitude": 42.309406,
+        "longitude": -71.060898,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1445,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 520
+        },
+        "status": "Active",
+        "price": 1049995,
+        "listingType": "New Construction",
+        "listedDate": "2024-04-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-04-26T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:15:29.406Z",
+        "daysOnMarket": 168,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73229007",
+        "listingAgent": {
+            "name": "Alyssa Lum",
+            "phone": "6179227334",
+            "email": "cn240687@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "EVO Real Estate Group, LLC",
+            "phone": "6175179755"
+        },
+        "history": {
+            "2024-04-25": {
+                "event": "Sale Listing",
+                "price": 1049995,
+                "listingType": "New Construction",
+                "listedDate": "2024-04-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 168
+            }
+        }
+    },
+    {
+        "id": "7-Wilcutt-Rd,-Unit-7,-Boston,-MA-02121",
+        "formattedAddress": "7 Wilcutt Rd, Unit 7, Boston, MA 02121",
+        "addressLine1": "7 Wilcutt Rd",
+        "addressLine2": "Unit 7",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.303486,
+        "longitude": -71.075005,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 1500,
+        "yearBuilt": 2023,
+        "hoa": {
+            "fee": 300
+        },
+        "status": "Active",
+        "price": 699000,
+        "listingType": "New Construction",
+        "listedDate": "2024-05-29T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-01-24T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:00:55.891Z",
+        "daysOnMarket": 134,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73243698",
+        "listingOffice": {
+            "name": "Allison James Estates & Homes of MA, LLC",
+            "phone": "7812082515",
+            "email": "mabroker@ajicorporate.com",
+            "website": "https://ma.allisonjamesinc.com"
+        },
+        "history": {
+            "2024-05-29": {
+                "event": "Sale Listing",
+                "price": 699000,
+                "listingType": "New Construction",
+                "listedDate": "2024-05-29T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 134
+            }
+        }
+    },
+    {
+        "id": "20-Woodford-St,-Boston,-MA-02125",
+        "formattedAddress": "20 Woodford St, Boston, MA 02125",
+        "addressLine1": "20 Woodford St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.31846,
+        "longitude": -71.070791,
+        "propertyType": "Multi-Family",
+        "bedrooms": 8,
+        "bathrooms": 4,
+        "squareFootage": 3444,
+        "lotSize": 2653,
+        "yearBuilt": 2013,
+        "status": "Active",
+        "price": 1099900,
+        "listingType": "Standard",
+        "listedDate": "2024-05-30T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-05-31T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:00:55.888Z",
+        "daysOnMarket": 133,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73245073",
+        "listingAgent": {
+            "name": "Phillip Gendreau",
+            "phone": "4013016277",
+            "email": "phil@striveri.com"
+        },
+        "listingOffice": {
+            "name": "Strive Realty",
+            "phone": "4012708878",
+            "email": "kyledremy@gmail.com"
+        },
+        "history": {
+            "2024-05-30": {
+                "event": "Sale Listing",
+                "price": 1099900,
+                "listingType": "Standard",
+                "listedDate": "2024-05-30T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 133
+            }
+        }
+    },
+    {
+        "id": "30-Perrin-St,-Boston,-MA-02119",
+        "formattedAddress": "30 Perrin St, Boston, MA 02119",
+        "addressLine1": "30 Perrin St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02119",
+        "county": "Suffolk",
+        "latitude": 42.322227,
+        "longitude": -71.078258,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 4.5,
+        "squareFootage": 5010,
+        "lotSize": 7200,
+        "yearBuilt": 1880,
+        "status": "Active",
+        "price": 1579000,
+        "listingType": "Standard",
+        "listedDate": "2024-06-10T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-11T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:00:55.836Z",
+        "daysOnMarket": 122,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73250099",
+        "listingAgent": {
+            "name": "Lindsey & Associates Realty Team",
+            "phone": "6172881042",
+            "email": "tm315986@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Boston-Metro",
+            "phone": "6175420012",
+            "email": "david@kwboston.com",
+            "website": "http://kwbostonmetro.com"
+        },
+        "history": {
+            "2024-06-10": {
+                "event": "Sale Listing",
+                "price": 1579000,
+                "listingType": "Standard",
+                "listedDate": "2024-06-10T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 122
+            }
+        }
+    },
+    {
+        "id": "25-Hillsboro-St,-Unit-1,-Boston,-MA-02125",
+        "formattedAddress": "25 Hillsboro St, Unit 1, Boston, MA 02125",
+        "addressLine1": "25 Hillsboro St",
+        "addressLine2": "Unit 1",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.320045,
+        "longitude": -71.067215,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 998,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 150
+        },
+        "status": "Active",
+        "price": 575000,
+        "listingType": "New Construction",
+        "listedDate": "2024-06-13T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-13T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:00:55.833Z",
+        "daysOnMarket": 119,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73251679",
+        "listingAgent": {
+            "name": "Christine Do",
+            "phone": "5082302544",
+            "email": "bb802399@mlspin.net",
+            "website": "http://www.newenglandmoves.com/personlocator/personal_page.htm"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Realty",
+            "phone": "5082385000",
+            "email": "bb911154@mlspin.net",
+            "website": "https://mc326.yourkwoffice.com"
+        },
+        "history": {
+            "2024-06-13": {
+                "event": "Sale Listing",
+                "price": 575000,
+                "listingType": "New Construction",
+                "listedDate": "2024-06-13T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 119
+            }
+        }
+    },
+    {
+        "id": "25-Hillsboro-St,-Unit-2,-Boston,-MA-02125",
+        "formattedAddress": "25 Hillsboro St, Unit 2, Boston, MA 02125",
+        "addressLine1": "25 Hillsboro St",
+        "addressLine2": "Unit 2",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.320045,
+        "longitude": -71.067215,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1033,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 150
+        },
+        "status": "Active",
+        "price": 575000,
+        "listingType": "New Construction",
+        "listedDate": "2024-06-13T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-13T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:00:55.833Z",
+        "daysOnMarket": 119,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73251687",
+        "listingAgent": {
+            "name": "Christine Do",
+            "phone": "5082302544",
+            "email": "bb802399@mlspin.net",
+            "website": "http://www.newenglandmoves.com/personlocator/personal_page.htm"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Realty",
+            "phone": "5082385000",
+            "email": "bb911154@mlspin.net",
+            "website": "https://mc326.yourkwoffice.com"
+        },
+        "history": {
+            "2024-06-13": {
+                "event": "Sale Listing",
+                "price": 575000,
+                "listingType": "New Construction",
+                "listedDate": "2024-06-13T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 119
+            }
+        }
+    },
+    {
+        "id": "5-7-Everett-Ave,-Unit-5-2,-Boston,-MA-02125",
+        "formattedAddress": "5-7 Everett Ave, Unit 5-2, Boston, MA 02125",
+        "addressLine1": "5-7 Everett Ave",
+        "addressLine2": "Unit 5-2",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.315845,
+        "longitude": -71.063103,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 598,
+        "lotSize": 598,
+        "yearBuilt": 1935,
+        "hoa": {
+            "fee": 250
+        },
+        "status": "Active",
+        "price": 359900,
+        "listingType": "Standard",
+        "listedDate": "2024-06-13T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-13T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:00:55.830Z",
+        "daysOnMarket": 119,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73251704",
+        "listingAgent": {
+            "name": "Devin Wong",
+            "phone": "7818886288",
+            "email": "devinthebroker@gmail.com",
+            "website": "https://www.zillow.com/profile/agentdevin"
+        },
+        "listingOffice": {
+            "name": "Kava Realty Group, Inc.",
+            "phone": "6175060701"
+        },
+        "history": {
+            "2024-06-13": {
+                "event": "Sale Listing",
+                "price": 359900,
+                "listingType": "Standard",
+                "listedDate": "2024-06-13T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 119
+            }
+        }
+    },
+    {
+        "id": "25-Brinsley-St,-Unit-2,-Boston,-MA-02121",
+        "formattedAddress": "25 Brinsley St, Unit 2, Boston, MA 02121",
+        "addressLine1": "25 Brinsley St",
+        "addressLine2": "Unit 2",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.305489,
+        "longitude": -71.078423,
+        "propertyType": "Condo",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 1220,
+        "yearBuilt": 1905,
+        "hoa": {
+            "fee": 250
+        },
+        "status": "Active",
+        "price": 499900,
+        "listingType": "Standard",
+        "listedDate": "2024-06-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-27T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:57:40.983Z",
+        "daysOnMarket": 106,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73257619",
+        "listingAgent": {
+            "name": "Joseph Cali",
+            "phone": "5082597311",
+            "email": "cn221032@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Cali Realty Group",
+            "phone": "5082599669",
+            "email": "cn221032@mlspin.net"
+        },
+        "history": {
+            "2024-06-26": {
+                "event": "Sale Listing",
+                "price": 499900,
+                "listingType": "Standard",
+                "listedDate": "2024-06-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 106
+            }
+        }
+    },
+    {
+        "id": "25-Brinsley-St,-Unit-3,-Boston,-MA-02121",
+        "formattedAddress": "25 Brinsley St, Unit 3, Boston, MA 02121",
+        "addressLine1": "25 Brinsley St",
+        "addressLine2": "Unit 3",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.305489,
+        "longitude": -71.078423,
+        "propertyType": "Condo",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 1387,
+        "yearBuilt": 1905,
+        "hoa": {
+            "fee": 250
+        },
+        "status": "Active",
+        "price": 550000,
+        "listingType": "Standard",
+        "listedDate": "2024-06-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-27T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:57:40.982Z",
+        "daysOnMarket": 106,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73257618",
+        "listingAgent": {
+            "name": "Joseph Cali",
+            "phone": "5082597311",
+            "email": "cn221032@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Cali Realty Group",
+            "phone": "5082599669",
+            "email": "cn221032@mlspin.net"
+        },
+        "history": {
+            "2024-06-26": {
+                "event": "Sale Listing",
+                "price": 550000,
+                "listingType": "Standard",
+                "listedDate": "2024-06-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 106
+            }
+        }
+    },
+    {
+        "id": "30-Alaska-St,-Boston,-MA-02119",
+        "formattedAddress": "30 Alaska St, Boston, MA 02119",
+        "addressLine1": "30 Alaska St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02119",
+        "county": "Suffolk",
+        "latitude": 42.321047,
+        "longitude": -71.078123,
+        "propertyType": "Multi-Family",
+        "bedrooms": 6,
+        "bathrooms": 3.5,
+        "squareFootage": 2943,
+        "lotSize": 2317,
+        "yearBuilt": 1890,
+        "status": "Active",
+        "price": 895000,
+        "listingType": "Standard",
+        "listedDate": "2024-06-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-18T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:57:40.933Z",
+        "daysOnMarket": 114,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73253568",
+        "listingAgent": {
+            "name": "Quesnel Edouard",
+            "phone": "7819633330",
+            "email": "edou.quiz@yahoo.com"
+        },
+        "listingOffice": {
+            "name": "CENTURY 21 Kierman Realty",
+            "phone": "7819633330",
+            "email": "scottkierman@comcast.net",
+            "website": "http://www.century21.com/real-estate-office/profile/century-21-kierman-realty-10018630"
+        },
+        "history": {
+            "2024-06-18": {
+                "event": "Sale Listing",
+                "price": 895000,
+                "listingType": "Standard",
+                "listedDate": "2024-06-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 114
+            }
+        }
+    },
+    {
+        "id": "17-Pleasant-St,-Boston,-MA-02125",
+        "formattedAddress": "17 Pleasant St, Boston, MA 02125",
+        "addressLine1": "17 Pleasant St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.317528,
+        "longitude": -71.059449,
+        "propertyType": "Multi-Family",
+        "bedrooms": 12,
+        "bathrooms": 4.5,
+        "squareFootage": 3981,
+        "lotSize": 3920,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 1989000,
+        "listingType": "Standard",
+        "listedDate": "2024-06-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-26T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:57:40.914Z",
+        "daysOnMarket": 104,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73258600",
+        "listingAgent": {
+            "name": "Julianne Li",
+            "phone": "6174811560",
+            "email": "lotusre@gmail.com",
+            "website": "http://www.lotusre.com"
+        },
+        "listingOffice": {
+            "name": "Lotus Realty Group",
+            "phone": "6178881369"
+        },
+        "history": {
+            "2024-06-28": {
+                "event": "Sale Listing",
+                "price": 1989000,
+                "listingType": "Standard",
+                "listedDate": "2024-06-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 104
+            }
+        }
+    },
+    {
+        "id": "128-Hamilton-St,-Unit-2A,-Boston,-MA-02125",
+        "formattedAddress": "128 Hamilton St, Unit 2A, Boston, MA 02125",
+        "addressLine1": "128 Hamilton St",
+        "addressLine2": "Unit 2A",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.306923,
+        "longitude": -71.067574,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 577,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 107
+        },
+        "status": "Active",
+        "price": 399000,
+        "listingType": "New Construction",
+        "listedDate": "2024-07-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-07-16T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:57:40.910Z",
+        "daysOnMarket": 94,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73261004",
+        "listingAgent": {
+            "name": "Jep Realty Team",
+            "phone": "7818483948",
+            "email": "tm329198@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Real Broker Ma, LLC"
+        },
+        "history": {
+            "2024-07-08": {
+                "event": "Sale Listing",
+                "price": 399000,
+                "listingType": "New Construction",
+                "listedDate": "2024-07-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 94
+            }
+        }
+    },
+    {
+        "id": "16-Downer-Ct,-Unit-B,-Boston,-MA-02122",
+        "formattedAddress": "16 Downer Ct, Unit B, Boston, MA 02122",
+        "addressLine1": "16 Downer Ct",
+        "addressLine2": "Unit B",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02122",
+        "county": "Suffolk",
+        "latitude": 42.310207,
+        "longitude": -71.064994,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1657,
+        "lotSize": 1657,
+        "yearBuilt": 2004,
+        "hoa": {
+            "fee": 250
+        },
+        "status": "Active",
+        "price": 689000,
+        "listingType": "Standard",
+        "listedDate": "2024-06-27T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-28T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:57:40.907Z",
+        "daysOnMarket": 105,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73258257",
+        "listingAgent": {
+            "name": "Apurva Patel",
+            "phone": "7742173906",
+            "email": "bb954848@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Bostonville Realty",
+            "phone": "7742173906"
+        },
+        "history": {
+            "2024-06-27": {
+                "event": "Sale Listing",
+                "price": 689000,
+                "listingType": "Standard",
+                "listedDate": "2024-06-27T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 105
+            }
+        }
+    },
+    {
+        "id": "89-Blue-Hill-Ave,-Apt-1,-Boston,-MA-02119",
+        "formattedAddress": "89 Blue Hill Ave, Apt 1, Boston, MA 02119",
+        "addressLine1": "89 Blue Hill Ave",
+        "addressLine2": "Apt 1",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02119",
+        "county": "Suffolk",
+        "latitude": 42.3223,
+        "longitude": -71.07748,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1246,
+        "yearBuilt": 1920,
+        "hoa": {
+            "fee": 206
+        },
+        "status": "Active",
+        "price": 529000,
+        "listingType": "Standard",
+        "listedDate": "2024-07-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-07-12T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:57:40.905Z",
+        "daysOnMarket": 91,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73263635",
+        "listingAgent": {
+            "name": "Keith Manning",
+            "phone": "9784085853",
+            "email": "keithmanning10@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Berkshire Hathaway HomeServices Commonwealth Real Estate",
+            "phone": "7813132772"
+        },
+        "history": {
+            "2024-07-11": {
+                "event": "Sale Listing",
+                "price": 529000,
+                "listingType": "Standard",
+                "listedDate": "2024-07-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 91
+            }
+        }
+    },
+    {
+        "id": "55-Clifford-St,-Unit-2,-Boston,-MA-02119",
+        "formattedAddress": "55 Clifford St, Unit 2, Boston, MA 02119",
+        "addressLine1": "55 Clifford St",
+        "addressLine2": "Unit 2",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02119",
+        "county": "Suffolk",
+        "latitude": 42.319309,
+        "longitude": -71.079079,
+        "propertyType": "Condo",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "squareFootage": 2002,
+        "lotSize": 8040,
+        "yearBuilt": 1900,
+        "hoa": {
+            "fee": 225
+        },
+        "status": "Active",
+        "price": 649000,
+        "listingType": "Standard",
+        "listedDate": "2024-06-29T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-30T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:57:40.901Z",
+        "daysOnMarket": 103,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73258934",
+        "listingAgent": {
+            "name": "Null Nichols Realty Team",
+            "phone": "6174409217",
+            "email": "tm005501@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "MIG",
+            "phone": "6176515406"
+        },
+        "history": {
+            "2024-06-29": {
+                "event": "Sale Listing",
+                "price": 649000,
+                "listingType": "Standard",
+                "listedDate": "2024-06-29T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 103
+            }
+        }
+    },
+    {
+        "id": "472-Warren-St,-Boston,-MA-02121",
+        "formattedAddress": "472 Warren St, Boston, MA 02121",
+        "addressLine1": "472 Warren St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.315041,
+        "longitude": -71.083191,
+        "propertyType": "Multi-Family",
+        "bedrooms": 15,
+        "bathrooms": 3,
+        "squareFootage": 5718,
+        "lotSize": 2966,
+        "yearBuilt": 1899,
+        "status": "Active",
+        "price": 1850000,
+        "listingType": "Standard",
+        "listedDate": "2024-07-10T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-10-09T15:15:32.876Z",
+        "lastSeenDate": "2024-10-09T11:57:40.900Z",
+        "daysOnMarket": 92,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73262953",
+        "listingAgent": {
+            "name": "William Dynan",
+            "phone": "7817894826",
+            "email": "cn247841@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Realty Evolution"
+        },
+        "history": {
+            "2024-07-10": {
+                "event": "Sale Listing",
+                "price": 1850000,
+                "listingType": "Standard",
+                "listedDate": "2024-07-10T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 92
+            }
+        }
+    },
+    {
+        "id": "128-Hamilton-St,-Unit-3,-Boston,-MA-02125",
+        "formattedAddress": "128 Hamilton St, Unit 3, Boston, MA 02125",
+        "addressLine1": "128 Hamilton St",
+        "addressLine2": "Unit 3",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.306923,
+        "longitude": -71.067574,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1300,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 235
+        },
+        "status": "Active",
+        "price": 649000,
+        "listingType": "New Construction",
+        "listedDate": "2024-07-09T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-07-10T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:57:40.883Z",
+        "daysOnMarket": 93,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73261738",
+        "listingAgent": {
+            "name": "Jep Realty Team",
+            "phone": "7818483948",
+            "email": "tm329198@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Real Broker Ma, LLC"
+        },
+        "history": {
+            "2024-07-09": {
+                "event": "Sale Listing",
+                "price": 649000,
+                "listingType": "New Construction",
+                "listedDate": "2024-07-09T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 93
+            }
+        }
+    },
+    {
+        "id": "112-Sawyer-Ave,-Apt-2,-Boston,-MA-02125",
+        "formattedAddress": "112 Sawyer Ave, Apt 2, Boston, MA 02125",
+        "addressLine1": "112 Sawyer Ave",
+        "addressLine2": "Apt 2",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.313568,
+        "longitude": -71.063568,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1329,
+        "yearBuilt": 1908,
+        "hoa": {
+            "fee": 315
+        },
+        "status": "Active",
+        "price": 740000,
+        "listingType": "Standard",
+        "listedDate": "2024-07-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-07-17T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:57:40.876Z",
+        "daysOnMarket": 85,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73265571",
+        "listingAgent": {
+            "name": "Madelyn Kanter",
+            "phone": "6176964430",
+            "email": "madelyn.kanter@cbrealty.com",
+            "website": "www.bostoncapecodconnection.com"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty - Dorchester",
+            "phone": "6176964430"
+        },
+        "history": {
+            "2024-07-17": {
+                "event": "Sale Listing",
+                "price": 740000,
+                "listingType": "Standard",
+                "listedDate": "2024-07-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 85
+            }
+        }
+    },
+    {
+        "id": "3-Pleasant-St,-Apt-3,-Boston,-MA-02125",
+        "formattedAddress": "3 Pleasant St, Apt 3, Boston, MA 02125",
+        "addressLine1": "3 Pleasant St",
+        "addressLine2": "Apt 3",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.318489,
+        "longitude": -71.059151,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1100,
+        "lotSize": 1100,
+        "yearBuilt": 1890,
+        "hoa": {
+            "fee": 200
+        },
+        "status": "Active",
+        "price": 499000,
+        "listingType": "Standard",
+        "listedDate": "2024-07-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-07-19T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:56:45.660Z",
+        "daysOnMarket": 84,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73266661",
+        "listingAgent": {
+            "name": "James Silva",
+            "phone": "5082800196",
+            "email": "cn204547@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "At Home Real Estate Group, Inc",
+            "phone": "6174367676",
+            "email": "ken@athomeboston.com",
+            "website": "www.athomeboston.com"
+        },
+        "history": {
+            "2024-07-18": {
+                "event": "Sale Listing",
+                "price": 499000,
+                "listingType": "Standard",
+                "listedDate": "2024-07-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 84
+            }
+        }
+    },
+    {
+        "id": "80-86-Erie-St,-Boston,-MA-02121",
+        "formattedAddress": "80-86 Erie St, Boston, MA 02121",
+        "addressLine1": "80-86 Erie St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.301785,
+        "longitude": -71.081825,
+        "propertyType": "Multi-Family",
+        "bedrooms": 9,
+        "bathrooms": 6,
+        "squareFootage": 4074,
+        "lotSize": 3931,
+        "yearBuilt": 2016,
+        "status": "Active",
+        "price": 1875000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-07T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-08T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:56:45.626Z",
+        "daysOnMarket": 64,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73274641",
+        "listingAgent": {
+            "name": "Null Vargas Trinh Team",
+            "phone": "5088635004",
+            "email": "xaviervargasrealty@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Vicente Realty, Llc",
+            "phone": "5089443144"
+        },
+        "history": {
+            "2024-08-07": {
+                "event": "Sale Listing",
+                "price": 1875000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-07T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 64
+            }
+        }
+    },
+    {
+        "id": "1-Dunreath-St,-Unit-C,-Boston,-MA-02119",
+        "formattedAddress": "1 Dunreath St, Unit C, Boston, MA 02119",
+        "addressLine1": "1 Dunreath St",
+        "addressLine2": "Unit C",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02119",
+        "county": "Suffolk",
+        "latitude": 42.322659,
+        "longitude": -71.081629,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 1.5,
+        "squareFootage": 1279,
+        "lotSize": 1279,
+        "yearBuilt": 1900,
+        "hoa": {
+            "fee": 500
+        },
+        "status": "Active",
+        "price": 495000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-09T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:56:45.620Z",
+        "daysOnMarket": 63,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73275535",
+        "listingAgent": {
+            "name": "Lisa Green-browne",
+            "phone": "8577197278",
+            "email": "lisalgreen@kw.com",
+            "website": "https://www.lisalgreenrealtor.com/"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Realty",
+            "phone": "7818433200",
+            "email": "klrw735@kw.com",
+            "website": "www.kwshowcaseproperties.com"
+        },
+        "history": {
+            "2024-08-08": {
+                "event": "Sale Listing",
+                "price": 495000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 63
+            }
+        }
+    },
+    {
+        "id": "166-Quincy-St,-Boston,-MA-02121",
+        "formattedAddress": "166 Quincy St, Boston, MA 02121",
+        "addressLine1": "166 Quincy St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.313457,
+        "longitude": -71.075763,
+        "propertyType": "Multi-Family",
+        "bedrooms": 11,
+        "bathrooms": 3,
+        "squareFootage": 3906,
+        "lotSize": 2829,
+        "yearBuilt": 1920,
+        "status": "Active",
+        "price": 1200000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-12T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-13T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:28:13.325Z",
+        "daysOnMarket": 59,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73276721",
+        "listingAgent": {
+            "name": "Radhy A. Pena",
+            "phone": "6178881133",
+            "email": "radhyrealty@gmail.com",
+            "website": "http://pondsiderealty.com"
+        },
+        "listingOffice": {
+            "name": "Pondside Realty",
+            "phone": "6175246900",
+            "email": "christ@century21.com",
+            "website": "http://www.pondsiderealty.com"
+        },
+        "history": {
+            "2024-08-12": {
+                "event": "Sale Listing",
+                "price": 1200000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-12T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 59
+            }
+        }
+    },
+    {
+        "id": "335-Seaver-St,-Boston,-MA-02121",
+        "formattedAddress": "335 Seaver St, Boston, MA 02121",
+        "addressLine1": "335 Seaver St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.304761,
+        "longitude": -71.083795,
+        "propertyType": "Multi-Family",
+        "bedrooms": 9,
+        "bathrooms": 3,
+        "squareFootage": 4530,
+        "lotSize": 3333,
+        "yearBuilt": 1905,
+        "status": "Active",
+        "price": 1100000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-10T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-11T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:28:13.246Z",
+        "daysOnMarket": 61,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73276168",
+        "listingAgent": {
+            "name": "Betty Mosley",
+            "phone": "7818212664",
+            "email": "betty.mosley@cbrealty.com",
+            "website": "https://www.coldwellbankerhomes.com/ma/dedham/agent/betty-mosley/aid_224484/"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty - Canton",
+            "phone": "7818212664",
+            "email": "noreen.boyce@nemoves.com"
+        },
+        "history": {
+            "2024-08-10": {
+                "event": "Sale Listing",
+                "price": 1100000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-10T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 61
+            }
+        }
+    },
+    {
+        "id": "34-Bowdoin-Ave,-Boston,-MA-02121",
+        "formattedAddress": "34 Bowdoin Ave, Boston, MA 02121",
+        "addressLine1": "34 Bowdoin Ave",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.300108,
+        "longitude": -71.072475,
+        "propertyType": "Multi-Family",
+        "bedrooms": 12,
+        "bathrooms": 3,
+        "squareFootage": 4035,
+        "lotSize": 4173,
+        "yearBuilt": 1905,
+        "status": "Active",
+        "price": 1300000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-09-08T11:23:01.414Z",
+        "lastSeenDate": "2024-10-09T10:28:13.232Z",
+        "daysOnMarket": 55,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73278626",
+        "listingAgent": {
+            "name": "Jonathan Ladas",
+            "phone": "8572561822",
+            "email": "cn233784@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Young Realty Group, LLC"
+        },
+        "history": {
+            "2024-08-16": {
+                "event": "Sale Listing",
+                "price": 1300000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 55
+            }
+        }
+    },
+    {
+        "id": "128-Hamilton-St,-Unit-2B,-Boston,-MA-02125",
+        "formattedAddress": "128 Hamilton St, Unit 2B, Boston, MA 02125",
+        "addressLine1": "128 Hamilton St",
+        "addressLine2": "Unit 2B",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.306923,
+        "longitude": -71.067574,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 800,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 128
+        },
+        "status": "Active",
+        "price": 459000,
+        "listingType": "New Construction",
+        "listedDate": "2024-08-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-07-09T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:28:13.227Z",
+        "daysOnMarket": 55,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73278683",
+        "listingAgent": {
+            "name": "Jep Realty Team",
+            "phone": "7818483948",
+            "email": "tm329198@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Real Broker Ma, LLC"
+        },
+        "history": {
+            "2024-08-16": {
+                "event": "Sale Listing",
+                "price": 459000,
+                "listingType": "New Construction",
+                "listedDate": "2024-08-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 55
+            }
+        }
+    },
+    {
+        "id": "64-66-Elmont-St,-Boston,-MA-02121",
+        "formattedAddress": "64-66 Elmont St, Boston, MA 02121",
+        "addressLine1": "64-66 Elmont St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.299538,
+        "longitude": -71.077919,
+        "propertyType": "Multi-Family",
+        "bedrooms": 7,
+        "bathrooms": 2,
+        "squareFootage": 3022,
+        "lotSize": 3510,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 849900,
+        "listingType": "Standard",
+        "listedDate": "2024-08-21T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-22T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:28:13.220Z",
+        "daysOnMarket": 50,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73280399",
+        "listingAgent": {
+            "name": "Robert Chestnut",
+            "phone": "5082940281",
+            "email": "bb910138@mlspin.net",
+            "website": "http://www.robertchestnut.com"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Realty",
+            "phone": "5082385000",
+            "email": "bb911154@mlspin.net",
+            "website": "https://mc326.yourkwoffice.com"
+        },
+        "history": {
+            "2024-08-21": {
+                "event": "Sale Listing",
+                "price": 849900,
+                "listingType": "Standard",
+                "listedDate": "2024-08-21T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 50
+            }
+        }
+    },
+    {
+        "id": "60-Bowdoin-Ave,-Boston,-MA-02121",
+        "formattedAddress": "60 Bowdoin Ave, Boston, MA 02121",
+        "addressLine1": "60 Bowdoin Ave",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.301102,
+        "longitude": -71.074127,
+        "propertyType": "Multi-Family",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "squareFootage": 2469,
+        "lotSize": 5932,
+        "yearBuilt": 1920,
+        "status": "Active",
+        "price": 949900,
+        "listingType": "Standard",
+        "listedDate": "2024-08-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-10-28T08:42:42.481Z",
+        "lastSeenDate": "2024-10-09T10:28:13.201Z",
+        "daysOnMarket": 52,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73279296",
+        "listingAgent": {
+            "name": "Jeffrey Jacques",
+            "phone": "8574453917",
+            "email": "ct000525@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Cm Realty Associates",
+            "phone": "5082974012"
+        },
+        "history": {
+            "2024-08-19": {
+                "event": "Sale Listing",
+                "price": 949900,
+                "listingType": "Standard",
+                "listedDate": "2024-08-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 52
+            }
+        }
+    },
+    {
+        "id": "63-Coleman-St,-Boston,-MA-02125",
+        "formattedAddress": "63 Coleman St, Boston, MA 02125",
+        "addressLine1": "63 Coleman St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.307918,
+        "longitude": -71.067002,
+        "propertyType": "Multi-Family",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "squareFootage": 1698,
+        "lotSize": 3866,
+        "yearBuilt": 1890,
+        "status": "Active",
+        "price": 975000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-10-30T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:14:29.533Z",
+        "daysOnMarket": 37,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73283981",
+        "listingAgent": {
+            "name": "Sheila Traphagen",
+            "phone": "8573420644",
+            "email": "cn212527@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Bridgestone Properties, Llc",
+            "phone": "6172691206"
+        },
+        "history": {
+            "2024-09-03": {
+                "event": "Sale Listing",
+                "price": 975000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 37
+            }
+        }
+    },
+    {
+        "id": "118R-Homes-Ave,-Unit-2,-Boston,-MA-02122",
+        "formattedAddress": "118R Homes Ave, Unit 2, Boston, MA 02122",
+        "addressLine1": "118R Homes Ave",
+        "addressLine2": "Unit 2",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02122",
+        "county": "Suffolk",
+        "latitude": 42.303778,
+        "longitude": -71.066273,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1064,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 228
+        },
+        "status": "Active",
+        "price": 625000,
+        "listingType": "New Construction",
+        "listedDate": "2024-09-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-06T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:14:29.532Z",
+        "daysOnMarket": 37,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73283985",
+        "listingAgent": {
+            "name": "The Maguire Group",
+            "phone": "6177979679",
+            "email": "tm343886@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "COMPASS",
+            "phone": "6172063333",
+            "email": "listings@compass.com"
+        },
+        "history": {
+            "2024-09-03": {
+                "event": "Sale Listing",
+                "price": 625000,
+                "listingType": "New Construction",
+                "listedDate": "2024-09-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 37
+            }
+        }
+    },
+    {
+        "id": "43-Georgia-St,-Boston,-MA-02121",
+        "formattedAddress": "43 Georgia St, Boston, MA 02121",
+        "addressLine1": "43 Georgia St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.310056,
+        "longitude": -71.084071,
+        "propertyType": "Multi-Family",
+        "bedrooms": 12,
+        "bathrooms": 7,
+        "squareFootage": 5260,
+        "lotSize": 4035,
+        "yearBuilt": 2021,
+        "status": "Active",
+        "price": 1895000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-04T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:14:29.526Z",
+        "daysOnMarket": 37,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73284325",
+        "listingAgent": {
+            "name": "Markese Daise",
+            "phone": "6179054014",
+            "email": "cn211128@mlspin.net",
+            "website": "http://www.thebostonrealestateagent.com"
+        },
+        "listingOffice": {
+            "name": "Stony Brook & Lennox Realty Advisors",
+            "phone": "6175319077"
+        },
+        "history": {
+            "2024-09-03": {
+                "event": "Sale Listing",
+                "price": 1895000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 37
+            }
+        }
+    },
+    {
+        "id": "49-Georgia-St,-Boston,-MA-02121",
+        "formattedAddress": "49 Georgia St, Boston, MA 02121",
+        "addressLine1": "49 Georgia St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.310126,
+        "longitude": -71.084233,
+        "propertyType": "Multi-Family",
+        "bedrooms": 7,
+        "bathrooms": 6,
+        "squareFootage": 3600,
+        "lotSize": 4035,
+        "yearBuilt": 2024,
+        "status": "Active",
+        "price": 1699000,
+        "listingType": "New Construction",
+        "listedDate": "2024-09-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-04T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:14:29.525Z",
+        "daysOnMarket": 37,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73284324",
+        "listingAgent": {
+            "name": "Markese Daise",
+            "phone": "6179054014",
+            "email": "cn211128@mlspin.net",
+            "website": "http://www.thebostonrealestateagent.com"
+        },
+        "listingOffice": {
+            "name": "Stony Brook & Lennox Realty Advisors",
+            "phone": "6175319077"
+        },
+        "history": {
+            "2024-09-03": {
+                "event": "Sale Listing",
+                "price": 1699000,
+                "listingType": "New Construction",
+                "listedDate": "2024-09-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 37
+            }
+        }
+    },
+    {
+        "id": "24-Mt-Ida-Rd,-Unit-2,-Boston,-MA-02122",
+        "formattedAddress": "24 Mt Ida Rd, Unit 2, Boston, MA 02122",
+        "addressLine1": "24 Mt Ida Rd",
+        "addressLine2": "Unit 2",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02122",
+        "county": "Suffolk",
+        "latitude": 42.30642,
+        "longitude": -71.064945,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1083,
+        "yearBuilt": 1905,
+        "hoa": {
+            "fee": 244
+        },
+        "status": "Active",
+        "price": 585000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-05T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-06T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:14:29.506Z",
+        "daysOnMarket": 35,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73285639",
+        "listingAgent": {
+            "name": "Douglas Bosse",
+            "phone": "6172016838",
+            "email": "bb802302@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Olde Towne Real Estate Co.",
+            "phone": "6178220300",
+            "email": "jdill@oldetownere.com"
+        },
+        "history": {
+            "2024-09-05": {
+                "event": "Sale Listing",
+                "price": 585000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-05T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 35
+            }
+        }
+    },
+    {
+        "id": "42-Deckard-St,-Unit-1,-Boston,-MA-02121",
+        "formattedAddress": "42 Deckard St, Unit 1, Boston, MA 02121",
+        "addressLine1": "42 Deckard St",
+        "addressLine2": "Unit 1",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.31582,
+        "longitude": -71.085706,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 2049,
+        "lotSize": 5113,
+        "yearBuilt": 1890,
+        "hoa": {
+            "fee": 610
+        },
+        "status": "Active",
+        "price": 829000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-05T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-05T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:14:29.487Z",
+        "daysOnMarket": 35,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73285465",
+        "listingAgent": {
+            "name": "Natalja Zurman",
+            "phone": "6175932170",
+            "email": "bb923798@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Boston Real Property",
+            "phone": "6179283355",
+            "email": "bb923798@mlspin.net",
+            "website": "bostonrealproperty.com"
+        },
+        "history": {
+            "2024-09-05": {
+                "event": "Sale Listing",
+                "price": 829000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-05T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 35
+            }
+        }
+    },
+    {
+        "id": "38-Pleasant-St,-Apt-3,-Boston,-MA-02125",
+        "formattedAddress": "38 Pleasant St, Apt 3, Boston, MA 02125",
+        "addressLine1": "38 Pleasant St",
+        "addressLine2": "Apt 3",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.316093,
+        "longitude": -71.059054,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1095,
+        "lotSize": 1095,
+        "yearBuilt": 1860,
+        "hoa": {
+            "fee": 526
+        },
+        "status": "Active",
+        "price": 674900,
+        "listingType": "Standard",
+        "listedDate": "2024-09-04T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-05T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:14:29.471Z",
+        "daysOnMarket": 36,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73285156",
+        "listingAgent": {
+            "name": "Alexandra Joyce",
+            "phone": "3392370783",
+            "email": "ali.joyce@raveis.com",
+            "website": "http://alexandrajoyce.raveis.com"
+        },
+        "listingOffice": {
+            "name": "William Raveis Real Estate - Boston - South End",
+            "phone": "6174268333",
+            "email": "boston@raveis.com"
+        },
+        "history": {
+            "2024-09-04": {
+                "event": "Sale Listing",
+                "price": 674900,
+                "listingType": "Standard",
+                "listedDate": "2024-09-04T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 36
+            }
+        }
+    },
+    {
+        "id": "43-49-Georgia-St,-Boston,-MA-02121",
+        "formattedAddress": "43-49 Georgia St, Boston, MA 02121",
+        "addressLine1": "43-49 Georgia St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.310005,
+        "longitude": -71.084091,
+        "propertyType": "Multi-Family",
+        "bedrooms": 19,
+        "bathrooms": 14,
+        "squareFootage": 8860,
+        "lotSize": 8035,
+        "yearBuilt": 2024,
+        "status": "Active",
+        "price": 3595000,
+        "listingType": "New Construction",
+        "listedDate": "2024-09-05T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-07-05T13:44:36.484Z",
+        "lastSeenDate": "2024-10-09T10:14:29.467Z",
+        "daysOnMarket": 35,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73285836",
+        "listingAgent": {
+            "name": "Markese Daise",
+            "phone": "6179054014",
+            "email": "cn211128@mlspin.net",
+            "website": "http://www.thebostonrealestateagent.com"
+        },
+        "listingOffice": {
+            "name": "Stony Brook & Lennox Realty Advisors",
+            "phone": "6175319077"
+        },
+        "history": {
+            "2024-09-05": {
+                "event": "Sale Listing",
+                "price": 3595000,
+                "listingType": "New Construction",
+                "listedDate": "2024-09-05T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 35
+            }
+        }
+    },
+    {
+        "id": "24-Alaska-St,-Boston,-MA-02119",
+        "formattedAddress": "24 Alaska St, Boston, MA 02119",
+        "addressLine1": "24 Alaska St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02119",
+        "county": "Suffolk",
+        "latitude": 42.321141,
+        "longitude": -71.078324,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 3,
+        "squareFootage": 3705,
+        "lotSize": 2377,
+        "yearBuilt": 1890,
+        "status": "Active",
+        "price": 794500,
+        "listingType": "Standard",
+        "listedDate": "2024-09-09T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-06-17T12:40:51.574Z",
+        "lastSeenDate": "2024-10-09T10:02:18.163Z",
+        "daysOnMarket": 31,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73287088",
+        "listingAgent": {
+            "name": "Bernice Osborne",
+            "phone": "6172016776",
+            "email": "bernicetherealtor@gmail.com",
+            "website": "http://www.bernicetherealtor.com"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Realty",
+            "phone": "7818433200",
+            "email": "klrw735@kw.com",
+            "website": "www.kwshowcaseproperties.com"
+        },
+        "history": {
+            "2024-09-09": {
+                "event": "Sale Listing",
+                "price": 794500,
+                "listingType": "Standard",
+                "listedDate": "2024-09-09T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 31
+            }
+        }
+    },
+    {
+        "id": "127-E-Cottage-St,-Unit-7,-Boston,-MA-02125",
+        "formattedAddress": "127 E Cottage St, Unit 7, Boston, MA 02125",
+        "addressLine1": "127 E Cottage St",
+        "addressLine2": "Unit 7",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.320947,
+        "longitude": -71.064465,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1045,
+        "yearBuilt": 2021,
+        "hoa": {
+            "fee": 386
+        },
+        "status": "Active",
+        "price": 685000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-05-11T10:32:55.180Z",
+        "lastSeenDate": "2024-10-09T10:02:18.162Z",
+        "daysOnMarket": 29,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73288181",
+        "listingAgent": {
+            "name": "Brian Quijada",
+            "phone": "9785909921",
+            "email": "cn231450@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "EVO Real Estate Group, LLC",
+            "phone": "6175179755"
+        },
+        "history": {
+            "2024-09-11": {
+                "event": "Sale Listing",
+                "price": 685000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 29
+            }
+        }
+    },
+    {
+        "id": "11-Wilkinson-Park,-Apt-2,-Boston,-MA-02122",
+        "formattedAddress": "11 Wilkinson Park, Apt 2, Boston, MA 02122",
+        "addressLine1": "11 Wilkinson Park",
+        "addressLine2": "Apt 2",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02122",
+        "county": "Suffolk",
+        "latitude": 42.307032,
+        "longitude": -71.06138,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 958,
+        "lotSize": 958,
+        "yearBuilt": 1905,
+        "hoa": {
+            "fee": 150
+        },
+        "status": "Active",
+        "price": 499000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-12T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:02:18.157Z",
+        "daysOnMarket": 29,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73288516",
+        "listingAgent": {
+            "name": "Dana Schaefer",
+            "phone": "6177975293",
+            "email": "dana.schaefer@compass.com",
+            "website": "https://www.danaschaefer.com/"
+        },
+        "listingOffice": {
+            "name": "COMPASS",
+            "phone": "6173030067",
+            "email": "info@compass.com"
+        },
+        "history": {
+            "2024-09-11": {
+                "event": "Sale Listing",
+                "price": 499000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 29
+            }
+        }
+    },
+    {
+        "id": "145-Stoughton-St,-Apt-1,-Boston,-MA-02125",
+        "formattedAddress": "145 Stoughton St, Apt 1, Boston, MA 02125",
+        "addressLine1": "145 Stoughton St",
+        "addressLine2": "Apt 1",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.314672,
+        "longitude": -71.060657,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1059,
+        "yearBuilt": 1900,
+        "hoa": {
+            "fee": 165
+        },
+        "status": "Active",
+        "price": 670000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-12T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:02:18.150Z",
+        "daysOnMarket": 29,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73288700",
+        "listingAgent": {
+            "name": "Abode With Us Team",
+            "phone": "6179536046",
+            "email": "tm347143@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "COMPASS",
+            "phone": "6172063333",
+            "email": "info@compass.com"
+        },
+        "history": {
+            "2024-09-11": {
+                "event": "Sale Listing",
+                "price": 670000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 29
+            }
+        }
+    },
+    {
+        "id": "8-Woodville-Park,-Boston,-MA-02119",
+        "formattedAddress": "8 Woodville Park, Boston, MA 02119",
+        "addressLine1": "8 Woodville Park",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02119",
+        "county": "Suffolk",
+        "latitude": 42.321823,
+        "longitude": -71.07502,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1594,
+        "lotSize": 1889,
+        "yearBuilt": 1885,
+        "status": "Active",
+        "price": 670000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-10T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-11T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:02:18.143Z",
+        "daysOnMarket": 30,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73288088",
+        "listingAgent": {
+            "name": "Paul A. Morrison",
+            "phone": "7817066423",
+            "email": "bb807050@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Realty",
+            "phone": "5082385000",
+            "email": "bb911154@mlspin.net",
+            "website": "https://mc326.yourkwoffice.com"
+        },
+        "history": {
+            "2024-09-10": {
+                "event": "Sale Listing",
+                "price": 670000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-10T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 30
+            }
+        }
+    },
+    {
+        "id": "67-Bakersfield-St,-Unit-B,-Boston,-MA-02125",
+        "formattedAddress": "67 Bakersfield St, Unit B, Boston, MA 02125",
+        "addressLine1": "67 Bakersfield St",
+        "addressLine2": "Unit B",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.315717,
+        "longitude": -71.061549,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 3.5,
+        "squareFootage": 2677,
+        "lotSize": 2677,
+        "yearBuilt": 2002,
+        "hoa": {
+            "fee": 300
+        },
+        "status": "Active",
+        "price": 1025000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-12T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-13T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:48:16.081Z",
+        "daysOnMarket": 28,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73289181",
+        "listingAgent": {
+            "name": "Jamie Iacoi",
+            "phone": "5085727642",
+            "email": "jamie@greatspacesboston.com",
+            "website": "http://www.greatspacesboston.com"
+        },
+        "listingOffice": {
+            "name": "Great Spaces Era",
+            "phone": "6179327020",
+            "email": "info@greatspacesboston.com"
+        },
+        "history": {
+            "2024-09-12": {
+                "event": "Sale Listing",
+                "price": 1025000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-12T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 28
+            }
+        }
+    },
+    {
+        "id": "25-Peverell-St,-Apt-1,-Boston,-MA-02125",
+        "formattedAddress": "25 Peverell St, Apt 1, Boston, MA 02125",
+        "addressLine1": "25 Peverell St",
+        "addressLine2": "Apt 1",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.313194,
+        "longitude": -71.060865,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1065,
+        "lotSize": 1065,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 341
+        },
+        "status": "Active",
+        "price": 735000,
+        "listingType": "New Construction",
+        "listedDate": "2024-09-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-12T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:48:16.031Z",
+        "daysOnMarket": 29,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73288910",
+        "listingAgent": {
+            "name": "Casey Cochran",
+            "phone": "6176155955",
+            "email": "casey.cochran@nemoves.com",
+            "website": "http://thecaseysboston.com"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty",
+            "phone": "6172664430",
+            "email": "ken.tutunjian@nemoves.com",
+            "website": "https://www.coldwellbankerhomes.com//ma/boston/office/boston-back-bay/oid_3808/"
+        },
+        "history": {
+            "2024-09-11": {
+                "event": "Sale Listing",
+                "price": 735000,
+                "listingType": "New Construction",
+                "listedDate": "2024-09-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 29
+            }
+        }
+    },
+    {
+        "id": "18-Fernboro-St,-Boston,-MA-02121",
+        "formattedAddress": "18 Fernboro St, Boston, MA 02121",
+        "addressLine1": "18 Fernboro St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.311043,
+        "longitude": -71.077188,
+        "propertyType": "Multi-Family",
+        "bedrooms": 14,
+        "bathrooms": 6,
+        "squareFootage": 4167,
+        "lotSize": 2709,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 1337500,
+        "listingType": "Standard",
+        "listedDate": "2024-09-15T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-06-17T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:48:16.013Z",
+        "daysOnMarket": 25,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73290255",
+        "listingAgent": {
+            "name": "Crystal Kavanaugh",
+            "phone": "5082729155",
+            "email": "crystalkavanaugh@candcconnections.net",
+            "website": "https://candcconnections.net"
+        },
+        "listingOffice": {
+            "name": "Homesmart Professionals Real Estate",
+            "phone": "4019215011"
+        },
+        "history": {
+            "2024-09-15": {
+                "event": "Sale Listing",
+                "price": 1337500,
+                "listingType": "Standard",
+                "listedDate": "2024-09-15T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 25
+            }
+        }
+    },
+    {
+        "id": "24-Gayland-St,-Unit-3,-Boston,-MA-02125",
+        "formattedAddress": "24 Gayland St, Unit 3, Boston, MA 02125",
+        "addressLine1": "24 Gayland St",
+        "addressLine2": "Unit 3",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.320096,
+        "longitude": -71.075735,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1250,
+        "lotSize": 1250,
+        "yearBuilt": 1905,
+        "hoa": {
+            "fee": 303
+        },
+        "status": "Active",
+        "price": 509900,
+        "listingType": "Standard",
+        "listedDate": "2024-09-12T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-07-21T07:12:42.974Z",
+        "lastSeenDate": "2024-10-09T09:48:16.004Z",
+        "daysOnMarket": 28,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73289497",
+        "listingAgent": {
+            "name": "Jovonie Houston",
+            "phone": "6176964430",
+            "email": "jovonie.houston@cbrealty.com"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty - Dorchester",
+            "phone": "6176964430"
+        },
+        "history": {
+            "2024-09-12": {
+                "event": "Sale Listing",
+                "price": 509900,
+                "listingType": "Standard",
+                "listedDate": "2024-09-12T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 28
+            }
+        }
+    },
+    {
+        "id": "16-18-Fernboro-St,-Boston,-MA-02121",
+        "formattedAddress": "16-18 Fernboro St, Boston, MA 02121",
+        "addressLine1": "16-18 Fernboro St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.311115,
+        "longitude": -71.077164,
+        "propertyType": "Multi-Family",
+        "bedrooms": 28,
+        "bathrooms": 12,
+        "squareFootage": 8334,
+        "lotSize": 5216,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 2675000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-15T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-07-11T13:35:33.120Z",
+        "lastSeenDate": "2024-10-09T09:48:15.999Z",
+        "daysOnMarket": 25,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73290248",
+        "listingAgent": {
+            "name": "Crystal Kavanaugh",
+            "phone": "5082729155",
+            "email": "crystalkavanaugh@candcconnections.net",
+            "website": "https://candcconnections.net"
+        },
+        "listingOffice": {
+            "name": "Homesmart Professionals Real Estate",
+            "phone": "4019215011"
+        },
+        "history": {
+            "2024-09-15": {
+                "event": "Sale Listing",
+                "price": 2675000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-15T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 25
+            }
+        }
+    },
+    {
+        "id": "16-Fernboro-St,-Boston,-MA-02121",
+        "formattedAddress": "16 Fernboro St, Boston, MA 02121",
+        "addressLine1": "16 Fernboro St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.311115,
+        "longitude": -71.077164,
+        "propertyType": "Multi-Family",
+        "bedrooms": 14,
+        "bathrooms": 6,
+        "squareFootage": 4167,
+        "lotSize": 2507,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 1337500,
+        "listingType": "Standard",
+        "listedDate": "2024-09-15T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-06-17T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:48:15.993Z",
+        "daysOnMarket": 25,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73290254",
+        "listingAgent": {
+            "name": "Crystal Kavanaugh",
+            "phone": "5082729155",
+            "email": "crystalkavanaugh@candcconnections.net",
+            "website": "https://candcconnections.net"
+        },
+        "listingOffice": {
+            "name": "Homesmart Professionals Real Estate",
+            "phone": "4019215011"
+        },
+        "history": {
+            "2024-09-15": {
+                "event": "Sale Listing",
+                "price": 1337500,
+                "listingType": "Standard",
+                "listedDate": "2024-09-15T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 25
+            }
+        }
+    },
+    {
+        "id": "7-Waumbeck-St,-Unit-3,-Boston,-MA-02121",
+        "formattedAddress": "7 Waumbeck St, Unit 3, Boston, MA 02121",
+        "addressLine1": "7 Waumbeck St",
+        "addressLine2": "Unit 3",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.313602,
+        "longitude": -71.084221,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1300,
+        "lotSize": 5400,
+        "yearBuilt": 2023,
+        "hoa": {
+            "fee": 236
+        },
+        "status": "Active",
+        "price": 679000,
+        "listingType": "New Construction",
+        "listedDate": "2024-09-13T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-09-19T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:48:15.991Z",
+        "daysOnMarket": 27,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73289698",
+        "listingAgent": {
+            "name": "Danielle Bing",
+            "phone": "6174266900",
+            "email": "danielle.bing@gibsonsir.com"
+        },
+        "listingOffice": {
+            "name": "Gibson Sotheby's International Realty",
+            "phone": "6174266901",
+            "email": "info@gibsonsir.com",
+            "website": "http://www.gibsonsothebysrealty.com/"
+        },
+        "history": {
+            "2024-09-13": {
+                "event": "Sale Listing",
+                "price": 679000,
+                "listingType": "New Construction",
+                "listedDate": "2024-09-13T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 27
+            }
+        }
+    },
+    {
+        "id": "87-Maple-St,-Unit-L,-Boston,-MA-02121",
+        "formattedAddress": "87 Maple St, Unit L, Boston, MA 02121",
+        "addressLine1": "87 Maple St",
+        "addressLine2": "Unit L",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.308018,
+        "longitude": -71.086693,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 745,
+        "lotSize": 5944,
+        "yearBuilt": 1925,
+        "hoa": {
+            "fee": 250
+        },
+        "status": "Active",
+        "price": 475000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-17T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:48:15.974Z",
+        "daysOnMarket": 24,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73290596",
+        "listingAgent": {
+            "name": "Marc Joseph",
+            "phone": "6179993324",
+            "email": "marcjrealty@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Citylight Homes LLC",
+            "phone": "9789770050"
+        },
+        "history": {
+            "2024-09-16": {
+                "event": "Sale Listing",
+                "price": 475000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 24
+            }
+        }
+    },
+    {
+        "id": "69-Stanwood-St,-Boston,-MA-02121",
+        "formattedAddress": "69 Stanwood St, Boston, MA 02121",
+        "addressLine1": "69 Stanwood St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.308399,
+        "longitude": -71.079247,
+        "propertyType": "Multi-Family",
+        "bedrooms": 11,
+        "bathrooms": 4.5,
+        "squareFootage": 4158,
+        "lotSize": 5065,
+        "yearBuilt": 1905,
+        "status": "Active",
+        "price": 1250000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-02-05T11:29:05.671Z",
+        "lastSeenDate": "2024-10-09T09:47:19.803Z",
+        "daysOnMarket": 22,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73291822",
+        "listingAgent": {
+            "name": "Mirta Otero",
+            "phone": "7812836093",
+            "email": "bb904044@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Otero & Pearl Associates",
+            "phone": "6175669500"
+        },
+        "history": {
+            "2024-09-18": {
+                "event": "Sale Listing",
+                "price": 1250000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 22
+            }
+        }
+    },
+    {
+        "id": "352-Blue-Hill-Ave,-Unit-8,-Boston,-MA-02121",
+        "formattedAddress": "352 Blue Hill Ave, Unit 8, Boston, MA 02121",
+        "addressLine1": "352 Blue Hill Ave",
+        "addressLine2": "Unit 8",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.312135,
+        "longitude": -71.080071,
+        "propertyType": "Condo",
+        "bedrooms": 4,
+        "bathrooms": 1.5,
+        "squareFootage": 1203,
+        "lotSize": 1203,
+        "yearBuilt": 2009,
+        "hoa": {
+            "fee": 464
+        },
+        "status": "Active",
+        "price": 469900,
+        "listingType": "Standard",
+        "listedDate": "2024-09-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-23T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:47:19.796Z",
+        "daysOnMarket": 22,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73291916",
+        "listingAgent": {
+            "name": "Nina Desmond",
+            "phone": "5086850223",
+            "email": "k9502176@mlspin.net",
+            "website": "https://www.lamacchiarealty.com/worcester/"
+        },
+        "listingOffice": {
+            "name": "Lamacchia Realty, Inc.",
+            "phone": "5084257372",
+            "email": "worcester@lamacchiarealty.com",
+            "website": "https://www.lamacchiarealty.com/worcester/"
+        },
+        "history": {
+            "2024-09-18": {
+                "event": "Sale Listing",
+                "price": 469900,
+                "listingType": "Standard",
+                "listedDate": "2024-09-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 22
+            }
+        }
+    },
+    {
+        "id": "125-Draper-St,-Apt-3,-Boston,-MA-02122",
+        "formattedAddress": "125 Draper St, Apt 3, Boston, MA 02122",
+        "addressLine1": "125 Draper St",
+        "addressLine2": "Apt 3",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02122",
+        "county": "Suffolk",
+        "latitude": 42.305755,
+        "longitude": -71.065412,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1133,
+        "lotSize": 13068,
+        "yearBuilt": 1915,
+        "hoa": {
+            "fee": 300
+        },
+        "status": "Active",
+        "price": 550000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-19T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:47:19.791Z",
+        "daysOnMarket": 22,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73291787",
+        "listingAgent": {
+            "name": "Christine Mcconville",
+            "phone": "6172664430",
+            "email": "christine.mcconville@nemoves.com",
+            "website": "https://www.coldwellbankerhomes.com/ma/boston/agent/christine-mcconville/aid_160491/"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty",
+            "phone": "6172664430",
+            "email": "ken.tutunjian@nemoves.com",
+            "website": "https://www.coldwellbankerhomes.com//ma/boston/office/boston-back-bay/oid_3808/"
+        },
+        "history": {
+            "2024-09-18": {
+                "event": "Sale Listing",
+                "price": 550000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 22
+            }
+        }
+    },
+    {
+        "id": "76-Draper-St,-Apt-1,-Boston,-MA-02122",
+        "formattedAddress": "76 Draper St, Apt 1, Boston, MA 02122",
+        "addressLine1": "76 Draper St",
+        "addressLine2": "Apt 1",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02122",
+        "county": "Suffolk",
+        "latitude": 42.304067,
+        "longitude": -71.0649,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1480,
+        "lotSize": 5150,
+        "yearBuilt": 1905,
+        "hoa": {
+            "fee": 232
+        },
+        "status": "Active",
+        "price": 659000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-20T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:47:19.737Z",
+        "daysOnMarket": 21,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73292594",
+        "listingAgent": {
+            "name": "Kevin Grogan",
+            "phone": "6172725516",
+            "email": "kgrogan@kelleyrege.com"
+        },
+        "listingOffice": {
+            "name": "Kelley & Rege Properties, Inc.",
+            "phone": "6176966100",
+            "email": "176455@proi.io",
+            "website": "http://www.kelleyrege.com"
+        },
+        "history": {
+            "2024-09-19": {
+                "event": "Sale Listing",
+                "price": 659000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 21
+            }
+        }
+    },
+    {
+        "id": "19-Dawes-St,-Unit-1,-Boston,-MA-02125",
+        "formattedAddress": "19 Dawes St, Unit 1, Boston, MA 02125",
+        "addressLine1": "19 Dawes St",
+        "addressLine2": "Unit 1",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.31852,
+        "longitude": -71.060736,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "squareFootage": 865,
+        "yearBuilt": 1880,
+        "hoa": {
+            "fee": 283
+        },
+        "status": "Active",
+        "price": 639000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-20T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:47:19.733Z",
+        "daysOnMarket": 21,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73292267",
+        "listingAgent": {
+            "name": "Casey Cochran",
+            "phone": "6176155955",
+            "email": "casey.cochran@nemoves.com",
+            "website": "http://thecaseysboston.com"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty",
+            "phone": "6172664430",
+            "email": "ken.tutunjian@nemoves.com",
+            "website": "https://www.coldwellbankerhomes.com//ma/boston/office/boston-back-bay/oid_3808/"
+        },
+        "history": {
+            "2024-09-19": {
+                "event": "Sale Listing",
+                "price": 639000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 21
+            }
+        }
+    },
+    {
+        "id": "10-Harold-Park,-Boston,-MA-02119",
+        "formattedAddress": "10 Harold Park, Boston, MA 02119",
+        "addressLine1": "10 Harold Park",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02119",
+        "county": "Suffolk",
+        "latitude": 42.319137,
+        "longitude": -71.087404,
+        "propertyType": "Multi-Family",
+        "bedrooms": 9,
+        "bathrooms": 3,
+        "squareFootage": 5379,
+        "lotSize": 8666,
+        "yearBuilt": 1905,
+        "status": "Active",
+        "price": 1575000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-20T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-21T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:47:19.730Z",
+        "daysOnMarket": 20,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73293066",
+        "listingAgent": {
+            "name": "Derek Eisenberg",
+            "phone": "8779965728",
+            "website": "http://www.multiplelistingsystem.com"
+        },
+        "listingOffice": {
+            "name": "Continental Real Estate Group, Inc",
+            "phone": "8779965728",
+            "email": "propertyinquiry@continentalrealestate.com",
+            "website": "http://www.mls2u.com"
+        },
+        "history": {
+            "2024-09-20": {
+                "event": "Sale Listing",
+                "price": 1575000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-20T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 20
+            }
+        }
+    },
+    {
+        "id": "52-54-Ellington-St,-Boston,-MA-02121",
+        "formattedAddress": "52-54 Ellington St, Boston, MA 02121",
+        "addressLine1": "52-54 Ellington St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.301692,
+        "longitude": -71.083046,
+        "propertyType": "Multi-Family",
+        "bedrooms": 6,
+        "bathrooms": 3,
+        "squareFootage": 3044,
+        "lotSize": 5509,
+        "yearBuilt": 2006,
+        "status": "Active",
+        "price": 899999,
+        "listingType": "Standard",
+        "listedDate": "2024-09-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-27T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:47:19.712Z",
+        "daysOnMarket": 21,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73292103",
+        "listingAgent": {
+            "name": "Donald Walker",
+            "phone": "6179590124",
+            "email": "walkerd0813@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Fathom Realty",
+            "phone": "8884556040"
+        },
+        "history": {
+            "2024-09-19": {
+                "event": "Sale Listing",
+                "price": 899999,
+                "listingType": "Standard",
+                "listedDate": "2024-09-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 21
+            }
+        }
+    },
+    {
+        "id": "431-Dudley-St,-Boston,-MA-02119",
+        "formattedAddress": "431 Dudley St, Boston, MA 02119",
+        "addressLine1": "431 Dudley St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02119",
+        "county": "Suffolk",
+        "latitude": 42.324604,
+        "longitude": -71.074886,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "squareFootage": 2300,
+        "lotSize": 2347,
+        "yearBuilt": 1876,
+        "status": "Active",
+        "price": 895000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-10-18T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:47:19.710Z",
+        "daysOnMarket": 21,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73292582",
+        "listingAgent": {
+            "name": "Monic D'alcantara",
+            "phone": "6174266900",
+            "email": "monicd@gibsonsir.com"
+        },
+        "listingOffice": {
+            "name": "Gibson Sotheby's International Realty",
+            "phone": "6174266901",
+            "email": "info@gibsonsir.com",
+            "website": "http://www.gibsonsothebysrealty.com/"
+        },
+        "history": {
+            "2024-09-19": {
+                "event": "Sale Listing",
+                "price": 895000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 21
+            }
+        }
+    },
+    {
+        "id": "323-325-Quincy-St,-Boston,-MA-02125",
+        "formattedAddress": "323-325 Quincy St, Boston, MA 02125",
+        "addressLine1": "323-325 Quincy St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.311058,
+        "longitude": -71.069906,
+        "propertyType": "Multi-Family",
+        "bedrooms": 7,
+        "bathrooms": 3,
+        "squareFootage": 3309,
+        "lotSize": 2514,
+        "yearBuilt": 1910,
+        "status": "Active",
+        "price": 949000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-24T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-07-07T14:00:01.033Z",
+        "lastSeenDate": "2024-10-09T08:29:19.356Z",
+        "daysOnMarket": 16,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73293888",
+        "listingAgent": {
+            "name": "Ronan Ryan",
+            "phone": "6178239338",
+            "email": "ct009004@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Rgr Sales & Rentals",
+            "phone": "6172758105"
+        },
+        "history": {
+            "2024-09-24": {
+                "event": "Sale Listing",
+                "price": 949000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-24T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 16
+            }
+        }
+    },
+    {
+        "id": "6-Savin-St,-Boston,-MA-02119",
+        "formattedAddress": "6 Savin St, Boston, MA 02119",
+        "addressLine1": "6 Savin St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02119",
+        "county": "Suffolk",
+        "latitude": 42.317446,
+        "longitude": -71.081574,
+        "propertyType": "Multi-Family",
+        "bedrooms": 6,
+        "bathrooms": 3,
+        "squareFootage": 3432,
+        "lotSize": 4369,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 999000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-26T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:29:19.271Z",
+        "daysOnMarket": 15,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73294529",
+        "listingAgent": {
+            "name": "Victor Divine",
+            "phone": "8578292686",
+            "email": "victor.divine@commonmoves.com",
+            "website": "http://www.victordivine.com/"
+        },
+        "listingOffice": {
+            "name": "Berkshire Hathaway Homeservices Commonwealth Real Estate",
+            "phone": "6178644600"
+        },
+        "history": {
+            "2024-09-25": {
+                "event": "Sale Listing",
+                "price": 999000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 15
+            }
+        }
+    },
+    {
+        "id": "75-Maywood,-Boston,-MA-02119",
+        "formattedAddress": "75 Maywood, Boston, MA 02119",
+        "addressLine1": "75 Maywood",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02119",
+        "county": "Suffolk",
+        "latitude": 42.315922,
+        "longitude": -71.078717,
+        "propertyType": "Land",
+        "lotSize": 5285,
+        "status": "Active",
+        "price": 799000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-24T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-25T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:29:19.265Z",
+        "daysOnMarket": 16,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73293927",
+        "listingAgent": {
+            "name": "The Roxbury Collaborative Group"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty - Dorchester",
+            "phone": "6176964430"
+        },
+        "history": {
+            "2024-09-24": {
+                "event": "Sale Listing",
+                "price": 799000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-24T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 16
+            }
+        }
+    },
+    {
+        "id": "61-63-Clifford-St,-Boston,-MA-02119",
+        "formattedAddress": "61-63 Clifford St, Boston, MA 02119",
+        "addressLine1": "61-63 Clifford St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02119",
+        "county": "Suffolk",
+        "latitude": 42.319202,
+        "longitude": -71.078735,
+        "propertyType": "Multi-Family",
+        "bedrooms": 12,
+        "bathrooms": 6,
+        "squareFootage": 5491,
+        "lotSize": 6600,
+        "yearBuilt": 1905,
+        "status": "Active",
+        "price": 1995000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-05T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:29:19.170Z",
+        "daysOnMarket": 14,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73295286",
+        "listingAgent": {
+            "name": "Niko Stafford",
+            "phone": "7748081091",
+            "email": "cn222309@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Crg Commercial",
+            "phone": "6173934200"
+        },
+        "history": {
+            "2024-09-26": {
+                "event": "Sale Listing",
+                "price": 1995000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 14
+            }
+        }
+    },
+    {
+        "id": "61-Clifford-St,-Boston,-MA-02119",
+        "formattedAddress": "61 Clifford St, Boston, MA 02119",
+        "addressLine1": "61 Clifford St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02119",
+        "county": "Suffolk",
+        "latitude": 42.31921,
+        "longitude": -71.078749,
+        "propertyType": "Multi-Family",
+        "bedrooms": 6,
+        "bathrooms": 3,
+        "squareFootage": 2735,
+        "lotSize": 3080,
+        "yearBuilt": 1905,
+        "status": "Active",
+        "price": 999000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-07T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:29:19.150Z",
+        "daysOnMarket": 14,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73295274",
+        "listingAgent": {
+            "name": "Niko Stafford",
+            "phone": "7748081091",
+            "email": "cn222309@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Crg Commercial",
+            "phone": "6173934200"
+        },
+        "history": {
+            "2024-09-26": {
+                "event": "Sale Listing",
+                "price": 999000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 14
+            }
+        }
+    },
+    {
+        "id": "33-Copeland,-Unit-4,-Boston,-MA-02119",
+        "formattedAddress": "33 Copeland, Unit 4, Boston, MA 02119",
+        "addressLine1": "33 Copeland",
+        "addressLine2": "Unit 4",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02119",
+        "county": "Suffolk",
+        "latitude": 42.322102,
+        "longitude": -71.080048,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 2100,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 394
+        },
+        "status": "Active",
+        "price": 899999,
+        "listingType": "New Construction",
+        "listedDate": "2024-09-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-27T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:29:19.096Z",
+        "daysOnMarket": 14,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73294892",
+        "listingAgent": {
+            "name": "Dot Collection",
+            "phone": "7815561703",
+            "email": "tm325586@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Access",
+            "phone": "6178258000"
+        },
+        "history": {
+            "2024-09-26": {
+                "event": "Sale Listing",
+                "price": 899999,
+                "listingType": "New Construction",
+                "listedDate": "2024-09-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 14
+            }
+        }
+    },
+    {
+        "id": "5-Whitby-Ter,-Apt-2,-Boston,-MA-02125",
+        "formattedAddress": "5 Whitby Ter, Apt 2, Boston, MA 02125",
+        "addressLine1": "5 Whitby Ter",
+        "addressLine2": "Apt 2",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.31458,
+        "longitude": -71.060436,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 867,
+        "yearBuilt": 1910,
+        "hoa": {
+            "fee": 195
+        },
+        "status": "Active",
+        "price": 549000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-27T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:29:19.083Z",
+        "daysOnMarket": 14,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73295525",
+        "listingAgent": {
+            "name": "Elizabeth Sampson",
+            "phone": "8609898234",
+            "email": "cn202604@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Burns Realty & Investments",
+            "phone": "8574967187",
+            "email": "adam@burnsrealtyboston.com"
+        },
+        "history": {
+            "2024-09-26": {
+                "event": "Sale Listing",
+                "price": 549000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 14
+            }
+        }
+    },
+    {
+        "id": "20-Gaylord-St,-Unit-1,-Boston,-MA-02124",
+        "formattedAddress": "20 Gaylord St, Unit 1, Boston, MA 02124",
+        "addressLine1": "20 Gaylord St",
+        "addressLine2": "Unit 1",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02124",
+        "county": "Suffolk",
+        "latitude": 42.298286,
+        "longitude": -71.073921,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1200,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 250
+        },
+        "status": "Active",
+        "price": 629900,
+        "listingType": "New Construction",
+        "listedDate": "2024-09-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-27T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:29:19.072Z",
+        "daysOnMarket": 14,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73295566",
+        "listingAgent": {
+            "name": "Steve Daddario",
+            "phone": "8605976089",
+            "email": "cn251173@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Penrose Realty",
+            "phone": "6176701171"
+        },
+        "history": {
+            "2024-09-26": {
+                "event": "Sale Listing",
+                "price": 629900,
+                "listingType": "New Construction",
+                "listedDate": "2024-09-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 14
+            }
+        }
+    },
+    {
+        "id": "335-Norfolk-Ave,-Boston,-MA-02125",
+        "formattedAddress": "335 Norfolk Ave, Boston, MA 02125",
+        "addressLine1": "335 Norfolk Ave",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.321742,
+        "longitude": -71.066434,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1.5,
+        "squareFootage": 1216,
+        "lotSize": 1500,
+        "yearBuilt": 1886,
+        "status": "Active",
+        "price": 499000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-27T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-28T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:28:34.287Z",
+        "daysOnMarket": 13,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73295935",
+        "listingAgent": {
+            "name": "Paul Gannon",
+            "phone": "6172691993",
+            "email": "cn204605@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Law Offices Of Paul J. Gannon",
+            "phone": "6172691993"
+        },
+        "history": {
+            "2024-09-27": {
+                "event": "Sale Listing",
+                "price": 499000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-27T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 13
+            }
+        }
+    },
+    {
+        "id": "121-E-Cottage-St,-Unit-7,-Boston,-MA-02125",
+        "formattedAddress": "121 E Cottage St, Unit 7, Boston, MA 02125",
+        "addressLine1": "121 E Cottage St",
+        "addressLine2": "Unit 7",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.320927,
+        "longitude": -71.064845,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1764,
+        "lotSize": 1764,
+        "yearBuilt": 1895,
+        "hoa": {
+            "fee": 410
+        },
+        "status": "Active",
+        "price": 729000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-01T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-08-10T08:35:56.435Z",
+        "lastSeenDate": "2024-10-09T08:28:34.219Z",
+        "daysOnMarket": 9,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73296675",
+        "listingAgent": {
+            "name": "Ilya Cobi",
+            "phone": "6179436503",
+            "email": "ilya.cobi@raveis.com",
+            "website": "http://cobireteam.raveis.com"
+        },
+        "listingOffice": {
+            "name": "William Raveis Real Estate - Brookline",
+            "phone": "6177317737",
+            "email": "brookline@raveis.com"
+        },
+        "history": {
+            "2024-10-01": {
+                "event": "Sale Listing",
+                "price": 729000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-01T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 9
+            }
+        }
+    },
+    {
+        "id": "10-Ruthven-Park,-Apt-2,-Boston,-MA-02121",
+        "formattedAddress": "10 Ruthven Park, Apt 2, Boston, MA 02121",
+        "addressLine1": "10 Ruthven Park",
+        "addressLine2": "Apt 2",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.313101,
+        "longitude": -71.091682,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1262,
+        "yearBuilt": 2021,
+        "hoa": {
+            "fee": 249
+        },
+        "status": "Active",
+        "price": 599900,
+        "listingType": "Standard",
+        "listedDate": "2024-10-02T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-03T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:28:34.135Z",
+        "daysOnMarket": 8,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73297399",
+        "listingAgent": {
+            "name": "Dot Collection",
+            "phone": "7815561703",
+            "email": "tm325586@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Access",
+            "phone": "6178258000"
+        },
+        "history": {
+            "2024-10-02": {
+                "event": "Sale Listing",
+                "price": 599900,
+                "listingType": "Standard",
+                "listedDate": "2024-10-02T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 8
+            }
+        }
+    },
+    {
+        "id": "39-Hancock-St,-Unit-3,-Boston,-MA-02125",
+        "formattedAddress": "39 Hancock St, Unit 3, Boston, MA 02125",
+        "addressLine1": "39 Hancock St",
+        "addressLine2": "Unit 3",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.314133,
+        "longitude": -71.065842,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1188,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 200
+        },
+        "status": "Active",
+        "price": 699000,
+        "listingType": "New Construction",
+        "listedDate": "2024-10-01T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-07-25T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:28:34.130Z",
+        "daysOnMarket": 9,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73296721",
+        "listingAgent": {
+            "name": "Leavitt + Co Team",
+            "phone": "6172855884",
+            "email": "lcteam@compass.com"
+        },
+        "listingOffice": {
+            "name": "COMPASS",
+            "phone": "6172063333",
+            "email": "listings@compass.com"
+        },
+        "history": {
+            "2024-10-01": {
+                "event": "Sale Listing",
+                "price": 699000,
+                "listingType": "New Construction",
+                "listedDate": "2024-10-01T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 9
+            }
+        }
+    },
+    {
+        "id": "11-Everett-Ave,-Apt-2,-Boston,-MA-02125",
+        "formattedAddress": "11 Everett Ave, Apt 2, Boston, MA 02125",
+        "addressLine1": "11 Everett Ave",
+        "addressLine2": "Apt 2",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.315715,
+        "longitude": -71.06315,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 722,
+        "yearBuilt": 1895,
+        "hoa": {
+            "fee": 210
+        },
+        "status": "Active",
+        "price": 545000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-04T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T07:46:36.166Z",
+        "daysOnMarket": 7,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73298252",
+        "listingAgent": {
+            "name": "Daniel Oleary",
+            "phone": "6175009795",
+            "email": "daniel.oleary@compass.com"
+        },
+        "listingOffice": {
+            "name": "COMPASS",
+            "phone": "6172063333",
+            "email": "listings@compass.com"
+        },
+        "history": {
+            "2024-10-03": {
+                "event": "Sale Listing",
+                "price": 545000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 7
+            }
+        }
+    },
+    {
+        "id": "39-Hancock-St,-Unit-2A,-Boston,-MA-02125",
+        "formattedAddress": "39 Hancock St, Unit 2A, Boston, MA 02125",
+        "addressLine1": "39 Hancock St",
+        "addressLine2": "Unit 2A",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.314133,
+        "longitude": -71.065842,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1188,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 200
+        },
+        "status": "Active",
+        "price": 699000,
+        "listingType": "New Construction",
+        "listedDate": "2024-10-02T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-03T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T07:46:36.154Z",
+        "daysOnMarket": 8,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73297861",
+        "listingAgent": {
+            "name": "Leavitt + Co Team",
+            "phone": "6172855884",
+            "email": "lcteam@compass.com"
+        },
+        "listingOffice": {
+            "name": "COMPASS",
+            "phone": "6172063333",
+            "email": "listings@compass.com"
+        },
+        "history": {
+            "2024-10-02": {
+                "event": "Sale Listing",
+                "price": 699000,
+                "listingType": "New Construction",
+                "listedDate": "2024-10-02T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 8
+            }
+        }
+    },
+    {
+        "id": "137-Geneva-Ave,-Boston,-MA-02121",
+        "formattedAddress": "137 Geneva Ave, Boston, MA 02121",
+        "addressLine1": "137 Geneva Ave",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.305656,
+        "longitude": -71.078029,
+        "propertyType": "Multi-Family",
+        "bedrooms": 12,
+        "bathrooms": 6,
+        "squareFootage": 4146,
+        "lotSize": 3785,
+        "yearBuilt": 1905,
+        "status": "Active",
+        "price": 1500000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-03T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T07:46:36.149Z",
+        "daysOnMarket": 7,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73297945",
+        "listingAgent": {
+            "name": "Eugene Moody",
+            "phone": "6179437735",
+            "email": "nb112336@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Mass Property Llc",
+            "phone": "6175930752"
+        },
+        "history": {
+            "2024-10-03": {
+                "event": "Sale Listing",
+                "price": 1500000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 7
+            }
+        }
+    },
+    {
+        "id": "11-Wilkinson-Park,-Apt-1,-Boston,-MA-02122",
+        "formattedAddress": "11 Wilkinson Park, Apt 1, Boston, MA 02122",
+        "addressLine1": "11 Wilkinson Park",
+        "addressLine2": "Apt 1",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02122",
+        "county": "Suffolk",
+        "latitude": 42.307032,
+        "longitude": -71.06138,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 958,
+        "lotSize": 958,
+        "yearBuilt": 1905,
+        "hoa": {
+            "fee": 150
+        },
+        "status": "Active",
+        "price": 479000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-07T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-07T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T07:46:36.112Z",
+        "daysOnMarket": 3,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73299239",
+        "listingAgent": {
+            "name": "Chris Poulos",
+            "phone": "6172664430",
+            "email": "chris.poulos@cbrealty.com",
+            "website": "https://www.coldwellbankerhomes.com/ma/boston/agent/chris-poulos/aid_223100/"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty",
+            "phone": "6172664430",
+            "email": "ken.tutunjian@nemoves.com",
+            "website": "https://www.coldwellbankerhomes.com//ma/boston/office/boston-back-bay/oid_3808/"
+        },
+        "history": {
+            "2024-10-07": {
+                "event": "Sale Listing",
+                "price": 479000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-07T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 3
+            }
+        }
+    },
+    {
+        "id": "127-E-Cottage-St,-Unit-1,-Boston,-MA-02125",
+        "formattedAddress": "127 E Cottage St, Unit 1, Boston, MA 02125",
+        "addressLine1": "127 E Cottage St",
+        "addressLine2": "Unit 1",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.320947,
+        "longitude": -71.064465,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 582,
+        "yearBuilt": 2021,
+        "hoa": {
+            "fee": 303
+        },
+        "status": "Active",
+        "price": 540000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-07T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-05-11T05:17:15.320Z",
+        "lastSeenDate": "2024-10-09T07:46:36.099Z",
+        "daysOnMarket": 3,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73299564",
+        "listingAgent": {
+            "name": "Brian Quijada",
+            "phone": "9785909921",
+            "email": "cn231450@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "EVO Real Estate Group, LLC",
+            "phone": "6175179755"
+        },
+        "history": {
+            "2024-10-07": {
+                "event": "Sale Listing",
+                "price": 540000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-07T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 3
+            }
+        }
+    },
+    {
+        "id": "25-Howes-St,-Boston,-MA-02125",
+        "formattedAddress": "25 Howes St, Boston, MA 02125",
+        "addressLine1": "25 Howes St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.318211,
+        "longitude": -71.058403,
+        "propertyType": "Multi-Family",
+        "bedrooms": 9,
+        "bathrooms": 3,
+        "squareFootage": 5000,
+        "lotSize": 3473,
+        "yearBuilt": 1905,
+        "status": "Active",
+        "price": 1799000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-09T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T07:46:36.097Z",
+        "daysOnMarket": 2,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73299713",
+        "listingAgent": {
+            "name": "John Lydon",
+            "phone": "6178339807",
+            "email": "nb113302@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "The Dorchester Group, Llc",
+            "phone": "6175060335"
+        },
+        "history": {
+            "2024-10-08": {
+                "event": "Sale Listing",
+                "price": 1799000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 2
+            }
+        }
+    },
+    {
+        "id": "9-Batchelder-St,-Unit-1,-Boston,-MA-02125",
+        "formattedAddress": "9 Batchelder St, Unit 1, Boston, MA 02125",
+        "addressLine1": "9 Batchelder St",
+        "addressLine2": "Unit 1",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.320999,
+        "longitude": -71.069125,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2.5,
+        "squareFootage": 1812,
+        "lotSize": 2588,
+        "yearBuilt": 1890,
+        "hoa": {
+            "fee": 350
+        },
+        "status": "Active",
+        "price": 699000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-09T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-09-15T08:48:45.212Z",
+        "lastSeenDate": "2024-10-09T07:46:36.096Z",
+        "daysOnMarket": 1,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73300054",
+        "listingAgent": {
+            "name": "Amanda Pearce",
+            "phone": "7813928281",
+            "email": "amandapearce@rmxpa.com",
+            "website": "www.amandapearce.rocks"
+        },
+        "listingOffice": {
+            "name": "RE MAX Professional Associates",
+            "phone": "5087994900",
+            "email": "shrewsburyoffice@rmxpa.com",
+            "website": "www.remaxprofassoc.com"
+        },
+        "history": {
+            "2024-10-09": {
+                "event": "Sale Listing",
+                "price": 699000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-09T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 1
+            }
+        }
+    },
+    {
+        "id": "47-Coleman-St,-Boston,-MA-02125",
+        "formattedAddress": "47 Coleman St, Boston, MA 02125",
+        "addressLine1": "47 Coleman St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.308167,
+        "longitude": -71.066536,
+        "propertyType": "Multi-Family",
+        "bedrooms": 6,
+        "bathrooms": 3,
+        "squareFootage": 2300,
+        "lotSize": 1933,
+        "yearBuilt": 1890,
+        "status": "Active",
+        "price": 875000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-19T00:00:00.000Z",
+        "lastSeenDate": "2024-10-08T08:20:02.776Z",
+        "daysOnMarket": 21,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73291889",
+        "listingAgent": {
+            "name": "Robert Lavey",
+            "phone": "6179978685",
+            "email": "cn238838@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Donnelly + Co.",
+            "phone": "6179820160"
+        },
+        "history": {
+            "2024-09-18": {
+                "event": "Sale Listing",
+                "price": 875000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 21
+            }
+        }
+    },
+    {
+        "id": "25-Wolcott-St,-Boston,-MA-02121",
+        "formattedAddress": "25 Wolcott St, Boston, MA 02121",
+        "addressLine1": "25 Wolcott St",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02121",
+        "county": "Suffolk",
+        "latitude": 42.302589,
+        "longitude": -71.082598,
+        "propertyType": "Multi-Family",
+        "bedrooms": 9,
+        "bathrooms": 3,
+        "squareFootage": 4208,
+        "lotSize": 3057,
+        "yearBuilt": 1905,
+        "status": "Active",
+        "price": 995000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-24T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-25T00:00:00.000Z",
+        "lastSeenDate": "2024-10-08T07:48:15.110Z",
+        "daysOnMarket": 15,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73294279",
+        "listingAgent": {
+            "name": "Ronan Ryan",
+            "phone": "6178239338",
+            "email": "ct009004@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Rgr Sales & Rentals",
+            "phone": "6172758105"
+        },
+        "history": {
+            "2024-09-24": {
+                "event": "Sale Listing",
+                "price": 995000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-24T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 15
+            }
+        }
+    },
+    {
+        "id": "39-Juliette-St,-Apt-3,-Boston,-MA-02122",
+        "formattedAddress": "39 Juliette St, Apt 3, Boston, MA 02122",
+        "addressLine1": "39 Juliette St",
+        "addressLine2": "Apt 3",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02122",
+        "county": "Suffolk",
+        "latitude": 42.305414,
+        "longitude": -71.062673,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "squareFootage": 1386,
+        "lotSize": 1386,
+        "yearBuilt": 2007,
+        "hoa": {
+            "fee": 250
+        },
+        "status": "Active",
+        "price": 730000,
+        "listingType": "Standard",
+        "listedDate": "2024-04-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-08-09T00:00:00.000Z",
+        "lastSeenDate": "2024-10-07T10:40:34.887Z",
+        "daysOnMarket": 183,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73221119",
+        "listingAgent": {
+            "name": "Kathy Chapman",
+            "phone": "5088451077",
+            "email": "k8001657@mlspin.net",
+            "website": "http://kathychapman.cbintouch.com"
+        },
+        "listingOffice": {
+            "name": "Paramount Realty Group",
+            "phone": "5088395200",
+            "email": "k8000352@mlspin.net",
+            "website": "thekolissteam.com"
+        },
+        "history": {
+            "2024-04-08": {
+                "event": "Sale Listing",
+                "price": 730000,
+                "listingType": "Standard",
+                "listedDate": "2024-04-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 183
+            }
+        }
+    },
+    {
+        "id": "16-Everett-Ave,-Unit-Gd,-Boston,-MA-02125",
+        "formattedAddress": "16 Everett Ave, Unit Gd, Boston, MA 02125",
+        "addressLine1": "16 Everett Ave",
+        "addressLine2": "Unit Gd",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02125",
+        "county": "Suffolk",
+        "latitude": 42.315086,
+        "longitude": -71.062872,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 468,
+        "lotSize": 468,
+        "yearBuilt": 1968,
+        "hoa": {
+            "fee": 233
+        },
+        "status": "Active",
+        "price": 289000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-03-24T00:00:00.000Z",
+        "lastSeenDate": "2024-10-07T10:26:52.483Z",
+        "daysOnMarket": 61,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73275511",
+        "listingAgent": {
+            "name": "Brett Curry",
+            "phone": "6179692447",
+            "email": "brett.curry@cbrealty.com"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty - Newton",
+            "phone": "7812355115",
+            "email": "marta.malina@cbrealty.com"
+        },
+        "history": {
+            "2024-08-08": {
+                "event": "Sale Listing",
+                "price": 289000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 61
+            }
+        }
+    }
+]

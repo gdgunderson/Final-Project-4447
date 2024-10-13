@@ -1,0 +1,934 @@
+[
+    {
+        "id": "35-Johnny-Rd,-Revere,-MA-02151",
+        "formattedAddress": "35 Johnny Rd, Revere, MA 02151",
+        "addressLine1": "35 Johnny Rd",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.421377,
+        "longitude": -71.023924,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 3.5,
+        "squareFootage": 2652,
+        "lotSize": 8002,
+        "yearBuilt": 1963,
+        "status": "Active",
+        "price": 825000,
+        "listingType": "Standard",
+        "listedDate": "2024-03-21T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-03-22T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:15:29.453Z",
+        "daysOnMarket": 203,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73215042",
+        "listingAgent": {
+            "name": "Anthony Verdone",
+            "phone": "8008447653",
+            "email": "averdone@c21ne.com",
+            "website": "https://www.coldwellbankerhomes.com/ma/arlington/agent/anthony-verdone/aid_151859/"
+        },
+        "listingOffice": {
+            "name": "CENTURY 21 North East",
+            "phone": "8008447653",
+            "email": "rdamico@c21ne.com",
+            "website": "www.c21newengland.com"
+        },
+        "history": {
+            "2024-03-21": {
+                "event": "Sale Listing",
+                "price": 825000,
+                "listingType": "Standard",
+                "listedDate": "2024-03-21T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 203
+            }
+        }
+    },
+    {
+        "id": "350-Squire-Rd,-Revere,-MA-02151",
+        "formattedAddress": "350 Squire Rd, Revere, MA 02151",
+        "addressLine1": "350 Squire Rd",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.42744,
+        "longitude": -71.014732,
+        "propertyType": "Land",
+        "lotSize": 23522,
+        "status": "Active",
+        "price": 3500000,
+        "listingType": "Standard",
+        "listedDate": "2024-05-14T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-05-15T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:00:55.946Z",
+        "daysOnMarket": 149,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73237212",
+        "listingAgent": {
+            "name": "Kevin Benzinger",
+            "phone": "8604247613",
+            "email": "cn216101@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Boston Realty Advisors",
+            "phone": "6175369566",
+            "email": "contact@bradvisors.com",
+            "website": "www.bradvisors.com"
+        },
+        "history": {
+            "2024-05-14": {
+                "event": "Sale Listing",
+                "price": 3500000,
+                "listingType": "Standard",
+                "listedDate": "2024-05-14T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 149
+            }
+        }
+    },
+    {
+        "id": "10-Franklin-Ave,-Apt-305,-Revere,-MA-02151",
+        "formattedAddress": "10 Franklin Ave, Apt 305, Revere, MA 02151",
+        "addressLine1": "10 Franklin Ave",
+        "addressLine2": "Apt 305",
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.406852,
+        "longitude": -71.001218,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 715,
+        "yearBuilt": 2023,
+        "status": "Active",
+        "price": 189999,
+        "listingType": "New Construction",
+        "listedDate": "2024-06-06T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-07T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T12:00:55.893Z",
+        "daysOnMarket": 126,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73248411",
+        "listingAgent": {
+            "name": "Eylen Arbelaez",
+            "phone": "8008447653",
+            "email": "earbelaez@c21ne.com",
+            "website": "http://eylenarbelaez.com"
+        },
+        "listingOffice": {
+            "name": "CENTURY 21 North East",
+            "phone": "8008447653",
+            "email": "rdamico@c21ne.com",
+            "website": "www.c21newengland.com"
+        },
+        "history": {
+            "2024-06-06": {
+                "event": "Sale Listing",
+                "price": 189999,
+                "listingType": "New Construction",
+                "listedDate": "2024-06-06T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 126
+            }
+        }
+    },
+    {
+        "id": "74-Douglas-St,-Unit-1,-Revere,-MA-02151",
+        "formattedAddress": "74 Douglas St, Unit 1, Revere, MA 02151",
+        "addressLine1": "74 Douglas St",
+        "addressLine2": "Unit 1",
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.420461,
+        "longitude": -70.998585,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 2440,
+        "lotSize": 2503,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 195
+        },
+        "status": "Active",
+        "price": 745000,
+        "listingType": "New Construction",
+        "listedDate": "2024-06-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-04-10T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T11:57:40.977Z",
+        "daysOnMarket": 107,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73257012",
+        "listingAgent": {
+            "name": "Pratt Properties Team",
+            "phone": "6174385355",
+            "email": "tm341629@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "CENTURY 21 North East",
+            "phone": "8008447653",
+            "email": "rdamico@c21ne.com",
+            "website": "www.c21newengland.com"
+        },
+        "history": {
+            "2024-06-25": {
+                "event": "Sale Listing",
+                "price": 745000,
+                "listingType": "New Construction",
+                "listedDate": "2024-06-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 107
+            }
+        }
+    },
+    {
+        "id": "10-Franklin-Ave,-Apt-304,-Revere,-MA-02151",
+        "formattedAddress": "10 Franklin Ave, Apt 304, Revere, MA 02151",
+        "addressLine1": "10 Franklin Ave",
+        "addressLine2": "Apt 304",
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.406852,
+        "longitude": -71.001218,
+        "propertyType": "Condo",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 751,
+        "yearBuilt": 2024,
+        "status": "Active",
+        "price": 195000,
+        "listingType": "New Construction",
+        "listedDate": "2024-07-15T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-10-25T09:14:12.197Z",
+        "lastSeenDate": "2024-10-09T11:57:40.916Z",
+        "daysOnMarket": 87,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73264696",
+        "listingAgent": {
+            "name": "Lisa Ferro",
+            "phone": "6172664430",
+            "email": "lisa.ferro@cbrealty.com",
+            "website": "https://www.facebook.com/lisaferro.realestateadvisor"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty",
+            "phone": "6172664430",
+            "email": "ken.tutunjian@nemoves.com",
+            "website": "https://www.coldwellbankerhomes.com//ma/boston/office/boston-back-bay/oid_3808/"
+        },
+        "history": {
+            "2024-07-15": {
+                "event": "Sale Listing",
+                "price": 195000,
+                "listingType": "New Construction",
+                "listedDate": "2024-07-15T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 87
+            }
+        }
+    },
+    {
+        "id": "80-Sagamore-St,-Revere,-MA-02151",
+        "formattedAddress": "80 Sagamore St, Revere, MA 02151",
+        "addressLine1": "80 Sagamore St",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.416617,
+        "longitude": -70.992459,
+        "propertyType": "Multi-Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 1524,
+        "lotSize": 2396,
+        "yearBuilt": 1935,
+        "status": "Active",
+        "price": 775000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-13T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-04-11T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:28:13.338Z",
+        "daysOnMarket": 58,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73277249",
+        "listingAgent": {
+            "name": "Tatiana Gallego",
+            "phone": "6178722252",
+            "email": "tatianagsellshomes@gmail.com",
+            "website": "http://tatianagallego.exprealty.com"
+        },
+        "listingOffice": {
+            "name": "eXp Realty",
+            "phone": "8888547493"
+        },
+        "history": {
+            "2024-08-13": {
+                "event": "Sale Listing",
+                "price": 775000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-13T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 58
+            }
+        }
+    },
+    {
+        "id": "21-Bellevue-Ave,-Unit-1,-Revere,-MA-02151",
+        "formattedAddress": "21 Bellevue Ave, Unit 1, Revere, MA 02151",
+        "addressLine1": "21 Bellevue Ave",
+        "addressLine2": "Unit 1",
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.419511,
+        "longitude": -70.992258,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 1680,
+        "lotSize": 3000,
+        "yearBuilt": 2020,
+        "hoa": {
+            "fee": 100
+        },
+        "status": "Active",
+        "price": 739000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-04-10T10:38:37.375Z",
+        "lastSeenDate": "2024-10-09T10:28:13.238Z",
+        "daysOnMarket": 53,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73279057",
+        "listingAgent": {
+            "name": "Richard Palladino",
+            "phone": "8008447653",
+            "email": "rpalladino@c21ne.com",
+            "website": "http://c21northshore.com/"
+        },
+        "listingOffice": {
+            "name": "CENTURY 21 North East",
+            "phone": "8008447653",
+            "email": "rdamico@c21ne.com",
+            "website": "www.c21newengland.com"
+        },
+        "history": {
+            "2024-08-18": {
+                "event": "Sale Listing",
+                "price": 739000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 53
+            }
+        }
+    },
+    {
+        "id": "74-Douglas-St,-Unit-2,-Revere,-MA-02151",
+        "formattedAddress": "74 Douglas St, Unit 2, Revere, MA 02151",
+        "addressLine1": "74 Douglas St",
+        "addressLine2": "Unit 2",
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.420461,
+        "longitude": -70.998585,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 2503,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 195
+        },
+        "status": "Active",
+        "price": 745000,
+        "listingType": "New Construction",
+        "listedDate": "2024-08-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-04-12T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T10:28:13.232Z",
+        "daysOnMarket": 52,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73279264",
+        "listingAgent": {
+            "name": "Pratt Properties Team",
+            "phone": "6174385355",
+            "email": "tm341629@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "CENTURY 21 North East",
+            "phone": "8008447653",
+            "email": "rdamico@c21ne.com",
+            "website": "www.c21newengland.com"
+        },
+        "history": {
+            "2024-08-19": {
+                "event": "Sale Listing",
+                "price": 745000,
+                "listingType": "New Construction",
+                "listedDate": "2024-08-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 52
+            }
+        }
+    },
+    {
+        "id": "3-Burnham-St,-Unit-1,-Revere,-MA-02151",
+        "formattedAddress": "3 Burnham St, Unit 1, Revere, MA 02151",
+        "addressLine1": "3 Burnham St",
+        "addressLine2": "Unit 1",
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.419589,
+        "longitude": -70.993537,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 2265,
+        "lotSize": 3160,
+        "yearBuilt": 2021,
+        "status": "Active",
+        "price": 789000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-12-13T09:11:04.132Z",
+        "lastSeenDate": "2024-10-09T10:14:29.539Z",
+        "daysOnMarket": 37,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73283808",
+        "listingAgent": {
+            "name": "Michael Briggs",
+            "phone": "7817991738",
+            "email": "cn243045@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Flow Realty, Inc.",
+            "phone": "8887503569",
+            "email": "alex@flow-realty.com"
+        },
+        "history": {
+            "2024-09-03": {
+                "event": "Sale Listing",
+                "price": 789000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 37
+            }
+        }
+    },
+    {
+        "id": "23-Dunn-Rd,-Revere,-MA-02151",
+        "formattedAddress": "23 Dunn Rd, Revere, MA 02151",
+        "addressLine1": "23 Dunn Rd",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.417198,
+        "longitude": -70.99425,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1196,
+        "lotSize": 3200,
+        "yearBuilt": 1960,
+        "status": "Active",
+        "price": 449900,
+        "listingType": "Standard",
+        "listedDate": "2024-09-12T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-12T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:48:16.094Z",
+        "daysOnMarket": 28,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73289027",
+        "listingAgent": {
+            "name": "Maria Babakhanova",
+            "phone": "6179134112",
+            "email": "marianbabakhanova@gmail.com",
+            "website": "http://www.mariarealtyfactory.com"
+        },
+        "listingOffice": {
+            "name": "Redfin Corp.",
+            "phone": "8779733346",
+            "email": "marketing@redfin.com",
+            "website": "www.redfin.com"
+        },
+        "history": {
+            "2024-09-12": {
+                "event": "Sale Listing",
+                "price": 449900,
+                "listingType": "Standard",
+                "listedDate": "2024-09-12T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 28
+            }
+        }
+    },
+    {
+        "id": "110-Randall-Rd,-Revere,-MA-02151",
+        "formattedAddress": "110 Randall Rd, Revere, MA 02151",
+        "addressLine1": "110 Randall Rd",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.422321,
+        "longitude": -71.021276,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1922,
+        "lotSize": 8407,
+        "yearBuilt": 1961,
+        "status": "Active",
+        "price": 750000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-18T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T09:47:19.761Z",
+        "daysOnMarket": 23,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73291256",
+        "listingAgent": {
+            "name": "The Douglas Perrone Team",
+            "phone": "7813830759",
+            "email": "douglasperrone@raveis.com",
+            "website": "http://douglasperrone.raveis.com"
+        },
+        "listingOffice": {
+            "name": "Re/Max Platinum",
+            "phone": "7814841957",
+            "email": "sjonesjr@icloud.com"
+        },
+        "history": {
+            "2024-09-17": {
+                "event": "Sale Listing",
+                "price": 750000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 23
+            }
+        }
+    },
+    {
+        "id": "70-Prospect-Ave,-Revere,-MA-02151",
+        "formattedAddress": "70 Prospect Ave, Revere, MA 02151",
+        "addressLine1": "70 Prospect Ave",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.407577,
+        "longitude": -71.0167,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 2388,
+        "lotSize": 3136,
+        "yearBuilt": 1953,
+        "status": "Active",
+        "price": 750000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-24T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-03-10T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:29:19.260Z",
+        "daysOnMarket": 16,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73294034",
+        "listingAgent": {
+            "name": "Tatiana Gallego",
+            "phone": "6178722252",
+            "email": "tatianagsellshomes@gmail.com",
+            "website": "http://tatianagallego.exprealty.com"
+        },
+        "listingOffice": {
+            "name": "eXp Realty",
+            "phone": "8888547493"
+        },
+        "history": {
+            "2024-09-24": {
+                "event": "Sale Listing",
+                "price": 750000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-24T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 16
+            }
+        }
+    },
+    {
+        "id": "17-Davis-St,-Revere,-MA-02151",
+        "formattedAddress": "17 Davis St, Revere, MA 02151",
+        "addressLine1": "17 Davis St",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.418603,
+        "longitude": -71.007341,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 1.5,
+        "squareFootage": 2237,
+        "lotSize": 3877,
+        "yearBuilt": 1890,
+        "status": "Active",
+        "price": 830000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-26T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T08:29:19.198Z",
+        "daysOnMarket": 15,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73294507",
+        "listingAgent": {
+            "name": "John Barry",
+            "phone": "6174803430",
+            "email": "cn223801@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty",
+            "phone": "7813345700",
+            "email": "julie.chechik@nemoves.com",
+            "website": "https://www.coldwellbankerhomes.com//ma/lynnfield/office/lynnfield/oid_3863/"
+        },
+        "history": {
+            "2024-09-25": {
+                "event": "Sale Listing",
+                "price": 830000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 15
+            }
+        }
+    },
+    {
+        "id": "108-Geneva-St,-Revere,-MA-02151",
+        "formattedAddress": "108 Geneva St, Revere, MA 02151",
+        "addressLine1": "108 Geneva St",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.423621,
+        "longitude": -71.023096,
+        "propertyType": "Multi-Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 2267,
+        "lotSize": 3485,
+        "yearBuilt": 1975,
+        "status": "Active",
+        "price": 829900,
+        "listingType": "Standard",
+        "listedDate": "2024-10-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-03T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T07:46:36.147Z",
+        "daysOnMarket": 7,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73297980",
+        "listingAgent": {
+            "name": "Liliana Monroy",
+            "phone": "6175696044",
+            "email": "lilimonroy@msn.com"
+        },
+        "listingOffice": {
+            "name": "CENTURY 21 Mario Real Estate",
+            "phone": "6175696044",
+            "email": "marioc21@aol.com",
+            "website": "http://homesforsale.century21.com/"
+        },
+        "history": {
+            "2024-10-03": {
+                "event": "Sale Listing",
+                "price": 829900,
+                "listingType": "Standard",
+                "listedDate": "2024-10-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 7
+            }
+        }
+    },
+    {
+        "id": "71-Ambrose-St,-Revere,-MA-02151",
+        "formattedAddress": "71 Ambrose St, Revere, MA 02151",
+        "addressLine1": "71 Ambrose St",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.415819,
+        "longitude": -71.005731,
+        "propertyType": "Multi-Family",
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "squareFootage": 1932,
+        "lotSize": 3790,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 699900,
+        "listingType": "Standard",
+        "listedDate": "2024-10-04T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-05T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T07:46:36.118Z",
+        "daysOnMarket": 6,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73298463",
+        "listingAgent": {
+            "name": "Nicholas Daher",
+            "phone": "9784237782",
+            "email": "nick@broadsoundre.com",
+            "website": "http://www.broadsoundre.com"
+        },
+        "listingOffice": {
+            "name": "Broad Sound Real Estate, Llc",
+            "phone": "9784237782"
+        },
+        "history": {
+            "2024-10-04": {
+                "event": "Sale Listing",
+                "price": 699900,
+                "listingType": "Standard",
+                "listedDate": "2024-10-04T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 6
+            }
+        }
+    },
+    {
+        "id": "140-Reservoir-Ave,-Revere,-MA-02151",
+        "formattedAddress": "140 Reservoir Ave, Revere, MA 02151",
+        "addressLine1": "140 Reservoir Ave",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.409188,
+        "longitude": -71.018745,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1782,
+        "lotSize": 6098,
+        "yearBuilt": 1920,
+        "status": "Active",
+        "price": 624900,
+        "listingType": "Standard",
+        "listedDate": "2024-10-04T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-04T00:00:00.000Z",
+        "lastSeenDate": "2024-10-09T07:46:36.117Z",
+        "daysOnMarket": 6,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73298557",
+        "listingAgent": {
+            "name": "Lauren Boccelli",
+            "phone": "8008447653",
+            "email": "c21laurenb@gmail.com"
+        },
+        "listingOffice": {
+            "name": "CENTURY 21 North East",
+            "phone": "8008447653",
+            "email": "rdamico@c21ne.com",
+            "website": "www.c21newengland.com"
+        },
+        "history": {
+            "2024-10-04": {
+                "event": "Sale Listing",
+                "price": 624900,
+                "listingType": "Standard",
+                "listedDate": "2024-10-04T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 6
+            }
+        }
+    },
+    {
+        "id": "58-Temple-St,-Revere,-MA-02151",
+        "formattedAddress": "58 Temple St, Revere, MA 02151",
+        "addressLine1": "58 Temple St",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.41999,
+        "longitude": -70.999335,
+        "propertyType": "Multi-Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1651,
+        "lotSize": 3485,
+        "yearBuilt": 1982,
+        "status": "Active",
+        "price": 727999,
+        "listingType": "Standard",
+        "listedDate": "2024-08-21T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-22T00:00:00.000Z",
+        "lastSeenDate": "2024-10-08T11:29:29.581Z",
+        "daysOnMarket": 49,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73280350",
+        "listingAgent": {
+            "name": "Josephine Marino",
+            "phone": "8572842734",
+            "email": "cn202890@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Lyv Realty",
+            "phone": "9785338000",
+            "email": "social@lyvrealty.com",
+            "website": "http://www.lyvrealty.com"
+        },
+        "history": {
+            "2024-08-21": {
+                "event": "Sale Listing",
+                "price": 727999,
+                "listingType": "Standard",
+                "listedDate": "2024-08-21T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 49
+            }
+        }
+    },
+    {
+        "id": "21-Elwood-Pl,-Revere,-MA-02151",
+        "formattedAddress": "21 Elwood Pl, Revere, MA 02151",
+        "addressLine1": "21 Elwood Pl",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.405231,
+        "longitude": -71.017446,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "squareFootage": 2963,
+        "lotSize": 7623,
+        "yearBuilt": 1958,
+        "status": "Active",
+        "price": 779000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-03T00:00:00.000Z",
+        "lastSeenDate": "2024-10-08T06:23:45.348Z",
+        "daysOnMarket": 6,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73297975",
+        "listingAgent": {
+            "name": "Melinda Puzon",
+            "phone": "8572341080",
+            "email": "b8000436@mlspin.net"
+        },
+        "listingOffice": {
+            "name": "Mp Signature Realty Llc",
+            "phone": "7813226928"
+        },
+        "history": {
+            "2024-10-03": {
+                "event": "Sale Listing",
+                "price": 779000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 6
+            }
+        }
+    },
+    {
+        "id": "88-Patriot-Pkwy,-Revere,-MA-02151",
+        "formattedAddress": "88 Patriot Pkwy, Revere, MA 02151",
+        "addressLine1": "88 Patriot Pkwy",
+        "addressLine2": null,
+        "city": "Revere",
+        "state": "MA",
+        "zipCode": "02151",
+        "county": "Suffolk",
+        "latitude": 42.421077,
+        "longitude": -71.010447,
+        "propertyType": "Multi-Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 2044,
+        "lotSize": 5009,
+        "yearBuilt": 1920,
+        "status": "Active",
+        "price": 850000,
+        "listingType": "Standard",
+        "listedDate": "2024-09-14T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-14T00:00:00.000Z",
+        "lastSeenDate": "2024-10-07T09:46:27.907Z",
+        "daysOnMarket": 24,
+        "mlsName": "MLSPIN",
+        "mlsNumber": "73290098",
+        "listingAgent": {
+            "name": "Sharon Tallent",
+            "phone": "6179534460",
+            "email": "sharontallent@comcast.net",
+            "website": "http://vow.mlspin.com/default.asp"
+        },
+        "listingOffice": {
+            "name": "COMPASS",
+            "phone": "6172063333",
+            "email": "listings@compass.com"
+        },
+        "history": {
+            "2024-09-14": {
+                "event": "Sale Listing",
+                "price": 850000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-14T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 24
+            }
+        }
+    }
+]
