@@ -109,3 +109,6 @@ webencodings==0.5.1
 websocket-client==1.8.0
 wheel==0.44.0
 xyzservices==2024.9.0
+scikit-learn==1.5.2
+pyarrow==17.0.0
+openpyxl==3.1.5
