@@ -20,12 +20,12 @@ def read_shapefile_save_to_parquet(
     county_gdf = county_gdf.rename({'NAME': 'tract_name'}, axis=1)
 
     # changing the CRS to EPSG:4326, which puts coordinates to degrees
-    county_gdf.to_crs(epsg=4326, inplace=True)
+    county_gdf = county_gdf.to_crs(epsg=4326)
 
     # lower casing all column names
-    cols = county_gdf.columns.tolist()
+    cols = county_gdf.columns
     lower_cols = [col.lower() for col in cols]
-    county_gdf.columns = cols
+    county_gdf.columns = lower_cols
 
     # explode geodataframe
     county_gdf = county_gdf.explode(column='geometry', ignore_index=True, index_parts=False).copy()

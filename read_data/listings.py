@@ -17,8 +17,6 @@ def read_listings(
 
     files = os.listdir(path_to_files)
 
-    print(files)
-
     # make list to store file names
     record_df_list = []
 
