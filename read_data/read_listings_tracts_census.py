@@ -1,6 +1,7 @@
 import pandas as pd
+from read_data.listings_and_tracts import merge_listings_and_tracts
 
-from listings_and_tracts import merge_listings_and_tracts
+
 def read_listings_tracts_census(
         path_to_tracts: str | None = None,
         path_to_listings: str | None = None,
