@@ -6,7 +6,7 @@ GeoPandas geodataframe.
 
 '''
 import geopandas as gpd
-from listings import read_listings
+from read_data.listings import read_listings
 
 
 def read_tracts_parquet(path: str | None = None) -> gpd.GeoDataFrame:
