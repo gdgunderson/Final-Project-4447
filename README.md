@@ -33,17 +33,17 @@ Initial modeling results unimpressive and showed severe signs of overfitting. Af
 ### Results:  
 After outlier removal/hyperparameter tuning, RMSE and mean residuals were significantly reduced in each model. 
 
-Test RMSE
-OLS: 868,696.38 USD
-Tree: 733,867.41 USD
-Random Forest: 641,707.12 USD
-Gradient Boosting: 616,504.17 USD
+Test RMSE  
+OLS: 868,696.38 USD  
+Tree: 733,867.41 USD  
+Random Forest: 641,707.12 USD  
+Gradient Boosting: 616,504.17 USD  
 
-Test Mean Residuals
-OLS: -4,852.56 USD
-Tree: -6,424.10 USD
-Random Forest: 564.67 USD
-Gradient Boosting: -9,522.15 USD
+Test Mean Residuals  
+OLS: -4,852.56 USD  
+Tree: -6,424.10 USD  
+Random Forest: 564.67 USD  
+Gradient Boosting: -9,522.15 USD  
 
 The model with the lowest RMSE was the Gradient Boosting Regressor and was therefore chosen as the final model. Top 3 most important features of final model (in order): square footage, latitude, median monthly housing cost.
 
