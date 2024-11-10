@@ -16,5 +16,35 @@ Distribution analysis was conducted on each feature to determine the appropriate
 Correlation analysis was performed, exposing significant multicollinearity in the data. In an attempt to reduce Multicollinearity, features belonging to feature pairs with absolute correlation values greater than .5 were removed. The feature with the lower correlation value with the target-variable 'price' was removed from each high-correlation feature pair. Finally, each remaining feature was sorted by their absolute correlation with price, and all features with correlation values < .10 were removed from the dataframe. In total, 55 features were removed during this phase and the data frame used for Machine Learning contained 10 features.
 
 Modeling:
+Machine Learning Models Tested:
+1. Linear Regression
+2. Decision Tree Regressor
+3. Random Forest Regressor
+4. Gradient Boosting Regressor
+
+Initial modeling results unimpressive and showed severe signs of overfitting. After unimpressive initial results, IQR was employed to remove the 80 most extreme observations for home price. GridSearchCV was employed to test multiple sets of hyperparameters, returning the best set and perform cross-validation to evalutate model performance - reducing the risk of over/under-fitting.
 
 Results:
+After outlier removal/hyperparameter tuning, RMSE and mean residuals were significantly reduced in each model. 
+
+Test RMSE
+OLS: 868,696.38 USD
+Tree: 733,867.41 USD
+Random Forest: 641,707.12 USD
+Gradient Boosting: 616,504.17 USD
+
+Test Mean Residuals
+OLS: -4,852.56 USD
+Tree: -6,424.10 USD
+Random Forest: 564.67 USD
+Gradient Boosting: -9,522.15 USD
+
+The model with the lowest RMSE was the Gradient Boosting Regressor and was therefore chosen as the final model. Top 3 most important features of final model (in order): square footage, latitude, median monthly housing cost.
+
+
+Conclusion:
+Large Variations in housing price, even among homes located in the same county, present unique challenges when attempting to predict housing prices.
+
+We believe that some of this information will be useful to prospective home-buyers, however, much of the results revealed by our models revealed commonly known information. It is self-evident that larger houses with more square footage are more expensive, and that areas with higher median monthly housing cost, have more expensive housing. Some of the more interesting results were based on location, days on market, and particular zip codes. These are characteristics that are may be less known to the public, and could actually provide some valuable information, although these features do not have as strong an impact on price as square footage.
+
+Although our results were not as transformative as we had hoped, any insights that give homebuyers a slight advantage in the market are valuable. To truly understand the nuances of housing prices and find more affordable options, homebuyers should take a holistic view of the housing market. Prospective buyers should create a thorough list of the housing characteristics that are less important to them. By identifying these areas where they are willing to compromise, they can make smaller sacrifices that collectively lead to substantial cost savings, potentially making their first home purchase possible.
