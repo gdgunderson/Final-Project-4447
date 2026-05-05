@@ -28,7 +28,7 @@ Machine Learning Models Tested:
 3. Random Forest Regressor
 4. Gradient Boosting Regressor
 
-Initial modeling results unimpressive and showed severe signs of overfitting. After unimpressive initial results, IQR was employed to remove the 80 most extreme observations for home price. GridSearchCV was employed to test multiple sets of hyperparameters, returning the best set and perform cross-validation to evalutate model performance - reducing the risk of over/under-fitting.
+Initial modeling results were unimpressive and showed severe signs of overfitting. After unimpressive initial results, IQR was employed to remove the 80 most extreme observations for home price. GridSearchCV was employed to test multiple sets of hyperparameters, returning the best set and perform cross-validation to evaluate model performance - reducing the risk of over/under-fitting.
 
 ### Results:  
 After outlier removal/hyperparameter tuning, RMSE and mean residuals were significantly reduced in each model. 
